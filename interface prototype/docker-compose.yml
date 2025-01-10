@@ -1,0 +1,29 @@
+services:
+  frontend:
+    container_name: spyl_frontend
+    image: node:22-alpine
+    ports:
+      - "3000:3000"
+    command: [ "sh", "-c", "yarn install && yarn run dev" ]
+    working_dir: /usr/src/app
+    volumes:
+      # Mount the source files and folders one-by-one to avoid confusion with the host node_modules folder
+      - ./frontend/app:/usr/src/app
+    depends_on:
+      - backend
+
+  backend:
+    container_name: spyl_backend
+    image: python:3.12-slim-bookworm
+    build:
+      context: ./backend/
+      dockerfile: ./Dockerfile
+    ports:
+      - "8080:8080"
+    command: [ "sh", "-c", "pip install -r /tmp/requirements.txt && python -m uvicorn main:app --host 0.0.0.0 --port 8080 --reload" ]
+    working_dir: /usr/src/app
+    volumes:
+      - ./backend/app:/usr/src/app
+      - ./backend/requirements.txt:/tmp/requirements.txt
+    # depends_on:
+    #   - neo4j

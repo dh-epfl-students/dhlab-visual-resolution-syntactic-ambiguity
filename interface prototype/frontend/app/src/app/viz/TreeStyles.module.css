@@ -1,0 +1,30 @@
+.treesContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  width: 100%;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.treeWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.treeTitle {
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.treeImage {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+} 

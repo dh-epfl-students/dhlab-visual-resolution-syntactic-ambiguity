@@ -1,0 +1,353 @@
+###################################################
+# This is an example pipeline designed to work    #
+# with this helm chart.                           #
+# Please use it and modify it at your discretion. #
+# This example is update with the latest version  #
+# of the helm chart.                              #
+###################################################
+
+
+###########################################
+# INCLUDE EXTERNAL TEMPLATES
+###########################################
+include:
+  - project: 'ou-ivia/generic-helm-chart'
+    ref: main
+    file:
+      - 'gitlab-ci-templates/setup-env-variables.yml'
+      - 'gitlab-ci-templates/define-trigger-rules.yml'
+
+
+###########################################
+# CONFIGURATION
+###########################################
+stages:
+  - prepare
+  - build
+  - build:image
+  - deploy
+  - verify
+  - cleanup
+
+variables:
+  # The suffix of the url (suffix.tld):
+  # feature branches: branch-name.suffix.tld
+  # production:       suffix.tld
+  URL_SUFFIX: sp-yiwliu.ivia.ch
+  #
+  # Set this variable to the length of any pre- or suffixes that are added to the release name
+  # or the URL. This is useful if you create multiple deployments. E.g., if you crete a second
+  # (e.g., redis) and the second deployment is named as ${RELEASE_NAME_PROJECT}-redis and deployed
+  # to ${URL_PREFIX}-redis.${URL_SUFFIX}, then you should set this variable to the length of "-redis",
+  # i.e., 6.
+  RELEASE_NAME_EXTRA_CHARS: 9
+  #
+  # Helm chart name
+  HELM_CHART: oci://${CI_REGISTRY}/ivia-generic-helm-chart/ivia-generic-helm-chart
+  #
+  # Helm chart version
+  HELM_CHART_VERSION: 3.8.12
+  #
+  # Location of Helm's values.yaml
+  HELM_VALUES_LOCATION: ./helm
+  #
+  # Dockerfile location (default in root)
+  DOCKERFILE_LOC: ./Dockerfile
+  #
+  # Docker context (default root)
+  DOCKER_CONTEXT: ./
+  #
+  # Helm Timeout.
+  # Helm will wait until all deployed resources (pods,ingress,etc) show ready state
+  # Increase the timeout if you deploy things that have a long start up time.
+  HELM_TIMEOUT: 10m0s
+  #
+  REPLICA_COUNT_PRODUCTION: 1
+  #
+  REPLICA_COUNT_FB: 1
+  #
+  # The patterns that feature branch names are scanned for to determine if they should be deployed
+  BRANCH_DEPLOYMENT_PATTERN: '/\-(ci|deploy|exec)$/'
+  #
+  # The patterns that commit messages (i.e., a commit's subject and body) are scanned for to determine if a commit on a feature branch should be deployed
+  COMMIT_DEPLOYMENT_PATTERN: '/\[(ci|deploy|exec|CI|DEPLOY|EXEC)\]/'
+  #
+  # The patterns that commit messages (i.e., a commit's subject and body) are scanned for to determine if a commit on a feature branch that is deployed by default should not be deployed
+  COMMIT_NO_DEPLOYMENT_PATTERN: '/\[!(ci|deploy|exec|CI|DEPLOY|EXEC)\]/'
+  #
+  # The pattern that tags are scanned for to determine if they should be deployed
+  VERSION_TAG_PATTERN: '/^v.*/'
+  #
+  # Set image name. This is only set by default if GitLab's Container Registry is enabled for the project.
+  CI_REGISTRY_IMAGE: $CI_REGISTRY/$CI_PROJECT_PATH
+
+
+###########################################
+# BUILD
+###########################################
+
+# place in any build jobs here to compile your code
+# build-angular:
+#   image: node:lts-alpine
+#   stage: build
+#   script:
+#     - npm ci
+#     - npm run-script build -c production --no-progress
+#   artifacts:
+#     paths:
+#       - dist/
+#     expire_in: 1 hour
+#   tags:
+#     - docker
+
+
+###########################################
+# DOCKERIZE
+###########################################
+
+build:image:
+  extends: .deployment-rules-vars
+  stage: build:image
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [ "" ]
+  # Run parallel builds for multi-arch support. See: https://github.com/GoogleContainerTools/kaniko#building-the-separate-container-images
+  parallel:
+    matrix:
+      - APP_LAYER: frontend
+        ARCH:
+          - amd64
+          - arm64
+      - APP_LAYER: backend
+        ARCH:
+          - amd64
+          - arm64
+  tags:
+    - runner-${ARCH}
+  # Sometimes, Azure needs more time to scale the GitLab runner node pool up. Therefore, we set the timeout to 10 minutes.
+  timeout: 10m
+  retry: 2
+  script:
+    # Copy the docker config to the kaniko executor. This config is used to authenticate with the registry.
+    - echo "${DOCKER_REGISTRY_AUTH}" > /kaniko/.docker/config.json
+    - cat /kaniko/.docker/config.json
+    # define the image
+    - IMG="${CI_REGISTRY_IMAGE}:${RELEASE_NAME}-${APP_LAYER}-${ARCH}"
+    # Only build but do not push to registry for feature branches/commits that are not being deployed.
+    - |
+      if [[ "${DEPLOY}" == "true" ]]; then
+        NO_PUSH=""
+      else
+        NO_PUSH="--no-push"
+      fi
+    # build (and push)
+    - >
+      /kaniko/executor
+      --context ${DOCKER_CONTEXT}/${APP_LAYER}
+      --dockerfile $DOCKERFILE_LOC
+      --destination $IMG
+      --no-push-cache
+      $NO_PUSH
+
+# define a job for creating and pushing a merged manifest for multi-arch support. See: https://github.com/GoogleContainerTools/kaniko#merging-the-container-manifests
+build:merge-manifests:
+  extends: .deployment-rules-triggers
+  stage: build:image
+  # all containers must be build before merging them
+  # alternatively the job may be configured to run in a later stage
+  needs:
+    - job: build:image
+      artifacts: false
+    - job: export-environment
+      artifacts: true
+  image:
+    name: mplatform/manifest-tool:alpine
+    entrypoint: [ "" ]
+  parallel:
+    matrix:
+      - APP_LAYER: frontend
+      - APP_LAYER: backend
+  script:
+    - echo $DEPLOY
+    - echo $CI_PROJECT_NAME
+    - echo $RELEASE_NAME
+    - >
+      manifest-tool
+      --username="${CI_REGISTRY_USER}"
+      --password="${CI_REGISTRY_PASSWORD}"
+      push from-args
+      --platforms linux/amd64,linux/arm64
+      --template ${CI_REGISTRY_IMAGE}:${RELEASE_NAME}-${APP_LAYER}-ARCH
+      --target ${CI_REGISTRY_IMAGE}:${RELEASE_NAME}-${APP_LAYER}
+  environment:
+    name: $CI_PROJECT_NAME/$CI_COMMIT_REF_SLUG
+    # Delete image after branch is deleted
+    on_stop: remove-images
+
+###########################################
+# DEPLOY
+###########################################
+
+deploy:
+  extends: .deployment-rules-triggers
+  stage: deploy
+  image:
+    name: alpine/helm:3.14.1
+    entrypoint: [ "bash" ]
+  before_script:
+    - apk add --no-cache bash sed
+  parallel:
+    matrix:
+      - APP_LAYER: frontend
+      - APP_LAYER: backend
+  script:
+    - echo $DEPLOY
+    - echo $HELM_CHART
+    - echo $HELM_CHART_VERSION
+    # Create the URL. For the frontend, it should be "${URL_FULL}", for the backend, it should be "backend.${URL_FULL}".
+    - |
+      if [ "${APP_LAYER}" == "frontend" ]
+      then
+        APP_LAYER_URL="${URL_FULL}"
+      else
+        APP_LAYER_URL="backend.${URL_FULL}"
+      fi
+    # Login helm into docker registry
+    - echo ${CI_REGISTRY_PASSWORD} | helm registry login -u ${CI_REGISTRY_USER} --password-stdin ${CI_REGISTRY}
+    # actually install chart
+    - >
+      helm upgrade
+      ${RELEASE_NAME}-${APP_LAYER}
+      ${HELM_CHART}
+      --version ${HELM_CHART_VERSION}
+      --namespace $K8S_NAMESPACE
+      --kube-context $K8S_CONTEXT
+      --install
+      --atomic
+      -f "${HELM_VALUES_LOCATION}/${APP_LAYER}/values.yaml"
+      --timeout "${HELM_TIMEOUT}"
+      --set app.ingress.url=${APP_LAYER_URL}
+      --set app.replicaCount=${REPLICA_COUNT}
+      --set app.image.repository=${CI_REGISTRY_IMAGE}
+      --set app.image.tag=${RELEASE_NAME}-${APP_LAYER}
+      --set image.host=${CI_REGISTRY}
+  environment:
+    url: https://$URL_FULL
+    name: $CI_PROJECT_NAME/$CI_COMMIT_REF_SLUG
+    # Delete deployment after branch is deleted
+    on_stop: remove-deployment
+
+###########################################
+# VERIFY & DEBUG
+###########################################
+
+verify:
+  extends: .deployment-rules-triggers
+  stage: verify
+  image: curlimages/curl:8.6.0
+  parallel:
+    matrix:
+      - APP_LAYER: frontend
+      - APP_LAYER: backend
+  script:
+    - echo $DEPLOY
+    # Create the URL. For the frontend, it should be "${URL_FULL}", for the backend, it should be "backend.${URL_FULL}".
+    - |
+      if [ "${APP_LAYER}" == "frontend" ]
+      then
+        APP_LAYER_URL="${URL_FULL}"
+      else
+        APP_LAYER_URL="backend.${URL_FULL}"
+      fi
+    - >
+      curl 
+      -v 
+      --fail 
+      --connect-timeout 10 
+      --max-time 10 
+      --retry 20 
+      --retry-delay 10 
+      --retry-max-time 120
+      "${APP_LAYER_URL}"
+  retry: 2
+
+###########################################
+# CLEANUP NEW ENV
+###########################################
+
+.remove-template: &remove-template
+  extends: .cleanup-rules-triggers
+  stage: cleanup
+  variables:
+    GIT_STRATEGY: none
+  environment:
+    name: $CI_PROJECT_NAME/$CI_COMMIT_REF_SLUG
+    action: stop
+  allow_failure: true
+
+remove-deployment:
+  <<: *remove-template
+  image:
+    name: alpine/helm:3.14.1
+    entrypoint: [ "bash" ]
+  before_script:
+    - apk add --no-cache bash curl
+  script:
+    # set default namespace
+    - export HELM_NAMESPACE=${K8S_NAMESPACE}
+    - export HELM_KUBECONTEXT=${K8S_CONTEXT}
+    # delete deployments
+    - helm status ${RELEASE_NAME}-${backend}  && helm delete ${RELEASE_NAME}-frontend  || true
+    - helm status ${RELEASE_NAME}-${backend}  && helm delete ${RELEASE_NAME}-backend  || true
+
+remove-images:
+  <<: *remove-template
+  image:
+    name: mcr.microsoft.com/azure-cli:latest
+  script:
+    # get all tags of the current branch
+    - >
+      export TAGS_TO_DELETE=$(az acr repository show-tags
+      --name ${CI_REGISTRY}
+      --username ${CI_REGISTRY_USER}
+      --password ${CI_REGISTRY_PASSWORD}
+      --repository ${CI_PROJECT_PATH}
+      --only-show-errors
+      --output tsv | grep -E "${RELEASE_NAME}(-amd64|-arm64)?")
+    # delete all tags of the current branch
+    - |
+      for tag in $TAGS_TO_DELETE ; do
+        echo "Deleting tag: ${tag}"
+        az acr repository delete \
+        --name ${CI_REGISTRY} \
+        --username ${CI_REGISTRY_USER} \
+        --password ${CI_REGISTRY_PASSWORD} \
+        --image ${CI_PROJECT_PATH}:${tag} \
+        --only-show-errors \
+        --yes || true
+      done
+    # In the following, we delete all images that have no tag.
+    # This prevents the registry from filling up with orphaned images.
+    # Note that this is done for the whole repo, not just the current branch!
+    # get all digests of dangling images
+    - >
+      export DIGESTS_TO_DELETE=$(az acr manifest list-metadata
+      --name ${CI_PROJECT_PATH}
+      --registry ${CI_REGISTRY}
+      --username ${CI_REGISTRY_USER}
+      --password ${CI_REGISTRY_PASSWORD}
+      --query "[?tags[0]==null].digest"
+      --only-show-errors
+      --output tsv)
+    # delete all dangling images
+    - |
+      for digest in $DIGESTS_TO_DELETE ; do
+        echo "Deleting orphaned image: ${digest}"
+        az acr repository delete \
+        --name ${CI_REGISTRY} \
+        --username ${CI_REGISTRY_USER} \
+        --password ${CI_REGISTRY_PASSWORD} \
+        --image ${CI_PROJECT_PATH}@${digest} \
+        --only-show-errors \
+        --yes || true
+      done

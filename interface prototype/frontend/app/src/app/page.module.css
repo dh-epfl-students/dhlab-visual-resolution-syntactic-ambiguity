@@ -1,0 +1,542 @@
+/* Website page partial styles */
+
+/* Container */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Place content at the top of the page */
+  height: 100vh;
+  padding-top: 20vh; /* Leave some space at the top */
+}
+
+/* Dialogue Box */
+.dialogueBox {
+  border: 2px solid #ccc;
+  padding: 25px;
+  width: 90%; /* Increase width close to full screen */
+  max-width: 1300px; /* Set max width to avoid being too large */
+  font-size: 1.2em;
+  line-height: 2;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  /* max-height: 400px; */
+  overflow: visible;
+  position: relative;
+  padding-top: 20px;
+}
+
+/* Info Box */
+.infoBox {
+  width: 90%;
+  max-width: 1300px;
+  min-height: 200px;
+  height: auto;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: auto;
+}
+
+/* Navigation Bar */
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+.navItem {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navItem:hover {
+  text-decoration: underline;
+}
+
+/* Sentence text */
+.sentenceText {
+  margin-left: 20px;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Navigation buttons container */
+.navigationButtons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* Navigation button styles */
+.navButton {
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  color: white;
+  background-color: #005bb5;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.navButton:hover {
+  background-color: #005bb5;
+}
+
+/* Content Box */
+.contentBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 10px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Left-align text */
+  width: 100%;
+}
+
+/* Lower section */
+.lowerSection {
+  flex: 2;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Image container */
+.imageContainer {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.imageWithText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 48%;
+}
+
+.treeImage {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+}
+
+/* Disambiguation text */
+.disambiguationText {
+  font-size: 14px;
+  text-align: center;
+  padding: 8px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.textBlue {
+  color: #0044cc;
+  background-color: #e0f2ff;
+}
+
+.textGreen {
+  color: #228B22;
+  background-color: #c2e8c2;
+}
+
+/* Right section */
+.rightSection {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  /* Commented out styles, can be enabled if needed */
+  /* background-color: #f9f9f9; */
+  /* border: 1px solid #ddd; */
+  /* border-radius: 8px; */
+  /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); */
+}
+
+/* Button container */
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 10px; /* Increase space between label and buttons */
+  width: 100%; /* Set width to 100% of parent container */
+  max-width: 250px; /* Limit max width */
+}
+
+/* Button styles */
+.button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #005bb5;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #005bb5;
+}
+
+/* Left sidebar */
+.leftSidebar {
+  width: 25%;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-right: 20px;
+  height: 100%; /* Fill height of parent container */
+}
+
+/* White background, grey hover button styles */
+.dataList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.dataList li {
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dataList li:hover {
+  background-color: #e0e0e0;
+}
+
+/* Make dataListHorizontal display horizontally */
+.dataListHorizontal {
+  display: flex;
+  justify-content: space-between; 
+  width: 90%;
+  max-width: 1300px;
+  box-sizing: border-box;
+  margin-bottom: 10px; /* Spacing from text box */
+}
+
+/* Adjust spacing and layout of li in horizontal arrangement */
+.dataListHorizontal li {
+  flex: 1;
+  margin: 0 5px; 
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Added: toggleable and active classes defined here */
+.toggleable {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 5px;
+}
+
+.toggleable:hover {
+  background-color: #e0e0e0;
+}
+
+.toggleable.active {
+  background-color: #005bb5;
+  color: #fff;
+  border: 1px solid #005bb5;
+}
+
+.toggleable.active:hover {
+  background-color: #005bb5;
+}
+
+/* Button group styles */
+.buttonGroup {
+  display: flex;
+  width: 90%;
+  max-width: 1300px; /* Same as dialogueBox */
+  margin-bottom: 10px; /* Leave some space between the button group and dialogue box */
+  box-sizing: border-box;
+}
+
+/* Button styles within button group */
+.buttonGroup button {
+  flex: 1; /* Split available space equally */
+  margin: 0 5px; /* Leave a small gap between buttons */
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid #ccc;
+  background-color: #f9f9f9; 
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.buttonGroup button:hover {
+  background-color: #e0e0e0;
+}
+
+
+/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+/* Highlighting styles */
+
+/* Common highlight style */
+.highlight {
+  background-color: rgba(251, 215, 86, 0.5); /* Light yellow */
+  font-weight: bold;
+  padding: 0 4px;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative; /* Positioning for blue/orange bar and tooltip */
+  transition: background-color 0.3s; /* Smooth transition */
+  line-height: 1.3;  /* Reduce line-height for closer highlight fit */
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.highlight:hover {
+  background-color: rgba(251, 215, 86, 0.9); /* Deepen yellow on hover */
+}
+
+/* Blue highlight style */
+.blueHighlight {
+  background-color: rgba(0, 91, 181, 0.5); /* Blue with 0.5 opacity */
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.blueHighlight:hover {
+  background-color: rgba(0, 91, 181, 0.8); /* Deepen blue on hover */
+}
+
+/* Orange highlight style */
+.extraHighlight {
+  background-color: rgba(255, 133, 27, 0.5); /* Orange with 0.5 opacity */
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.extraHighlight:hover {
+  background-color: rgba(255, 133, 27, 0.8); /* Deepen orange on hover */
+}
+
+/* Blue/Orange bar style */
+.highlightBar {
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  display: flex;
+  z-index: 1;
+}
+
+.highlightBar .bluePart {
+  flex: 1;
+  background-color: #007bff;
+  cursor: pointer;
+}
+
+.highlightBar .orangePart {
+  flex: 1;
+  background-color: #ff851b;
+  cursor: pointer;
+}
+
+/* Tooltip content */
+.tooltipContent {
+  visibility: hidden;
+  width: 200px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  position: absolute;
+  z-index: 2;
+  bottom: 150%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.highlight:hover .tooltipContent {
+  visibility: visible;
+  opacity: 1;
+}
+
+.treesContainer {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-top: 20px;
+}
+
+.treeWrapper {
+  flex: 1;
+  max-width: 500px;
+}
+
+.treeTitle {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.tree {
+  font-family: monospace;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.treeNode {
+  position: relative;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.nodeLabel {
+  display: inline-block;
+  background: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+.nodeChildren {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: 20px;
+}
+
+.nodeChildren::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  width: 0;
+  height: 20px;
+  border-left: 2px solid #333;
+}
+
+.nodeChildren > .treeNode {
+  position: relative;
+  margin: 0 30px;
+  padding: 20px 10px;
+}
+
+.nodeChildren > .treeNode::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 2px;
+  height: 20px;
+  background-color: #333;
+  transform: translateY(-100%);
+}
+
+.nodeChildren > .treeNode::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -15px;
+  right: -15px;
+  height: 2px;
+  background-color: #333;
+  transform: translateY(-20px);
+}
+
+.nodeChildren > .treeNode:first-child::after {
+  left: 50%;
+  right: -15px;
+}
+
+.nodeChildren > .treeNode:last-child::after {
+  left: -15px;
+  right: 50%;
+}
+
+.nodeChildren > .treeNode:only-child::after {
+  display: none;
+}
+
+.leafNode {
+  padding: 5px 10px;
+  background: #e8f4ff;
+  border-radius: 4px;
+  border: 1px solid #b8d8ff;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.introContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  align-items: center;
+  justify-content: center;
+}
+
+.introContentBox {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  width: 60%;
+  max-width: 800px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.sentenceText {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
