@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "He always flaunts his mother's advice to follow his own dreams",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.88433837890625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.88433837890625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.88433837890625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.88433837890625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.884336471557617
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.884336471557617
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.884336471557617
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.884336471557617
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.278343200683594
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.278343200683594
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.278343200683594
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.278343200683594
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.27834129333496
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.27834129333496
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.27834129333496
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 20.27834129333496
+            },
+            {
+                "structure": "(S (NP (PRP He)) (S (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.704021453857422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (S (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.704021453857422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (S (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.704021453857422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (S (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.704021453857422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (ADJP (PRP$ his) (JJ own)) (NNS dreams)))))))",
+                "score": 19.57281494140625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (ADJP (PRP$ his) (JJ own)) (NNS dreams)))))))",
+                "score": 19.57281494140625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (ADJP (PRP$ his) (JJ own)) (NNS dreams)))))))",
+                "score": 19.57281494140625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (ADJP (PRP$ his) (JJ own)) (NNS dreams)))))))",
+                "score": 19.57281494140625
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.552303314208984
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VP (VB follow)) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.39825439453125
+            },
+            {
+                "structure": "(S (NP (PRP He)) (RRC (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.394912719726562
+            },
+            {
+                "structure": "(S (NP (PRP He)) (RRC (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.394912719726562
+            },
+            {
+                "structure": "(S (NP (PRP He)) (RRC (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.394912719726562
+            },
+            {
+                "structure": "(S (NP (PRP He)) (RRC (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.394912719726562
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.384586334228516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.3527889251709
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.3527889251709
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.3527889251709
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams))))))))",
+                "score": 19.3527889251709
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.341909408569336
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (SBAR (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.305490493774414
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303043365478516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303043365478516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303043365478516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303043365478516
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303041458129883
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303041458129883
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303041458129883
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (FRAG (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.303041458129883
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.300945281982422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.300945281982422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.300945281982422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.300945281982422
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.30094337463379
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.30094337463379
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.30094337463379
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (VP (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.30094337463379
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (NP (VBZ flaunts)) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (TO to) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.278406143188477
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (X (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.275161743164062
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246688842773438
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246688842773438
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246688842773438
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246688842773438
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246686935424805
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246686935424805
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246686935424805
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (S (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246686935424805
+            },
+            {
+                "structure": "(S (NP (PRP He)) (ADVP (RB always)) (VP (VBZ flaunts) (NP (NP (PRP$ his) (NNS mother's)) (NN advice) (S (SBAR (TO to)) (VP (VB follow) (NP (PRP$ his) (JJ own) (NNS dreams)))))))",
+                "score": 19.246341705322266
+            }
+        ],
+        "scores": [
+            20.88433837890625,
+            20.88433837890625,
+            20.88433837890625,
+            20.88433837890625,
+            20.884336471557617,
+            20.884336471557617,
+            20.884336471557617,
+            20.884336471557617,
+            20.278343200683594,
+            20.278343200683594,
+            20.278343200683594,
+            20.278343200683594,
+            20.27834129333496,
+            20.27834129333496,
+            20.27834129333496,
+            20.27834129333496,
+            19.704021453857422,
+            19.704021453857422,
+            19.704021453857422,
+            19.704021453857422,
+            19.57281494140625,
+            19.57281494140625,
+            19.57281494140625,
+            19.57281494140625,
+            19.552303314208984,
+            19.552303314208984,
+            19.552303314208984,
+            19.552303314208984,
+            19.552303314208984,
+            19.552303314208984,
+            19.552303314208984,
+            19.552303314208984,
+            19.39825439453125,
+            19.39825439453125,
+            19.39825439453125,
+            19.39825439453125,
+            19.39825439453125,
+            19.39825439453125,
+            19.39825439453125,
+            19.39825439453125,
+            19.394912719726562,
+            19.394912719726562,
+            19.394912719726562,
+            19.394912719726562,
+            19.384586334228516,
+            19.384586334228516,
+            19.384586334228516,
+            19.384586334228516,
+            19.384586334228516,
+            19.384586334228516,
+            19.384586334228516,
+            19.384586334228516,
+            19.3527889251709,
+            19.3527889251709,
+            19.3527889251709,
+            19.3527889251709,
+            19.341909408569336,
+            19.341909408569336,
+            19.341909408569336,
+            19.341909408569336,
+            19.341909408569336,
+            19.341909408569336,
+            19.341909408569336,
+            19.341909408569336,
+            19.305490493774414,
+            19.305490493774414,
+            19.305490493774414,
+            19.305490493774414,
+            19.305490493774414,
+            19.305490493774414,
+            19.305490493774414,
+            19.305490493774414,
+            19.303043365478516,
+            19.303043365478516,
+            19.303043365478516,
+            19.303043365478516,
+            19.303041458129883,
+            19.303041458129883,
+            19.303041458129883,
+            19.303041458129883,
+            19.300945281982422,
+            19.300945281982422,
+            19.300945281982422,
+            19.300945281982422,
+            19.30094337463379,
+            19.30094337463379,
+            19.30094337463379,
+            19.30094337463379,
+            19.278406143188477,
+            19.278406143188477,
+            19.278406143188477,
+            19.278406143188477,
+            19.278406143188477,
+            19.278406143188477,
+            19.278406143188477,
+            19.278406143188477,
+            19.275161743164062,
+            19.275161743164062,
+            19.275161743164062,
+            19.275161743164062,
+            19.275161743164062,
+            19.275161743164062,
+            19.275161743164062,
+            19.275161743164062,
+            19.246688842773438,
+            19.246688842773438,
+            19.246688842773438,
+            19.246688842773438,
+            19.246686935424805,
+            19.246686935424805,
+            19.246686935424805,
+            19.246686935424805,
+            19.246341705322266
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .  # 指定 Dockerfile 的位置
+      dockerfile: Dockerfile
+    image: your_image_name
+    volumes:
+      - .:/app  # 将当前目录挂载到容器的 /app 文件夹
+    ports:
+      - "8888:8888"  # 映射端口（根据需要修改）
+    environment:
+      - PYTHONUNBUFFERED=1

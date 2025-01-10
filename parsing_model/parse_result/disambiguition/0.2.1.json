@@ -1,0 +1,1148 @@
+[
+    {
+        "sentence": "The hospital is being sued by six doctors who specialize in treating foot-related medical issues",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 38.20800018310547
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 38.20800018310547
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 37.61894989013672
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 37.61894989013672
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (SBAR (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.833030700683594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (SBAR (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.833030700683594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.81466293334961
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.81466293334961
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (NP (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.727325439453125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (NP (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.727325439453125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.72216796875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.72216796875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (FRAG (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.70390701293945
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (FRAG (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.70390701293945
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.67805480957031
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.67805480957031
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (S (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.626407623291016
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (S (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.626407623291016
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.62218475341797
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.62218475341797
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (FRAG (VBZ is)) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.61366653442383
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (FRAG (VBZ is)) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.61366653442383
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (FRAG (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.593875885009766
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (FRAG (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.593875885009766
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (FRAG (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.58940505981445
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (FRAG (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.58940505981445
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.58475112915039
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.58475112915039
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.573997497558594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.573997497558594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (ADJP (JJ foot-related) (JJ medical)) (NNS issues))))))))))))",
+                "score": 36.56686782836914
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (PRN (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.551937103271484
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (PRN (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.551937103271484
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (SBAR (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.54495620727539
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (SBAR (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.54495620727539
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (X (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.53721618652344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (X (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.53721618652344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (PRN (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.52808380126953
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (PRN (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.52808380126953
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.52801513671875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.52801513671875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.51948928833008
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.51948928833008
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (ADJP (CD six)) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.51841354370117
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (ADJP (CD six)) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.51841354370117
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (X (NNS issues)))))))))))))",
+                "score": 36.5141487121582
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (X (NNS issues)))))))))))))",
+                "score": 36.5141487121582
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (ADVP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.504234313964844
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (ADVP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.504234313964844
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (NP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.50345230102539
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (NP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.50345230102539
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.481746673583984
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.481746673583984
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (S (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.480838775634766
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (S (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.480838775634766
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (VP (NNS issues)))))))))))))",
+                "score": 36.48043441772461
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (VP (NNS issues)))))))))))))",
+                "score": 36.48043441772461
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (ADVP (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.475311279296875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (ADVP (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.475311279296875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (RRC (NNS issues)))))))))))))",
+                "score": 36.46807861328125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (RRC (NNS issues)))))))))))))",
+                "score": 36.46807861328125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (SQ (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.46541976928711
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (SQ (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.46541976928711
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (S (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.46506881713867
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (S (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.46506881713867
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (PP (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.45875930786133
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (PP (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.45875930786133
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (S (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.45234680175781
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (S (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.45234680175781
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (X (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.4495964050293
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (X (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.4495964050293
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (FRAG (JJ foot-related)) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.448150634765625
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (FRAG (JJ foot-related)) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.448150634765625
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (ADVP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.447818756103516
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (ADVP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.447818756103516
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (X (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43775177001953
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (X (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43775177001953
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (PRN (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43719482421875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (PRN (VBG treating)) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43719482421875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43690872192383
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43690872192383
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (RRC (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43601989746094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (RRC (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.43601989746094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.433101654052734
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (FRAG (NNS issues)))))))))))))",
+                "score": 36.433101654052734
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (INTJ (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.430850982666016
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (INTJ (VBP specialize)) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.430850982666016
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (X (NNS issues)))))))))))))",
+                "score": 36.42988967895508
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (X (NNS issues)))))))))))))",
+                "score": 36.42988967895508
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (S (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.42917251586914
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (S (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.42917251586914
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (WHPP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.427730560302734
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (WHPP (IN in)) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.427730560302734
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (ADJP (JJ foot-related)) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.42735290527344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (ADJP (JJ foot-related)) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.42735290527344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (VP (NNS issues)))))))))))))",
+                "score": 36.42454147338867
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (VP (NNS issues)))))))))))))",
+                "score": 36.42454147338867
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (QP (CD six)) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.41780090332031
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (QP (CD six)) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.41780090332031
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (PRN (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.41763687133789
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (PRN (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.41763687133789
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (NP (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.41358184814453
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (NP (IN by)) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.41358184814453
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (VP (JJ foot-related)) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.40869903564453
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (VP (JJ foot-related)) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.40869903564453
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NX (NNS issues)))))))))))))",
+                "score": 36.408451080322266
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NX (NNS issues)))))))))))))",
+                "score": 36.408451080322266
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (WHNP (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.4075813293457
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (WHNP (VBN sued)) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.4075813293457
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (PRN (VBZ is)) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.40568923950195
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (PRN (VBZ is)) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NNS issues))))))))))))",
+                "score": 36.40568923950195
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NP (NNS issues)))))))))))))",
+                "score": 36.40564727783203
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VBP specialize) (PP (IN in) (S (VBG treating) (NP (JJ foot-related) (JJ medical) (NP (NNS issues)))))))))))))",
+                "score": 36.40564727783203
+            }
+        ],
+        "scores": [
+            38.20800018310547,
+            38.20800018310547,
+            37.61894989013672,
+            37.61894989013672,
+            36.833030700683594,
+            36.833030700683594,
+            36.81466293334961,
+            36.81466293334961,
+            36.727325439453125,
+            36.727325439453125,
+            36.72216796875,
+            36.72216796875,
+            36.70390701293945,
+            36.70390701293945,
+            36.67805480957031,
+            36.67805480957031,
+            36.626407623291016,
+            36.626407623291016,
+            36.62218475341797,
+            36.62218475341797,
+            36.61366653442383,
+            36.61366653442383,
+            36.593875885009766,
+            36.593875885009766,
+            36.58940505981445,
+            36.58940505981445,
+            36.58475112915039,
+            36.58475112915039,
+            36.573997497558594,
+            36.573997497558594,
+            36.56686782836914,
+            36.551937103271484,
+            36.551937103271484,
+            36.54495620727539,
+            36.54495620727539,
+            36.53721618652344,
+            36.53721618652344,
+            36.52808380126953,
+            36.52808380126953,
+            36.52801513671875,
+            36.52801513671875,
+            36.51948928833008,
+            36.51948928833008,
+            36.51841354370117,
+            36.51841354370117,
+            36.5141487121582,
+            36.5141487121582,
+            36.504234313964844,
+            36.504234313964844,
+            36.50345230102539,
+            36.50345230102539,
+            36.481746673583984,
+            36.481746673583984,
+            36.480838775634766,
+            36.480838775634766,
+            36.48043441772461,
+            36.48043441772461,
+            36.475311279296875,
+            36.475311279296875,
+            36.46807861328125,
+            36.46807861328125,
+            36.46541976928711,
+            36.46541976928711,
+            36.46506881713867,
+            36.46506881713867,
+            36.45875930786133,
+            36.45875930786133,
+            36.45234680175781,
+            36.45234680175781,
+            36.4495964050293,
+            36.4495964050293,
+            36.448150634765625,
+            36.448150634765625,
+            36.447818756103516,
+            36.447818756103516,
+            36.43775177001953,
+            36.43775177001953,
+            36.43719482421875,
+            36.43719482421875,
+            36.43690872192383,
+            36.43690872192383,
+            36.43601989746094,
+            36.43601989746094,
+            36.433101654052734,
+            36.433101654052734,
+            36.430850982666016,
+            36.430850982666016,
+            36.42988967895508,
+            36.42988967895508,
+            36.42917251586914,
+            36.42917251586914,
+            36.427730560302734,
+            36.427730560302734,
+            36.42735290527344,
+            36.42735290527344,
+            36.42454147338867,
+            36.42454147338867,
+            36.41780090332031,
+            36.41780090332031,
+            36.41763687133789,
+            36.41763687133789,
+            36.41358184814453,
+            36.41358184814453,
+            36.40869903564453,
+            36.40869903564453,
+            36.408451080322266,
+            36.408451080322266,
+            36.4075813293457,
+            36.4075813293457,
+            36.40568923950195,
+            36.40568923950195,
+            36.40564727783203,
+            36.40564727783203
+        ]
+    },
+    {
+        "sentence": "The hospital is being sued by six doctors, each of whom is six feet tall",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 34.98838806152344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 34.98838806152344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 34.88231658935547
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 34.88231658935547
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.73533248901367
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.676856994628906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.676856994628906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.676856994628906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.676856994628906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.63093566894531
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.63093566894531
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.63026428222656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.63026428222656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.6292610168457
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.606693267822266
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.606693267822266
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.58680725097656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.58680725097656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.57090377807617
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.57090377807617
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.57078552246094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.57078552246094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.57078552246094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (CD six) (NNS feet) (JJ tall))))))))))",
+                "score": 33.57078552246094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (SBAR (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.561737060546875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.550621032714844
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.550621032714844
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.528114318847656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.528114318847656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.524864196777344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.524864196777344
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.524192810058594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.524192810058594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.524105072021484
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.524105072021484
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.514434814453125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.514434814453125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.480735778808594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.480735778808594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NX (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.471923828125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (SQ (VBZ is)) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.462554931640625
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (SQ (VBZ is)) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.462554931640625
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (X (JJ tall)))))))))))",
+                "score": 33.46080017089844
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (X (JJ tall)))))))))))",
+                "score": 33.46080017089844
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (SBAR (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.455665588378906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.45457458496094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.45457458496094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.44606018066406
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.44606018066406
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.444549560546875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.444549560546875
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.43265914916992
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.43265914916992
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (VP (JJ tall)))))))))))",
+                "score": 33.423866271972656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (VP (JJ tall)))))))))))",
+                "score": 33.423866271972656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.42204284667969
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.42204284667969
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.418033599853516
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.418033599853516
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (S (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.41773223876953
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (S (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.41773223876953
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.413352966308594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.413352966308594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.408363342285156
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.408363342285156
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (FRAG (NNS feet))) (JJ tall))))))))))",
+                "score": 33.393699645996094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (FRAG (NNS feet))) (JJ tall))))))))))",
+                "score": 33.393699645996094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.392940521240234
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.392940521240234
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (PRN (IN of)) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.38587951660156
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (PRN (IN of)) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.38587951660156
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.38164138793945
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.38164138793945
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.3781623840332
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.3781623840332
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (X (JJ tall)))))))))))",
+                "score": 33.375953674316406
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (X (JJ tall)))))))))))",
+                "score": 33.375953674316406
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (VP (JJ tall)))))))))))",
+                "score": 33.367698669433594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (VP (JJ tall)))))))))))",
+                "score": 33.367698669433594
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NX (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.36585235595703
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WP whom))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.36405944824219
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WP whom))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.36405944824219
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (S (JJ tall)))))))))))",
+                "score": 33.36186599731445
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (S (JJ tall)))))))))))",
+                "score": 33.36186599731445
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (SQ (VBZ is)) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.356483459472656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (SQ (VBZ is)) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.356483459472656
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (X (JJ tall)))))))))))",
+                "score": 33.35472869873047
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (X (JJ tall)))))))))))",
+                "score": 33.35472869873047
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.352386474609375
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.352386474609375
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NP (NNS feet))) (JJ tall))))))))))",
+                "score": 33.351173400878906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NP (NNS feet))) (JJ tall))))))))))",
+                "score": 33.351173400878906
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.34850311279297
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.34850311279297
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (NP (JJ tall)))))))))))",
+                "score": 33.34161376953125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (NP (JJ tall)))))))))))",
+                "score": 33.34161376953125
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.340309143066406
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (FRAG (JJ tall)))))))))))",
+                "score": 33.340309143066406
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.339988708496094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.339988708496094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (S (JJ tall)))))))))))",
+                "score": 33.33435821533203
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (S (JJ tall)))))))))))",
+                "score": 33.33435821533203
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.32658767700195
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.32658767700195
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (PP (JJ tall)))))))))))",
+                "score": 33.32585144042969
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (PP (JJ tall)))))))))))",
+                "score": 33.32585144042969
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (UCP (CD six) (CD doctors,)) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.325435638427734
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (QP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.32322692871094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (QP (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.32322692871094
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (VP (JJ tall)))))))))))",
+                "score": 33.31779479980469
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (VP (JJ tall)))))))))))",
+                "score": 33.31779479980469
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (FRAG (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.317787170410156
+            },
+            {
+                "structure": "(S (NP (DT The) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (FRAG (CD six)) (CD doctors,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP whom)))) (S (VBZ is) (ADJP (NP (CD six) (NNS feet)) (JJ tall))))))))))",
+                "score": 33.317787170410156
+            }
+        ],
+        "scores": [
+            34.98838806152344,
+            34.98838806152344,
+            34.88231658935547,
+            34.88231658935547,
+            33.73533248901367,
+            33.676856994628906,
+            33.676856994628906,
+            33.676856994628906,
+            33.676856994628906,
+            33.63093566894531,
+            33.63093566894531,
+            33.63026428222656,
+            33.63026428222656,
+            33.6292610168457,
+            33.606693267822266,
+            33.606693267822266,
+            33.58680725097656,
+            33.58680725097656,
+            33.57090377807617,
+            33.57090377807617,
+            33.57078552246094,
+            33.57078552246094,
+            33.57078552246094,
+            33.57078552246094,
+            33.561737060546875,
+            33.550621032714844,
+            33.550621032714844,
+            33.528114318847656,
+            33.528114318847656,
+            33.524864196777344,
+            33.524864196777344,
+            33.524192810058594,
+            33.524192810058594,
+            33.524105072021484,
+            33.524105072021484,
+            33.514434814453125,
+            33.514434814453125,
+            33.480735778808594,
+            33.480735778808594,
+            33.471923828125,
+            33.462554931640625,
+            33.462554931640625,
+            33.46080017089844,
+            33.46080017089844,
+            33.455665588378906,
+            33.45457458496094,
+            33.45457458496094,
+            33.44606018066406,
+            33.44606018066406,
+            33.444549560546875,
+            33.444549560546875,
+            33.43265914916992,
+            33.43265914916992,
+            33.423866271972656,
+            33.423866271972656,
+            33.42204284667969,
+            33.42204284667969,
+            33.418033599853516,
+            33.418033599853516,
+            33.41773223876953,
+            33.41773223876953,
+            33.413352966308594,
+            33.413352966308594,
+            33.408363342285156,
+            33.408363342285156,
+            33.393699645996094,
+            33.393699645996094,
+            33.392940521240234,
+            33.392940521240234,
+            33.38587951660156,
+            33.38587951660156,
+            33.38164138793945,
+            33.38164138793945,
+            33.3781623840332,
+            33.3781623840332,
+            33.375953674316406,
+            33.375953674316406,
+            33.367698669433594,
+            33.367698669433594,
+            33.36585235595703,
+            33.36405944824219,
+            33.36405944824219,
+            33.36186599731445,
+            33.36186599731445,
+            33.356483459472656,
+            33.356483459472656,
+            33.35472869873047,
+            33.35472869873047,
+            33.352386474609375,
+            33.352386474609375,
+            33.351173400878906,
+            33.351173400878906,
+            33.34850311279297,
+            33.34850311279297,
+            33.34161376953125,
+            33.34161376953125,
+            33.340309143066406,
+            33.340309143066406,
+            33.339988708496094,
+            33.339988708496094,
+            33.33435821533203,
+            33.33435821533203,
+            33.32658767700195,
+            33.32658767700195,
+            33.32585144042969,
+            33.32585144042969,
+            33.325435638427734,
+            33.32322692871094,
+            33.32322692871094,
+            33.31779479980469,
+            33.31779479980469,
+            33.317787170410156,
+            33.317787170410156
+        ]
+    }
+]

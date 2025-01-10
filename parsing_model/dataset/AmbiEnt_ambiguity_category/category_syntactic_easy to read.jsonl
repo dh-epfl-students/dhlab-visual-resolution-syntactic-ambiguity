@@ -1,0 +1,85 @@
+{"id": "72_c", 
+"premise": "An enranged cow injured a farmer with an ax.", 
+"hypothesis": "The ax was used to injure the farmer.", 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, "labels": null, "disambiguations": "[]"}
+
+{"id": "77_c", 
+"premise": "He sightread the piece with a lot of F naturals.", 
+"hypothesis": "The piece contains a lot of F naturals.", 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, 
+"labels": null, 
+"disambiguations": 
+    "[{'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He sightread the piece that contains a lot of F naturals.', 'label': None}, 
+    {'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He played a lot of F naturals when sightreading the piece.', 'label': None}]"}
+
+{"id": "73_c", 
+"premise": "The hospital is being sued by six foot doctors.", 
+"hypothesis": "Six doctors are suing the hospital.", 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, "labels": "entailment, neutral", 
+"disambiguations": 
+    "[{'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by six podiatrists.', 'label': None},
+     {'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by doctors who are six feet tall.', 'label': None}]"}
+
+{"id": "44_c", "premise": "The professor said on Monday he would give an exam.", 
+"hypothesis": "The professor said the exam will be on Monday.", 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, 
+"labels": "neutral, entailment", 
+"disambiguations": 
+    "[{'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said on Monday that he would give an exam.', 'label': None}, 
+    {'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said that on Monday, he would give an exam.', 'label': None}]"}
+
+{"id": "16733_g", 
+"premise": "Even though he was failing, he refused to give up.", 
+"hypothesis": "He refused to give up because he was failing.", 
+"category": "syntactic", 
+"premise_ambiguous": false, 
+"hypothesis_ambiguous": true, 
+"labels": "entailment, contradiction", 
+"disambiguations": 
+    "[{'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up as a result of his failing.', 'label': 'entailment'}, 
+    {'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up, because he was failing.', 'label': 'contradiction'}]"}
+
+{"id": "64_c", 
+    "premise": "He always flaunts his mother's advice to follow his own dreams.", 
+    "hypothesis": null, 
+    "category": "syntactic", 
+    "premise_ambiguous": true, 
+    "hypothesis_ambiguous": false, 
+    "labels": null, 
+    "disambiguations": 
+        "[{'hypothesis': None, 'premise': \"He always flaunts his mother's advice, in order to follow his own dreams instead.\", 'label': None}, 
+        {'hypothesis': None, 'premise': \"He always flaunts his mother's advice, which is to follow his own dreams.\", 'label': None}]"}
+
+{"id": "18_c", 
+"premise": "This seminar is full now, but interesting seminars are being offered next quarter too.", 
+"hypothesis": "There will be more interesting seminars next quarter.", 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, 
+"labels": "entailment, neutral", 
+"disambiguations": "[]"}
+
+{"id": "93_c", 
+"premise": "I would like to finish the book sometime this year.", 
+"hypothesis": "I am writing a book.", 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, 
+"labels": null, 
+"disambiguations": "[]"}
+
+{"id": "131_c", 
+"premise": "I don\u2019t know if she is a US citizen or Green Card holder.", 
+"hypothesis": null, 
+"category": "syntactic", 
+"premise_ambiguous": true, 
+"hypothesis_ambiguous": false, 
+"labels": null, "disambiguations": "[]"}

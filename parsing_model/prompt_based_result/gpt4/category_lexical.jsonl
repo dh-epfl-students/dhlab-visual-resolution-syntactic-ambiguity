@@ -1,0 +1,394 @@
+{
+  "id": "69_c",
+  "premise": "Your boss is a funny man.",
+  "hypothesis": null,
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': 'Your boss is a peculiar man.', 'label': None}, {'hypothesis': None, 'premise': 'Your boss is a humorous man.', 'label': None}]",
+  "gpt_category": "The sentence “Your boss is a funny man” exhibits lexical ambiguity. The word “funny” can be interpreted in multiple ways, each with a distinct meaning. It could mean that the boss is humorous, amusing people with jokes or behavior, or it could mean that the boss is odd or strange in some way. Therefore, without further context, it is unclear which specific meaning of “funny” is intended, making this a case of lexical ambiguity."
+}
+
+{
+  "id": "92619_g",
+  "premise": "The assertion that the theory is flawed is based on a misunderstanding of the evidence.",
+  "hypothesis": "The theory is flawed.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, contradiction",
+  "disambiguations": "[{'premise': 'A particular assertion that the theory is flawed is based on a misunderstanding of the evidence.', 'hypothesis': 'The theory is flawed.', 'label': 'neutral'}, {'premise': 'Any assertion that the theory is flawed is based on a misunderstanding of the evidence.', 'hypothesis': 'The theory is flawed.', 'label': 'contradiction'}]",
+  "gpt_category": "You’re right to question the initial classification. Upon closer examination, the sentence “The assertion that the theory is flawed is based on a misunderstanding of the evidence” actually exhibits lexical ambiguity rather than syntactic ambiguity.
+
+The ambiguity lies in the phrase “based on.” This phrase can have two different interpretations:
+
+	1.	Interpretation 1: “Based on” refers to the assertion itself, meaning that the assertion that the theory is flawed is what is based on a misunderstanding of the evidence. In this case, the misunderstanding is about the evidence, which then leads to the flawed assertion.
+	2.	Interpretation 2: “Based on” could imply that the theory itself is flawed because the theory is based on a misunderstanding of the evidence.
+
+The ambiguity arises because the phrase “based on” could refer to either the act of asserting (the assertion is based on a misunderstanding) or the foundation of the theory (the theory is based on a misunderstanding). Therefore, the correct classification is lexical ambiguity because the ambiguity centers around the meaning and reference of the phrase “based on.”"
+}
+
+{
+  "id": "103217_g",
+  "premise": "The study found that children who were read to more frequently had better reading comprehension skills.",
+  "hypothesis": "Reading to children frequently leads to better reading comprehension skills.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'The study demonstrated that children who were read to more frequently had better reading comprehension skills.', 'hypothesis': 'Reading to children frequently leads to better reading comprehension skills.', 'label': 'entailment'}, {'premise': 'The study concluded that children who were read to more frequently had better reading comprehension skills.', 'hypothesis': 'Reading to children frequently leads to better reading comprehension skills.', 'label': 'neutral'}]",
+  "gpt_category": "You’re correct to prompt a recheck. The sentence “The study found that children who were read to more frequently had better reading comprehension skills” does not exhibit scopal ambiguity but rather collective/distributive ambiguity.
+
+Here’s why:
+
+The ambiguity lies in how we interpret “children who were read to more frequently”:
+
+	1.	Collective Interpretation: The statement could be interpreted collectively, meaning that as a group, children who were read to more frequently had better reading comprehension skills.
+	2.	Distributive Interpretation: Alternatively, it could be interpreted distributively, meaning that within the group of children, those individual children who were read to more frequently had better reading comprehension skills compared to those who were read to less frequently.
+
+This type of ambiguity arises from whether the sentence is referring to the children as a collective group or to individual children within the group. Therefore, the correct classification is collective/distributive ambiguity."
+}
+
+{
+  "id": "82_c",
+  "premise": "The speaker is at the front of the room.",
+  "hypothesis": null,
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': 'The loudspeaker is at the front of the room.', 'label': None}, {'hypothesis': None, 'premise': 'The person delivering a speech is at the front of the room.', 'label': None}]",
+  "gpt_category": "The sentence “The speaker is at the front of the room” exhibits lexical ambiguity.
+
+The word “front” in this context can have multiple interpretations:
+
+	1.	Interpretation 1: “Front” could refer to the part of the room that is generally considered the front, such as where a stage or podium might be, typically where speakers stand during presentations.
+	2.	Interpretation 2: “Front” could also mean the area of the room that is in front of the speaker from their perspective, which could vary depending on the room’s layout.
+
+This ambiguity arises because “front” can refer to different locations depending on the context, making it a case of lexical ambiguity."
+}
+
+{
+  "id": "75278_g",
+  "premise": "He's not very well off.",
+  "hypothesis": "He's not very wealthy.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': \"He's not very financially well off.\", 'hypothesis': \"He's not very wealthy.\", 'label': 'entailment'}, {'premise': \"He's not in a very good situation.\", 'hypothesis': \"He's not very wealthy.\", 'label': 'neutral'}]",
+  "gpt_category": "The sentence “He’s not very well off” exhibits lexical ambiguity.
+
+The ambiguity arises from the phrase “well off,” which can have multiple meanings:
+
+	1.	Interpretation 1: “Well off” could refer to financial status, meaning that the person is not wealthy or does not have much money.
+	2.	Interpretation 2: “Well off” could also refer to general well-being, meaning that the person might not be in good health or in a favorable situation overall.
+
+Since the phrase “well off” can have different meanings depending on the context, this is an example of lexical ambiguity."
+}
+
+{
+  "id": "58_c",
+  "premise": "John and Anna are married.",
+  "hypothesis": null,
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': 'John and Anna are both married.', 'label': None}, {'hypothesis': None, 'premise': 'John and Anna are married to each other.', 'label': None}]",
+  "gpt_category": "You’re right to prompt a recheck. After reconsidering the sentence “John and Anna are married,” the correct classification is lexical ambiguity.
+
+The ambiguity arises from the word “married,” which can have multiple interpretations:
+
+	1.	Interpretation 1: John and Anna are married to each other. This is the interpretation most people might initially assume, where “married” means they are a couple.
+	2.	Interpretation 2: John and Anna are both married, but not necessarily to each other. Here, “married” simply indicates the marital status of each individual without specifying that they are married to one another.
+
+This type of ambiguity is based on the multiple meanings or interpretations of the word “married” in this context, making it a case of lexical ambiguity."
+  }
+
+{
+  "id": "45119_g",
+  "premise": "I'm sure you'll be able to figure it out.",
+  "hypothesis": "You will be able to figure it out.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': \"I'm sure you'll be able to figure it out.\", 'hypothesis': 'You are expected to be able to figure it out.', 'label': 'entailment'}, {'premise': \"I'm sure you'll be able to figure it out.\", 'hypothesis': 'You will, in reality, be able to figure it out.', 'label': 'neutral'}]",
+  "gpt_category": "After reconsidering the sentence “I’m sure you’ll be able to figure it out,” I realize that the ambiguity present is not elliptical ambiguity but rather lexical ambiguity.
+
+The ambiguity arises from the phrase “figure it out.” This phrase can be interpreted in different ways depending on the context:
+
+	1.	Interpretation 1: “Figure it out” could mean solving a problem or finding a solution to something specific that has been mentioned.
+	2.	Interpretation 2: “Figure it out” could also refer more generally to understanding or making sense of a situation, which could vary in meaning depending on what “it” refers to.
+
+The ambiguity here is not due to an omission (as in elliptical ambiguity) but rather to the different possible meanings of the phrase “figure it out.” Therefore, the correct classification is lexical ambiguity."
+}
+
+{
+  "id": "38184_g",
+  "premise": "The study found that the most effective way to reduce crime is to increase the number of police officers.",
+  "hypothesis": "More police officers on the streets will lead to less crime.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'It was shown in the study that the most effective way to reduce crime is to increase the number of police officers.', 'hypothesis': 'More police officers on the streets will lead to less crime.', 'label': 'entailment'}, {'premise': 'The study concluded that the most effective way to reduce crime is to increase the number of police officers.', 'hypothesis': 'More police officers on the streets will lead to less crime.', 'label': 'neutral'}]",
+  "llama3_category": "You’re correct to question the classification. Upon closer examination, the sentence “The study found that the most effective way to reduce crime is to increase the number of police officers” actually exhibits lexical ambiguity rather than scopal ambiguity.
+
+The ambiguity arises from the phrase “the most effective way.” Specifically:
+
+	1.	Interpretation 1: “The most effective way” could refer to the general strategy that the study found to be the best at reducing crime. In this case, the phrase suggests that among all possible methods, increasing the number of police officers was identified as the top strategy.
+	2.	Interpretation 2: “The most effective way” could also imply that the study’s findings might be context-dependent. It might mean that increasing the number of police officers is the most effective way under certain conditions or compared to a specific set of alternatives considered in the study.
+
+The ambiguity is in how “the most effective way” is understood—whether it is a general statement or something more specific to the context of the study. This makes it a case of lexical ambiguity rather than scopal ambiguity.
+
+Thank you for prompting the recheck; the correct classification is lexical ambiguity.​⬤"
+}
+
+{
+  "id": "22885_g",
+  "premise": "The company is expected to release its earnings report next week.",
+  "hypothesis": "The company will not release its earnings report next week.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "neutral, contradiction",
+  "disambiguations": "[{'premise': 'The company is expected to release its earnings report next week.', 'hypothesis': 'The company is not expected to release its earnings report next week.', 'label': 'contradiction'}, {'premise': 'The company is expected to release its earnings report next week.', 'hypothesis': 'The company will not, in reality, release its earnings report next week.', 'label': 'neutral'}]",
+  "gpt_category": "You’re correct to ask for a recheck. Upon closer analysis, the sentence “The company is expected to release its earnings report next week” does not exhibit scopal ambiguity but rather lexical ambiguity.
+
+The word “expected” can have different nuances of meaning:
+
+	1.	Interpretation 1: “Expected” could mean that there is a strong belief or prediction that the company will release its earnings report next week, suggesting that it is highly likely or anticipated.
+	2.	Interpretation 2: “Expected” could also imply an obligation or requirement, meaning that the company is supposed to release its earnings report next week because of a rule, regulation, or prior announcement.
+
+The ambiguity here comes from the different possible meanings of “expected,” making it a case of lexical ambiguity rather than scopal ambiguity."
+}
+
+{
+  "id": "110_c",
+  "premise": "Unfortunately, the magnet schools began the undoing of desegregation in Charlotte.",
+  "hypothesis": "Desegregation was becoming disbanded in Charlotte thanks to the magnet schools.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "contradiction, entailment",
+  "disambiguations": "[]",
+  "gpt_category": "The sentence “Unfortunately, the magnet schools began the undoing of desegregation in Charlotte” exhibits lexical ambiguity.
+
+The ambiguity arises from the word “undoing.” The word “undoing” can have different interpretations depending on the context:
+
+	1.	Interpretation 1: “Undoing” could mean that the magnet schools inadvertently started a process that reversed the progress made in desegregation, implying a negative consequence where segregation began to reemerge.
+	2.	Interpretation 2: “Undoing” could also be interpreted more broadly as causing the decline or weakening of desegregation efforts, which could have different implications depending on the context in which the magnet schools operated.
+
+The key word “undoing” has multiple potential meanings that lead to different interpretations of the sentence’s overall message, making this an example of lexical ambiguity."
+}
+
+{
+  "id": "6852_g",
+  "premise": "We will be able to increase our production by 10 percent if we can get the additional machinery.",
+  "hypothesis": "We will not be able to increase our production by 10 percent if we can't get the additional machinery.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'We will be able to increase our production by 10 percent, but only if we can get the additional machinery.', 'hypothesis': \"We will not be able to increase our production by 10 percent if we can't get the additional machinery.\", 'label': 'entailment'}, {'premise': 'We will be able to increase our production by 10 percent if we can get the additional machinery, but it is possible that we are able to do this without the machinery too.', 'hypothesis': \"We will not be able to increase our production by 10 percent if we can't get the additional machinery.\", 'label': 'neutral'}]",
+  "gpt_category": "You’re correct to ask for a recheck. After reconsidering the sentence “We will be able to increase our production by 10 percent if we can get the additional machinery,” the correct classification is lexical ambiguity.
+
+The ambiguity arises from the phrase “increase our production by 10 percent,” which can be interpreted in different ways:
+
+	1.	Interpretation 1: The phrase might mean that the total production capacity will increase by an additional 10 percent overall once the additional machinery is obtained.
+	2.	Interpretation 2: The phrase might also mean that the production will increase by 10 percent relative to the current production, or that the specific segment of the production that the new machinery affects will increase by 10 percent.
+
+The ambiguity comes from the different possible understandings of how the 10 percent increase is applied, making it a case of lexical ambiguity rather than scopal ambiguity."
+}
+
+{
+  "id": "55746_g",
+  "premise": "It is my belief that the earth is round.",
+  "hypothesis": "I am certain that the earth is round.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'It is my understanding that the earth is round.', 'hypothesis': 'I am certain that the earth is round.', 'label': 'neutral'}, {'premise': 'It is my conviction that the earth is round.', 'hypothesis': 'I am certain that the earth is round.', 'label': 'entailment'}]",
+  "gpt_category": "You’re right to ask for a recheck. After carefully considering the sentence “It is my belief that the earth is round,” the ambiguity present is none of the categories explicitly listed. This sentence doesn’t actually contain any significant ambiguity under the listed types because:
+
+	1.	Lexical Ambiguity: The words used have clear meanings.
+	2.	Syntactic Ambiguity: The structure of the sentence is straightforward and doesn’t allow for multiple interpretations.
+	3.	Scopal Ambiguity: There’s no issue with the scope of operators like quantifiers or negations.
+	4.	Elliptical Ambiguity: There’s no ellipsis that creates unclear references.
+	5.	Collective/Distributive Ambiguity: There’s no plural expression to create confusion.
+	6.	Implicative Ambiguity: The sentence doesn’t imply something that isn’t explicitly stated.
+	7.	Presuppositional Ambiguity: The sentence assumes the earth is round, but it doesn’t create an ambiguity in the background assumption.
+	8.	Idiomatic Ambiguity: The phrase is literal, not idiomatic.
+	9.	Coreferential Ambiguity: There’s no pronoun with unclear reference.
+	10.	Generic/Non-Generic Ambiguity: The statement is specific about the belief in the earth’s roundness.
+	11.	Type/Token Ambiguity: There’s no reference to a general category or specific instance that would create confusion.
+
+In conclusion, the sentence “It is my belief that the earth is round” does not actually contain a significant ambiguity that fits into the categories provided. It is a clear and straightforward statement of personal belief."
+}
+
+{
+  "id": "38422_g",
+  "premise": "The manager was happy with the way that the team had performed.",
+  "hypothesis": "The team had performed well.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'The manager was satisfied with the way that the team had performed.', 'hypothesis': 'The team had performed well.', 'label': 'neutral'}, {'premise': 'The manager was elated with the way that the team had performed.', 'hypothesis': 'The team had performed well.', 'label': 'entailment'}]",
+  "gpt_category": "The sentence “The manager was happy with the way that the team had performed” exhibits lexical ambiguity.
+
+The ambiguity arises from the word “way,” which can have multiple meanings depending on the context:
+
+	1.	Interpretation 1: “Way” could refer to the method or manner in which the team performed. This would mean the manager is pleased with how the team carried out their tasks.
+	2.	Interpretation 2: “Way” could also be interpreted more broadly as referring to the overall outcome or result of the team’s performance, implying the manager is happy with what the team accomplished.
+
+This ambiguity is due to the different possible meanings of the word “way,” making it a case of lexical ambiguity."
+}
+
+{
+  "id": "85938_g",
+  "premise": "I'm going to take a break from studying.",
+  "hypothesis": "I'm going to take a break from work.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': \"I'm going to take a break from studying.\", 'hypothesis': \"I'm going to take a break from doing work.\", 'label': 'entailment'}, {'premise': \"I'm going to take a break from studying.\", 'hypothesis': \"I'm going to take a break from my job.\", 'label': 'neutral'}]",
+  "gpt_category": "The sentence “I’m going to take a break from studying” exhibits lexical ambiguity.
+
+The ambiguity arises from the word “break,” which can have multiple meanings depending on the context:
+
+	1.	Interpretation 1: “Break” could refer to a short, temporary pause in studying, implying that the speaker will stop studying for a short period and then resume.
+	2.	Interpretation 2: “Break” could also imply a longer or more significant pause, possibly even a complete halt to studying for an extended period or indefinitely.
+
+The word “break” has different potential interpretations, leading to lexical ambiguity in the sentence."
+}
+
+{
+  "id": "45528_g",
+  "premise": "Social media has been shown to have a negative effect on self-esteem.",
+  "hypothesis": "Self-esteem is related to social media use.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'It has been revealed that social media has a negative effect on self-esteem.', 'hypothesis': 'Self-esteem is related to social media use.', 'label': 'entailment'}, {'premise': 'Social media has been shown by some studies to have a negative effect on self-esteem.', 'hypothesis': 'Self-esteem is related to social media use.', 'label': 'neutral'}]",
+  "gpt_category": ""
+}
+
+{
+  "id": "103542_g",
+  "premise": "He had been walking for hours, and his feet were sore.",
+  "hypothesis": "He was tired.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'He had been walking for hours, and his feet were sore.', 'hypothesis': 'He was physically exhausted.', 'label': 'entailment'}, {'premise': 'He had been walking for hours, and his feet were sore.', 'hypothesis': 'He was sleepy.', 'label': 'neutral'}]",
+  "gpt_category": "You’re right to ask for a recheck. The sentence “Social media has been shown to have a negative effect on self-esteem” does not exhibit scopal ambiguity. Instead, it actually exhibits lexical ambiguity.
+
+The ambiguity arises from the phrase “negative effect,” which can be interpreted in different ways:
+
+	1.	Interpretation 1: “Negative effect” could refer to a decrease in self-esteem, meaning that social media leads to lower self-esteem.
+	2.	Interpretation 2: “Negative effect” could also imply a broader range of adverse impacts on self-esteem, such as increased anxiety, depression, or other psychological issues related to self-esteem.
+
+The term “negative effect” can encompass a variety of specific outcomes, leading to different interpretations of what exactly the negative impact on self-esteem entails. This makes it a case of lexical ambiguity."
+}
+
+{
+  "id": "89_c",
+  "premise": "Alice and Jon disagreed.",
+  "hypothesis": "Alice and Jon disagreed with each other.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'hypothesis': 'Alice and Jon disagreed with each other.', 'premise': 'Alice and Jon disagreed with something.', 'label': None}, {'hypothesis': 'Alice and Jon disagreed with each other.', 'premise': 'Alice and Jon disagreed with each other.', 'label': None}]",
+  "gpt_category": "You’re right to prompt a recheck. Upon reconsideration, the sentence “Alice and Jon disagreed” does not exhibit collective/distributive ambiguity. The correct classification is lexical ambiguity.
+
+The ambiguity arises from the verb “disagreed,” which can be interpreted in different ways:
+
+	1.	Interpretation 1: “Disagreed” could mean that Alice and Jon had a disagreement with each other, implying that they had different opinions or views on a specific matter.
+	2.	Interpretation 2: “Disagreed” could also mean that Alice and Jon, as a unit, disagreed with a third party or another opinion, though this interpretation is less common without additional context.
+
+However, the primary ambiguity is rooted in the potential for misunderstanding whether the disagreement is between Alice and Jon or directed towards an external party. This makes the ambiguity lexical because it depends on the specific meaning and application of the verb “disagreed.”
+
+So, the sentence “Alice and Jon disagreed” is an example of lexical ambiguity."
+}
+
+{
+  "id": "26980_g",
+  "premise": "Because of the drought, the city's water supply will run out in two months.",
+  "hypothesis": "The city's water supply will not last two months.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, contradiction",
+  "disambiguations": "[{'premise': \"Because of the drought, the city's water supply will run out within two months.\", 'hypothesis': \"The city's water supply will not last two months.\", 'label': 'entailment'}, {'premise': \"Because of the drought, the city's water supply will run out in exactly two months.\", 'hypothesis': \"The city's water supply will not last two months.\", 'label': 'contradiction'}]",
+  "gpt_category": "Upon further reflection, the sentence "Because of the drought, the city's water supply will run out in two months" does not strongly exhibit presuppositional ambiguity. Reconsidering the types of ambiguity, a more accurate classification is Implicative Ambiguity. This ambiguity pertains to implications that aren’t explicitly stated within the sentence.
+
+Here, the statement implies that the water supply will run out due to the ongoing drought conditions unless something changes, such as increased rainfall or reduced water usage. It suggests certainty about the outcome but leaves implicit whether this outcome is preventable or inevitable. It also subtly implies that no effective measures are currently in place to avoid this scenario, which might not necessarily be true.
+
+Therefore, Implicative Ambiguity is indeed the appropriate classification, capturing the unstated implications about the continuation of current conditions and the effectiveness of any countermeasures."
+}
+
+{
+  "id": "47245_g",
+  "premise": "The United Nations has to have a system for monitoring compliance with human rights treaties.",
+  "hypothesis": "The United Nations has a system for monitoring compliance with human rights treaties.",
+  "category": "lexical, pragmatic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral, contradiction",
+  "disambiguations": "[{'premise': 'The United Nations needs to implement a system for monitoring compliance with human rights treaties.', 'hypothesis': 'The United Nations has a system for monitoring compliance with human rights treaties.', 'label': 'contradiction'}, {'premise': 'It must be the case that the United Nations has a system for monitoring compliance with human rights treaties.', 'hypothesis': 'The United Nations has a system for monitoring compliance with human rights treaties.', 'label': 'entailment'}, {'premise': 'It is necessary that the United Nations has a system for monitoring compliance with human rights treaties, whether or not it already does.', 'hypothesis': 'The United Nations has a system for monitoring compliance with human rights treaties.', 'label': 'neutral'}]",
+  "gpt_category": "Let's reconsider the analysis for the sentence: "The United Nations has to have a system for monitoring compliance with human rights treaties." On closer examination, this sentence appears to contain Presuppositional Ambiguity.
+
+The key feature of Presuppositional Ambiguity involves assumptions embedded within a sentence that may not be clear or might be interpreted differently. The sentence in question presupposes the following:
+
+There is a recognized and essential requirement (legally, ethically, or operationally) for the United Nations to have a monitoring system in place.
+Such a system is critical for the function or obligation of the United Nations concerning human rights treaties.
+The ambiguity comes into play concerning the basis and specifics of these presuppositions:
+
+Is it assumed that no such system exists, or that an existing system is insufficient?
+What is the exact nature or standard of the required system?
+This presupposition is fundamental to understanding the sentence but remains ambiguous regarding its specifics and underlying justifications. Therefore, this sentence does indeed exhibit Presuppositional Ambiguity, focusing on the implied necessity and existing status of the monitoring system."
+}
+
+{
+  "id": "67466_g",
+  "premise": "The company should produce a quarterly report.",
+  "hypothesis": "The company produces a quarterly report.",
+  "category": "lexical, pragmatic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, contradiction",
+  "disambiguations": "[{'premise': 'The company ought to produce a quarterly report, which it does not do right now.', 'hypothesis': 'The company produces a quarterly report.', 'label': 'contradiction'}, {'premise': 'The company ought to produce a quarterly report, which it may already do.', 'hypothesis': 'The company produces a quarterly report.', 'label': 'neutral'}, {'premise': 'The company probably produces a quarterly report.', 'hypothesis': 'The company produces a quarterly report.', 'label': 'neutral'}]",
+  "gpt_category": "Reflecting again on the sentence The company should produce a quarterly report, I realize that my previous analysis may not have been fully accurate in terms of ambiguity type. Upon reevaluation, it's clearer that this sentence doesn't exhibit strong ambiguity from the list provided. Here’s a reexamination:Lexical Ambiguity: No single word in the sentence has multiple meanings that could lead to ambiguity. Syntactic Ambiguity: The structure of the sentence is straightforward and doesn't allow for multiple parsings.
+Scopal Ambiguity: There are no quantifiers or negations whose scope could be ambiguous.
+Elliptical Ambiguity: There is no ellipsis in the sentence leading to unclear references.
+Collective/Distributive Ambiguity: There isn’t a plural noun phrase that could be interpreted in a collective or distributive sense.
+Implicative Ambiguity: While initially considered, the sentence’s should suggests a recommendation but doesn’t strongly imply unstated consequences.
+Presuppositional Ambiguity: There isn't a clear presupposition about prior conditions or states that is ambiguous.
+Idiomatic Ambiguity: The sentence does not contain phrases that could be interpreted as idioms.
+Coreferential Ambiguity: There are no pronouns or ambiguous references to different nouns.
+Generic/Non-Generic Ambiguity: There is no general or specific instance ambiguity here.
+Type/Token Ambiguity: There isn't ambiguity between general types or specific tokens.
+Given this analysis, the sentence actually lacks strong ambiguity in the context of the provided categories. It is a straightforward directive or recommendation without underlying ambiguity as defined by these specific types. This reflects a straightforward interpretation rather than ambiguity."
+}
+
+{
+  "id": "87325_g",
+  "premise": "It's not just because she's the boss's daughter that she gets whatever she wants.",
+  "hypothesis": "She gets whatever she wants because she's the boss's daughter.",
+  "category": "lexical, pragmatic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral, contradiction",
+  "disambiguations": "[{'premise': \"It's not only because she's the boss's daughter that she gets whatever she wants; there are other factors too.\", 'hypothesis': \"She gets whatever she wants in part because she's the boss's daughter.\", 'label': 'entailment'}, {'premise': \"It's the simple reason that she's the boss's daughter that explains how she gets whatever she wants.\", 'hypothesis': \"She gets whatever she wants in part because she's the boss's daughter.\", 'label': 'neutral'}, {'premise': \"It's not only because she's the boss's daughter that she gets whatever she wants; there are other factors too.\", 'hypothesis': \"She gets whatever she wants entirely because she's the boss's daughter.\", 'label': 'contradiction'}, {'premise': \"It's the simple reason that she's the boss's daughter that explains how she gets whatever she wants.\", 'hypothesis': \"She gets whatever she wants entirely because she's the boss's daughter.\", 'label': 'contradiction'}]",
+  "gpt_category": ""
+}
+

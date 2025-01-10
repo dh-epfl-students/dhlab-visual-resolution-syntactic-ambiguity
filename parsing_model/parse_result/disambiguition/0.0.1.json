@@ -1,0 +1,1148 @@
+[
+    {
+        "sentence": "the enraged cow injured a farmer who was holding an ax",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 27.065465927124023
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 27.065465927124023
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 26.845699310302734
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 26.845699310302734
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.639978408813477
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.639978408813477
+            },
+            {
+                "structure": "(S (NP (DT the) (ADJP (VBN enraged)) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.573617935180664
+            },
+            {
+                "structure": "(S (NP (DT the) (ADJP (VBN enraged)) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.573617935180664
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (S (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.521808624267578
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (S (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.521808624267578
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VP (VBN injured)) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.514591217041016
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VP (VBN injured)) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.514591217041016
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.48582649230957
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.48582649230957
+            },
+            {
+                "structure": "(S (NP (INTJ (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.478586196899414
+            },
+            {
+                "structure": "(S (NP (INTJ (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.478586196899414
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.447690963745117
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.447690963745117
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (S (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.433748245239258
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (S (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.433748245239258
+            },
+            {
+                "structure": "(S (NP (NX (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.42613983154297
+            },
+            {
+                "structure": "(S (NP (NX (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.42613983154297
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.420211791992188
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.420211791992188
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (SBAR (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.412513732910156
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (SBAR (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.412513732910156
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (NX (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.36363410949707
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (NX (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.36363410949707
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (SQ (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.35692596435547
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (SQ (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.35692596435547
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (S (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.35576629638672
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (S (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.35576629638672
+            },
+            {
+                "structure": "(S (NP (DT the) (ADJP (VBN enraged)) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.353851318359375
+            },
+            {
+                "structure": "(S (NP (DT the) (ADJP (VBN enraged)) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.353851318359375
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (NP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.346900939941406
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (NP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.346900939941406
+            },
+            {
+                "structure": "(S (NP (X (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.340749740600586
+            },
+            {
+                "structure": "(S (NP (X (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.340749740600586
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.336294174194336
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.336294174194336
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (VP (NN cow))) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.333505630493164
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (VP (NN cow))) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.333505630493164
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (SBAR (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.328596115112305
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (SBAR (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.328596115112305
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (PRN (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.31108283996582
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (PRN (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.31108283996582
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (NP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.31029510498047
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (NP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.31029510498047
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (NX (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.30542755126953
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (NX (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.30542755126953
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (S (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.30204200744629
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (S (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.30204200744629
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (PP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.299680709838867
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (PP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.299680709838867
+            },
+            {
+                "structure": "(S (NP (NP (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.295917510986328
+            },
+            {
+                "structure": "(S (NP (NP (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.295917510986328
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (LST (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.295692443847656
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (LST (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.295692443847656
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VP (VBN injured)) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.294824600219727
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VP (VBN injured)) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.294824600219727
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (RRC (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.28834342956543
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (RRC (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.28834342956543
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.28819465637207
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.28819465637207
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (X (NN ax)))))))))",
+                "score": 25.287744522094727
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (X (NN ax)))))))))",
+                "score": 25.287744522094727
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (INTJ (VBN injured)) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.287158966064453
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (INTJ (VBN injured)) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.287158966064453
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (INTJ (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.282167434692383
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (INTJ (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.282167434692383
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (SBAR (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.279130935668945
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (SBAR (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.279130935668945
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (SBAR (DT a)) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.279006958007812
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (SBAR (DT a)) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.279006958007812
+            },
+            {
+                "structure": "(S (NP (NP (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.273025512695312
+            },
+            {
+                "structure": "(S (NP (NP (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.273025512695312
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.271276473999023
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.271276473999023
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.26605987548828
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.26605987548828
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (X (NN ax)))))))))",
+                "score": 25.263002395629883
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (X (NN ax)))))))))",
+                "score": 25.263002395629883
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (FRAG (DT a)) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.26162338256836
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (FRAG (DT a)) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.26162338256836
+            },
+            {
+                "structure": "(S (NP (INTJ (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.258819580078125
+            },
+            {
+                "structure": "(S (NP (INTJ (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.258819580078125
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (VP (DT an)) (NN ax))))))))",
+                "score": 25.25597381591797
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (VP (DT an)) (NN ax))))))))",
+                "score": 25.25597381591797
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (NP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.253812789916992
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (NP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.253812789916992
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.243852615356445
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.243852615356445
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (PP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.243722915649414
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (PP (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.243722915649414
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.239757537841797
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.239757537841797
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (WHNP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.236698150634766
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (WHNP (VBG holding)) (NP (DT an) (NN ax))))))))",
+                "score": 25.236698150634766
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.232311248779297
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.232311248779297
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.22838020324707
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.22838020324707
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.227924346923828
+            },
+            {
+                "structure": "(S (NP (FRAG (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.227924346923828
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.226463317871094
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (FRAG (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.226463317871094
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (PRN (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.22470474243164
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (PRN (VBD was)) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.22470474243164
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NP (NN cow))) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.22454071044922
+            },
+            {
+                "structure": "(S (NP (DT the) (VBN enraged) (NP (NN cow))) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.22454071044922
+            },
+            {
+                "structure": "(S (NP (VP (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.221054077148438
+            },
+            {
+                "structure": "(S (NP (VP (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.221054077148438
+            },
+            {
+                "structure": "(S (NP (S (DT the)) (VBN enraged) (NN cow)) (VP (VBN injured) (NP (NP (DT a) (NN farmer)) (SBAR (WHNP (WP who)) (S (VBD was) (VP (VBG holding) (NP (DT an) (NN ax))))))))",
+                "score": 25.219640731811523
+            }
+        ],
+        "scores": [
+            27.065465927124023,
+            27.065465927124023,
+            26.845699310302734,
+            26.845699310302734,
+            25.639978408813477,
+            25.639978408813477,
+            25.573617935180664,
+            25.573617935180664,
+            25.521808624267578,
+            25.521808624267578,
+            25.514591217041016,
+            25.514591217041016,
+            25.48582649230957,
+            25.48582649230957,
+            25.478586196899414,
+            25.478586196899414,
+            25.447690963745117,
+            25.447690963745117,
+            25.433748245239258,
+            25.433748245239258,
+            25.42613983154297,
+            25.42613983154297,
+            25.420211791992188,
+            25.420211791992188,
+            25.412513732910156,
+            25.412513732910156,
+            25.36363410949707,
+            25.36363410949707,
+            25.35692596435547,
+            25.35692596435547,
+            25.35576629638672,
+            25.35576629638672,
+            25.353851318359375,
+            25.353851318359375,
+            25.346900939941406,
+            25.346900939941406,
+            25.340749740600586,
+            25.340749740600586,
+            25.336294174194336,
+            25.336294174194336,
+            25.333505630493164,
+            25.333505630493164,
+            25.328596115112305,
+            25.328596115112305,
+            25.31108283996582,
+            25.31108283996582,
+            25.31029510498047,
+            25.31029510498047,
+            25.30542755126953,
+            25.30542755126953,
+            25.30204200744629,
+            25.30204200744629,
+            25.299680709838867,
+            25.299680709838867,
+            25.295917510986328,
+            25.295917510986328,
+            25.295692443847656,
+            25.295692443847656,
+            25.294824600219727,
+            25.294824600219727,
+            25.28834342956543,
+            25.28834342956543,
+            25.28819465637207,
+            25.28819465637207,
+            25.287744522094727,
+            25.287744522094727,
+            25.287158966064453,
+            25.287158966064453,
+            25.282167434692383,
+            25.282167434692383,
+            25.279130935668945,
+            25.279130935668945,
+            25.279006958007812,
+            25.279006958007812,
+            25.273025512695312,
+            25.273025512695312,
+            25.271276473999023,
+            25.271276473999023,
+            25.26605987548828,
+            25.26605987548828,
+            25.263002395629883,
+            25.263002395629883,
+            25.26162338256836,
+            25.26162338256836,
+            25.258819580078125,
+            25.258819580078125,
+            25.25597381591797,
+            25.25597381591797,
+            25.253812789916992,
+            25.253812789916992,
+            25.243852615356445,
+            25.243852615356445,
+            25.243722915649414,
+            25.243722915649414,
+            25.239757537841797,
+            25.239757537841797,
+            25.236698150634766,
+            25.236698150634766,
+            25.232311248779297,
+            25.232311248779297,
+            25.22838020324707,
+            25.22838020324707,
+            25.227924346923828,
+            25.227924346923828,
+            25.226463317871094,
+            25.226463317871094,
+            25.22470474243164,
+            25.22470474243164,
+            25.22454071044922,
+            25.22454071044922,
+            25.221054077148438,
+            25.221054077148438,
+            25.219640731811523
+        ]
+    },
+    {
+        "sentence": "The enraged cow, somehow wielding an ax, injured a farmer",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            },
+            {
+                "structure": "(S (DT The) (JJ enraged) (NN cow,) (ADVP (RB somehow)) (VBG wielding) (DT an) (NN ax,) (VBD injured) (NP (DT a) (NN farmer)))",
+                "score": 2.9963815212249756
+            }
+        ],
+        "scores": [
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756,
+            2.9963815212249756
+        ]
+    }
+]

@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "I would like to finish the book sometime this year",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 14.679227828979492
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 14.679227828979492
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 14.679227828979492
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 14.679227828979492
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.321548461914062
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.321548461914062
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.321548461914062
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.321548461914062
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.313434600830078
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (UCP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.269296646118164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (UCP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.269296646118164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (UCP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.269296646118164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (UCP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.269296646118164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (RB sometime) (DT this) (NN year))))))",
+                "score": 13.261800765991211
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (NX (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.24919319152832
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (NX (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.24919319152832
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (NX (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.24919319152832
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (NX (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.24919319152832
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (X (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.2491455078125
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (X (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.2491455078125
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.239053726196289
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.239053726196289
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.239053726196289
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.239053726196289
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.192750930786133
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (S (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.189865112304688
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (S (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.189865112304688
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (S (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.189865112304688
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (S (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.189865112304688
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.18333625793457
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.18333625793457
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.179397583007812
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.179397583007812
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.179397583007812
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.179397583007812
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (ADJP (RB sometime) (DT this)) (NN year)))))))",
+                "score": 13.16093635559082
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (ADJP (RB sometime) (DT this)) (NN year)))))))",
+                "score": 13.16093635559082
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.156747817993164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.156747817993164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.156747817993164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (NP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.156747817993164
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VP (VB like)) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.146587371826172
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VP (VB like)) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.146587371826172
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VP (VB like)) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.146587371826172
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VP (VB like)) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.146587371826172
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (FRAG (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.139326095581055
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (FRAG (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.139326095581055
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (FRAG (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.139326095581055
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (FRAG (MD would)) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.139326095581055
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (FRAG (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.131937026977539
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (FRAG (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.131937026977539
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.125476837158203
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.125476837158203
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.125476837158203
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (PP (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.125476837158203
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (VP (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.110986709594727
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (VP (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.110986709594727
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VP (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.105337142944336
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VP (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.105337142944336
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VP (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.105337142944336
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VP (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.105337142944336
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (FRAG (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.092521667480469
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (FRAG (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.092521667480469
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (FRAG (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.092521667480469
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (FRAG (VB finish)) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.092521667480469
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.083486557006836
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.083486557006836
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.083486557006836
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.083486557006836
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (PRN (RB sometime) (DT this)) (NN year)))))))",
+                "score": 13.072076797485352
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (PRN (RB sometime) (DT this)) (NN year)))))))",
+                "score": 13.072076797485352
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (X (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.07082748413086
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (X (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.07082748413086
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.066856384277344
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.066856384277344
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.066856384277344
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (FRAG (TO to)) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year)))))))",
+                "score": 13.066856384277344
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.062910079956055
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))))",
+                "score": 13.062910079956055
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (ADVP (RB sometime)) (DT this) (NN year)))))))",
+                "score": 13.047468185424805
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (ADVP (RB sometime)) (DT this) (NN year)))))))",
+                "score": 13.047468185424805
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (ADVP (RB sometime)) (DT this) (NN year)))))))",
+                "score": 13.047468185424805
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (ADVP (RB sometime)) (DT this) (NN year)))))))",
+                "score": 13.047468185424805
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VP (MD would) (VP (VB like) (TO to) (VP (VB finish) (NP (DT the) (NN book)) (NP (RB sometime) (DT this) (NN year))))))",
+                "score": 13.045919418334961
+            }
+        ],
+        "scores": [
+            14.679227828979492,
+            14.679227828979492,
+            14.679227828979492,
+            14.679227828979492,
+            13.321548461914062,
+            13.321548461914062,
+            13.321548461914062,
+            13.321548461914062,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.313434600830078,
+            13.269296646118164,
+            13.269296646118164,
+            13.269296646118164,
+            13.269296646118164,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.261800765991211,
+            13.24919319152832,
+            13.24919319152832,
+            13.24919319152832,
+            13.24919319152832,
+            13.2491455078125,
+            13.2491455078125,
+            13.239053726196289,
+            13.239053726196289,
+            13.239053726196289,
+            13.239053726196289,
+            13.192750930786133,
+            13.192750930786133,
+            13.192750930786133,
+            13.192750930786133,
+            13.192750930786133,
+            13.192750930786133,
+            13.192750930786133,
+            13.192750930786133,
+            13.189865112304688,
+            13.189865112304688,
+            13.189865112304688,
+            13.189865112304688,
+            13.18333625793457,
+            13.18333625793457,
+            13.179397583007812,
+            13.179397583007812,
+            13.179397583007812,
+            13.179397583007812,
+            13.16093635559082,
+            13.16093635559082,
+            13.156747817993164,
+            13.156747817993164,
+            13.156747817993164,
+            13.156747817993164,
+            13.146587371826172,
+            13.146587371826172,
+            13.146587371826172,
+            13.146587371826172,
+            13.139326095581055,
+            13.139326095581055,
+            13.139326095581055,
+            13.139326095581055,
+            13.131937026977539,
+            13.131937026977539,
+            13.125476837158203,
+            13.125476837158203,
+            13.125476837158203,
+            13.125476837158203,
+            13.110986709594727,
+            13.110986709594727,
+            13.105337142944336,
+            13.105337142944336,
+            13.105337142944336,
+            13.105337142944336,
+            13.092521667480469,
+            13.092521667480469,
+            13.092521667480469,
+            13.092521667480469,
+            13.083486557006836,
+            13.083486557006836,
+            13.083486557006836,
+            13.083486557006836,
+            13.072076797485352,
+            13.072076797485352,
+            13.07082748413086,
+            13.07082748413086,
+            13.066856384277344,
+            13.066856384277344,
+            13.066856384277344,
+            13.066856384277344,
+            13.062910079956055,
+            13.062910079956055,
+            13.047468185424805,
+            13.047468185424805,
+            13.047468185424805,
+            13.047468185424805,
+            13.045919418334961
+        ]
+    }
+]

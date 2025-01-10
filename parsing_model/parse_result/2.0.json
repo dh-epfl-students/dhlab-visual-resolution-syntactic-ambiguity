@@ -1,0 +1,2867 @@
+[
+    {
+        "sentence": "that's all right",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 3.5614802837371826
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 2.584515333175659
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 2.3150455951690674
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 2.051466941833496
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.9578473567962646
+            },
+            {
+                "structure": "(S (PRN (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.8708547353744507
+            },
+            {
+                "structure": "(S (S (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.8394434452056885
+            },
+            {
+                "structure": "(S (NX (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.8154584169387817
+            },
+            {
+                "structure": "(S (PRN (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.781426191329956
+            },
+            {
+                "structure": "(S (S (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.774426817893982
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (ADVP (RB all)) (RB right)))",
+                "score": 1.762841820716858
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.7511918544769287
+            },
+            {
+                "structure": "(S (WHNP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.747959017753601
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.734030842781067
+            },
+            {
+                "structure": "(S (X (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.7267957925796509
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (NP (RB right))))",
+                "score": 1.7253410816192627
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.7233352661132812
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.7182055711746216
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.7099025249481201
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 1.7071417570114136
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6780781745910645
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6690789461135864
+            },
+            {
+                "structure": "(S (SQ (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6529613733291626
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6488947868347168
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (ADJP (RB right))))",
+                "score": 1.6482303142547607
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (S (RB right))))",
+                "score": 1.6428112983703613
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (WHNP (RB all)) (RB right)))",
+                "score": 1.636824131011963
+            },
+            {
+                "structure": "(S (VP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6344633102416992
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (SBAR (RB all)) (RB right)))",
+                "score": 1.6315209865570068
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (SBAR (RB all)) (RB right)))",
+                "score": 1.628567099571228
+            },
+            {
+                "structure": "(S (ADJP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6208252906799316
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (VP (RB right))))",
+                "score": 1.618353009223938
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (WHADJP (RB all)) (RB right)))",
+                "score": 1.6180853843688965
+            },
+            {
+                "structure": "(S (VP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.610138177871704
+            },
+            {
+                "structure": "(S (VP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.6066447496414185
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (NP (RB right))))",
+                "score": 1.6065038442611694
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (S (RB all)) (RB right)))",
+                "score": 1.6001769304275513
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5972297191619873
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (FRAG (RB all)) (RB right)))",
+                "score": 1.5940923690795898
+            },
+            {
+                "structure": "(S (NX (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5903984308242798
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (PRN (RB all)) (RB right)))",
+                "score": 1.5854023694992065
+            },
+            {
+                "structure": "(S (NX (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5792131423950195
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (VP (RB right))))",
+                "score": 1.5740430355072021
+            },
+            {
+                "structure": "(S (VP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5717897415161133
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (WHNP (RB right))))",
+                "score": 1.5626167058944702
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (NX (RB all)) (RB right)))",
+                "score": 1.5621002912521362
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (NP (RB right))))",
+                "score": 1.5607433319091797
+            },
+            {
+                "structure": "(S (ADJP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5574800968170166
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (NP (RB all)) (RB right)))",
+                "score": 1.5486328601837158
+            },
+            {
+                "structure": "(S (ADVP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.544672966003418
+            },
+            {
+                "structure": "(S (X (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.543964147567749
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 1.538344144821167
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.529517412185669
+            },
+            {
+                "structure": "(S (SBAR (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5271975994110107
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (VP (RB right))))",
+                "score": 1.5271401405334473
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.5267846584320068
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (FRAG (RB all)) (RB right)))",
+                "score": 1.5255489349365234
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (S (RB right))))",
+                "score": 1.5209813117980957
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5186877250671387
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (VP (RB all)) (RB right)))",
+                "score": 1.5157978534698486
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 1.510828971862793
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.5105233192443848
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (X (RB right))))",
+                "score": 1.5094211101531982
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (VP (RB all)) (RB right)))",
+                "score": 1.50905442237854
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (UCP (RB all)) (RB right)))",
+                "score": 1.507070779800415
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (FRAG (RB all)) (RB right)))",
+                "score": 1.506455898284912
+            },
+            {
+                "structure": "(S (SBAR (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5035600662231445
+            },
+            {
+                "structure": "(S (INTJ (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5013387203216553
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.500774621963501
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.5005388259887695
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (FRAG (RB all)) (RB right)))",
+                "score": 1.498887300491333
+            },
+            {
+                "structure": "(S (NX (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.497697353363037
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (VP (RB all)) (RB right)))",
+                "score": 1.4962916374206543
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.488081455230713
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4856455326080322
+            },
+            {
+                "structure": "(S (X (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4848227500915527
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (SBAR (RB all)) (RB right)))",
+                "score": 1.4815521240234375
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (X (RB all)) (RB right)))",
+                "score": 1.4811594486236572
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (PP (RB right))))",
+                "score": 1.4806201457977295
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (X (RB right))))",
+                "score": 1.4751410484313965
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (X (RB all)) (RB right)))",
+                "score": 1.4727671146392822
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (NP (RB all)) (RB right)))",
+                "score": 1.4724271297454834
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 1.4708952903747559
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (SBARQ (RB all)) (RB right)))",
+                "score": 1.4690587520599365
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (NX (RB all)) (RB right)))",
+                "score": 1.466047763824463
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (UCP (RB right))))",
+                "score": 1.464487075805664
+            },
+            {
+                "structure": "(S (S (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.462763786315918
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (VP (RB right))))",
+                "score": 1.4611663818359375
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (ADJP (RB all)) (RB right)))",
+                "score": 1.4580435752868652
+            },
+            {
+                "structure": "(S (WHNP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4573054313659668
+            },
+            {
+                "structure": "(S (X (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.456456184387207
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.456202507019043
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (S (RB right))))",
+                "score": 1.4559211730957031
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (NP (RB all)) (RB right)))",
+                "score": 1.4558138847351074
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4549715518951416
+            },
+            {
+                "structure": "(S (INTJ (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4513609409332275
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (PRN (RB right))))",
+                "score": 1.4477574825286865
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (PRN (RB all)) (RB right)))",
+                "score": 1.4452764987945557
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.4417445659637451
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (FRAG (RB right))))",
+                "score": 1.4416048526763916
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (FRAG (RB all)) (RB right)))",
+                "score": 1.4398329257965088
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (ADJP (RB all)) (RB right)))",
+                "score": 1.4362328052520752
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (INTJ (RB all)) (RB right)))",
+                "score": 1.4353830814361572
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (X (RB all)) (RB right)))",
+                "score": 1.4273138046264648
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 1.4261962175369263
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (S (RB all)) (RB right)))",
+                "score": 1.4246246814727783
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (ADJP (RB all)) (RB right)))",
+                "score": 1.4231793880462646
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (ADJP (RB right))))",
+                "score": 1.4224350452423096
+            },
+            {
+                "structure": "(S (NNS that's) (ADJP (RB all) (RB right)))",
+                "score": 1.4193999767303467
+            },
+            {
+                "structure": "(S (NP (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4164032936096191
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4122135639190674
+            },
+            {
+                "structure": "(S (FRAG (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4111785888671875
+            },
+            {
+                "structure": "(S (SBAR (NNS that's)) (ADJP (RB all) (RB right)))",
+                "score": 1.4106366634368896
+            }
+        ],
+        "scores": [
+            3.5614802837371826,
+            2.584515333175659,
+            2.3150455951690674,
+            2.051466941833496,
+            1.9578473567962646,
+            1.8708547353744507,
+            1.8394434452056885,
+            1.8154584169387817,
+            1.781426191329956,
+            1.774426817893982,
+            1.762841820716858,
+            1.7511918544769287,
+            1.747959017753601,
+            1.734030842781067,
+            1.7267957925796509,
+            1.7253410816192627,
+            1.7233352661132812,
+            1.7182055711746216,
+            1.7099025249481201,
+            1.7071417570114136,
+            1.6780781745910645,
+            1.6690789461135864,
+            1.6529613733291626,
+            1.6488947868347168,
+            1.6482303142547607,
+            1.6428112983703613,
+            1.636824131011963,
+            1.6344633102416992,
+            1.6315209865570068,
+            1.628567099571228,
+            1.6208252906799316,
+            1.618353009223938,
+            1.6180853843688965,
+            1.610138177871704,
+            1.6066447496414185,
+            1.6065038442611694,
+            1.6001769304275513,
+            1.5972297191619873,
+            1.5940923690795898,
+            1.5903984308242798,
+            1.5854023694992065,
+            1.5792131423950195,
+            1.5740430355072021,
+            1.5717897415161133,
+            1.5626167058944702,
+            1.5621002912521362,
+            1.5607433319091797,
+            1.5574800968170166,
+            1.5486328601837158,
+            1.544672966003418,
+            1.543964147567749,
+            1.538344144821167,
+            1.529517412185669,
+            1.5271975994110107,
+            1.5271401405334473,
+            1.5267846584320068,
+            1.5255489349365234,
+            1.5209813117980957,
+            1.5186877250671387,
+            1.5157978534698486,
+            1.510828971862793,
+            1.5105233192443848,
+            1.5094211101531982,
+            1.50905442237854,
+            1.507070779800415,
+            1.506455898284912,
+            1.5035600662231445,
+            1.5013387203216553,
+            1.500774621963501,
+            1.5005388259887695,
+            1.498887300491333,
+            1.497697353363037,
+            1.4962916374206543,
+            1.488081455230713,
+            1.4856455326080322,
+            1.4848227500915527,
+            1.4815521240234375,
+            1.4811594486236572,
+            1.4806201457977295,
+            1.4751410484313965,
+            1.4727671146392822,
+            1.4724271297454834,
+            1.4708952903747559,
+            1.4690587520599365,
+            1.466047763824463,
+            1.464487075805664,
+            1.462763786315918,
+            1.4611663818359375,
+            1.4580435752868652,
+            1.4573054313659668,
+            1.456456184387207,
+            1.456202507019043,
+            1.4559211730957031,
+            1.4558138847351074,
+            1.4549715518951416,
+            1.4513609409332275,
+            1.4477574825286865,
+            1.4452764987945557,
+            1.4417445659637451,
+            1.4416048526763916,
+            1.4398329257965088,
+            1.4362328052520752,
+            1.4353830814361572,
+            1.4273138046264648,
+            1.4261962175369263,
+            1.4246246814727783,
+            1.4231793880462646,
+            1.4224350452423096,
+            1.4193999767303467,
+            1.4164032936096191,
+            1.4122135639190674,
+            1.4111785888671875,
+            1.4106366634368896
+        ]
+    },
+    {
+        "sentence": "televisions are expensive these days",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (NNS days))))",
+                "score": 9.586600303649902
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (NNS days))))",
+                "score": 9.586600303649902
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (NNS days))))",
+                "score": 8.46487808227539
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (NNS days))))",
+                "score": 8.46487808227539
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.38925838470459
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.307696342468262
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (NP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.255772590637207
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (VP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.13880729675293
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (S (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.10562515258789
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (S (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.07055950164795
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.053024291992188
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (PP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.029803276062012
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (VP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.029082298278809
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (PP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 8.004528045654297
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.973062992095947
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (VP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.965020656585693
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (S (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.9532084465026855
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (PRN (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.938442707061768
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (INTJ (VBP are) (ADJP (JJ expensive))) (NP (DT these) (NNS days))))",
+                "score": 7.928076267242432
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.927699565887451
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (ADVP (DT these)) (NNS days))))",
+                "score": 7.923530578613281
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (ADVP (DT these)) (NNS days))))",
+                "score": 7.923530578613281
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (WHNP (VBP are) (ADJP (JJ expensive))) (NP (DT these) (NNS days))))",
+                "score": 7.898193836212158
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (NP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.8931450843811035
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (X (NNS days)))))",
+                "score": 7.87782621383667
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (X (NNS days)))))",
+                "score": 7.87782621383667
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (SBAR (DT these)) (NNS days))))",
+                "score": 7.87047815322876
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (SBAR (DT these)) (NNS days))))",
+                "score": 7.87047815322876
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (X (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.849689483642578
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (X (DT these)) (NNS days))))",
+                "score": 7.849544048309326
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (X (DT these)) (NNS days))))",
+                "score": 7.849544048309326
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.843081951141357
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.843081951141357
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (RRC (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.842475414276123
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (LST (VBP are) (ADJP (JJ expensive))) (NP (DT these) (NNS days))))",
+                "score": 7.841796398162842
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (PRN (DT these)) (NNS days))))",
+                "score": 7.840663433074951
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (PRN (DT these)) (NNS days))))",
+                "score": 7.840663433074951
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (X (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.835145950317383
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (VP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.829288959503174
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADVP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.827627658843994
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.827224254608154
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.827224254608154
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.826326847076416
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (X (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.82367467880249
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (PRN (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.820761203765869
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.813610553741455
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (VP (DT these)) (NNS days))))",
+                "score": 7.807955265045166
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (VP (DT these)) (NNS days))))",
+                "score": 7.807955265045166
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NX (DT these)) (NNS days))))",
+                "score": 7.806358814239502
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NX (DT these)) (NNS days))))",
+                "score": 7.806358814239502
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (QP (DT these)) (NNS days))))",
+                "score": 7.805211544036865
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (QP (DT these)) (NNS days))))",
+                "score": 7.805211544036865
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (X (NNS days)))))",
+                "score": 7.801784038543701
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (X (NNS days)))))",
+                "score": 7.801784038543701
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NX (DT these)) (NNS days))))",
+                "score": 7.801001071929932
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NX (DT these)) (NNS days))))",
+                "score": 7.801001071929932
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.799932956695557
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.799932956695557
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VP (VBP are)) (ADJP (JJ expensive)) (NP (DT these) (NNS days))))",
+                "score": 7.797641277313232
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VP (VBP are)) (ADJP (JJ expensive)) (NP (DT these) (NNS days))))",
+                "score": 7.797641277313232
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.7897868156433105
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.7897868156433105
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (X (DT these)) (NNS days))))",
+                "score": 7.787023067474365
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (X (DT these)) (NNS days))))",
+                "score": 7.787023067474365
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (NP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.778337001800537
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (S (NNS days)))))",
+                "score": 7.776174068450928
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (S (NNS days)))))",
+                "score": 7.776174068450928
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (PRN (DT these)) (NNS days))))",
+                "score": 7.775399684906006
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (PRN (DT these)) (NNS days))))",
+                "score": 7.775399684906006
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (S (DT these)) (NNS days))))",
+                "score": 7.769999980926514
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (S (DT these)) (NNS days))))",
+                "score": 7.769999980926514
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.7676215171813965
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NP (DT these)) (NNS days))))",
+                "score": 7.7617716789245605
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NP (DT these)) (NNS days))))",
+                "score": 7.7617716789245605
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (PRN (DT these)) (NNS days))))",
+                "score": 7.7596540451049805
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (PRN (DT these)) (NNS days))))",
+                "score": 7.7596540451049805
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NP (DT these)) (NNS days))))",
+                "score": 7.756295680999756
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NP (DT these)) (NNS days))))",
+                "score": 7.756295680999756
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (S (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.754613399505615
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.753309726715088
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.753309726715088
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (UCP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.75219202041626
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (SBAR (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.748995304107666
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (FRAG (VBP are) (ADJP (JJ expensive))) (NP (DT these) (NNS days))))",
+                "score": 7.7480387687683105
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (S (VBP are) (ADJP (JJ expensive))) (NP (DT these) (NNS days))))",
+                "score": 7.746571063995361
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (DT these) (NNS days)))",
+                "score": 7.743691921234131
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (DT these) (NNS days)))",
+                "score": 7.743691921234131
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (DT these) (NNS days)))",
+                "score": 7.743691921234131
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (DT these) (NNS days)))",
+                "score": 7.743691921234131
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (DT these) (NNS days)))",
+                "score": 7.743691921234131
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (NP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.743183612823486
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (FRAG (NNS days)))))",
+                "score": 7.736219882965088
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (DT these) (FRAG (NNS days)))))",
+                "score": 7.736219882965088
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (WHNP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.732295036315918
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (PRN (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.731649875640869
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (X (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.730835914611816
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (UCP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.727015972137451
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (NP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.722370624542236
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NP (DT these)) (NNS days))))",
+                "score": 7.713423252105713
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (NP (DT these)) (NNS days))))",
+                "score": 7.713423252105713
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.70459508895874
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (WHADJP (VBP are) (ADJP (JJ expensive))) (NP (DT these) (NNS days))))",
+                "score": 7.700843334197998
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADVP (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.700743198394775
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (FRAG (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.699835777282715
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.694443225860596
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (FRAG (DT these)) (NNS days))))",
+                "score": 7.694443225860596
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (SBAR (DT these)) (NNS days))))",
+                "score": 7.693478107452393
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (SBAR (DT these)) (NNS days))))",
+                "score": 7.693478107452393
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (SBAR (ADJP (JJ expensive)) (NP (DT these) (NNS days)))))",
+                "score": 7.692351818084717
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (ADJP (DT these)) (NNS days))))",
+                "score": 7.6884589195251465
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (ADJP (DT these)) (NNS days))))",
+                "score": 7.6884589195251465
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (SBAR (DT these)) (NNS days))))",
+                "score": 7.6880202293396
+            },
+            {
+                "structure": "(S (NP (NNS televisions)) (VP (VBP are) (ADJP (JJ expensive)) (NP (SBAR (DT these)) (NNS days))))",
+                "score": 7.6880202293396
+            }
+        ],
+        "scores": [
+            9.586600303649902,
+            9.586600303649902,
+            8.46487808227539,
+            8.46487808227539,
+            8.38925838470459,
+            8.307696342468262,
+            8.255772590637207,
+            8.13880729675293,
+            8.10562515258789,
+            8.07055950164795,
+            8.053024291992188,
+            8.029803276062012,
+            8.029082298278809,
+            8.004528045654297,
+            7.973062992095947,
+            7.965020656585693,
+            7.9532084465026855,
+            7.938442707061768,
+            7.928076267242432,
+            7.927699565887451,
+            7.923530578613281,
+            7.923530578613281,
+            7.898193836212158,
+            7.8931450843811035,
+            7.87782621383667,
+            7.87782621383667,
+            7.87047815322876,
+            7.87047815322876,
+            7.849689483642578,
+            7.849544048309326,
+            7.849544048309326,
+            7.843081951141357,
+            7.843081951141357,
+            7.842475414276123,
+            7.841796398162842,
+            7.840663433074951,
+            7.840663433074951,
+            7.835145950317383,
+            7.829288959503174,
+            7.827627658843994,
+            7.827224254608154,
+            7.827224254608154,
+            7.826326847076416,
+            7.82367467880249,
+            7.820761203765869,
+            7.813610553741455,
+            7.807955265045166,
+            7.807955265045166,
+            7.806358814239502,
+            7.806358814239502,
+            7.805211544036865,
+            7.805211544036865,
+            7.801784038543701,
+            7.801784038543701,
+            7.801001071929932,
+            7.801001071929932,
+            7.799932956695557,
+            7.799932956695557,
+            7.797641277313232,
+            7.797641277313232,
+            7.7897868156433105,
+            7.7897868156433105,
+            7.787023067474365,
+            7.787023067474365,
+            7.778337001800537,
+            7.776174068450928,
+            7.776174068450928,
+            7.775399684906006,
+            7.775399684906006,
+            7.769999980926514,
+            7.769999980926514,
+            7.7676215171813965,
+            7.7617716789245605,
+            7.7617716789245605,
+            7.7596540451049805,
+            7.7596540451049805,
+            7.756295680999756,
+            7.756295680999756,
+            7.754613399505615,
+            7.753309726715088,
+            7.753309726715088,
+            7.75219202041626,
+            7.748995304107666,
+            7.7480387687683105,
+            7.746571063995361,
+            7.743691921234131,
+            7.743691921234131,
+            7.743691921234131,
+            7.743691921234131,
+            7.743691921234131,
+            7.743183612823486,
+            7.736219882965088,
+            7.736219882965088,
+            7.732295036315918,
+            7.731649875640869,
+            7.730835914611816,
+            7.727015972137451,
+            7.722370624542236,
+            7.713423252105713,
+            7.713423252105713,
+            7.70459508895874,
+            7.700843334197998,
+            7.700743198394775,
+            7.699835777282715,
+            7.694443225860596,
+            7.694443225860596,
+            7.693478107452393,
+            7.693478107452393,
+            7.692351818084717,
+            7.6884589195251465,
+            7.6884589195251465,
+            7.6880202293396,
+            7.6880202293396
+        ]
+    },
+    {
+        "sentence": "the colonial porte cochre sets the tone for Waikiki's most charming historic hotel, which opened in 1901",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.448482513427734
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901))))))))))",
+                "score": 30.4484806060791
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            },
+            {
+                "structure": "(S (NP (DT the) (JJ colonial) (NN porte) (NN cochre)) (VP (VBZ sets) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NNS Waikiki's)) (ADJP (RBS most) (JJ charming)) (JJ historic) (NN hotel,) (SBAR (WHNP (WDT which)) (S (VBD opened) (PP (IN in) (NP (CD 1901)))))))))",
+                "score": 30.30606460571289
+            }
+        ],
+        "scores": [
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.448482513427734,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.4484806060791,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289,
+            30.30606460571289
+        ]
+    },
+    {
+        "sentence": "and you just sift",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 8.029519081115723
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 8.029519081115723
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.80062198638916
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.80062198638916
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (RRC (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.686297416687012
+            },
+            {
+                "structure": "(S (CC and) (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift)))",
+                "score": 6.662535667419434
+            },
+            {
+                "structure": "(S (CC and) (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift)))",
+                "score": 6.662535667419434
+            },
+            {
+                "structure": "(S (CC and) (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift)))",
+                "score": 6.662535667419434
+            },
+            {
+                "structure": "(S (CC and) (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift)))",
+                "score": 6.662535667419434
+            },
+            {
+                "structure": "(S (CC and) (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift)))",
+                "score": 6.662535667419434
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (X (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.5858612060546875
+            },
+            {
+                "structure": "(S (CC and) (S (S (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.550997734069824
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VBP sift)))",
+                "score": 6.518711090087891
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VBP sift)))",
+                "score": 6.518711090087891
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.497514247894287
+            },
+            {
+                "structure": "(S (CC and) (S (INTJ (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.486013412475586
+            },
+            {
+                "structure": "(S (CC and) (S (PRN (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.485368728637695
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (X (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.452841758728027
+            },
+            {
+                "structure": "(S (CC and) (S (S (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.436511039733887
+            },
+            {
+                "structure": "(S (CC and) (S (NX (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.429543972015381
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (S (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.404854774475098
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.396248817443848
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (S (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.384304046630859
+            },
+            {
+                "structure": "(S (CC and) (S (VP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.379176139831543
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.377092361450195
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.356616020202637
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.338964462280273
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (SQ (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.327710151672363
+            },
+            {
+                "structure": "(S (CC and) (S (SBAR (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.294659614562988
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NX (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.290092468261719
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.280945301055908
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.279298305511475
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.279298305511475
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.268547058105469
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.256671905517578
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (SBAR (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.253536224365234
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.249896049499512
+            },
+            {
+                "structure": "(S (CC and) (S (X (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.241539001464844
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADJP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.238615989685059
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NX (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.237074851989746
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.224116325378418
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (PP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.214025497436523
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.21259880065918
+            },
+            {
+                "structure": "(S (CC and) (S (ADVP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.2060956954956055
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NAC (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.2036848068237305
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.199814796447754
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (SBAR (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.199693202972412
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.19930362701416
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (SBAR (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.198404312133789
+            },
+            {
+                "structure": "(S (CC and) (S (SBARQ (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.193962574005127
+            },
+            {
+                "structure": "(S (CC and) (S (PRN (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.187366485595703
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.169627666473389
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (VP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.168539047241211
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (X (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.168398857116699
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (VP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.1596527099609375
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (VP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.151419639587402
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (PRN (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.1514058113098145
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.146853446960449
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.141000270843506
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.141000270843506
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.138097763061523
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (WHNP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.13288688659668
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.132079124450684
+            },
+            {
+                "structure": "(S (CC and) (S (VP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.131726264953613
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.130191802978516
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.1268720626831055
+            },
+            {
+                "structure": "(S (CC and) (S (ADVP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.124197959899902
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.123353958129883
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.109679698944092
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.1039042472839355
+            },
+            {
+                "structure": "(S (CC and) (S (ADJP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.103879928588867
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.100096702575684
+            },
+            {
+                "structure": "(S (CC and) (S (PP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.09578800201416
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (X (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.0922346115112305
+            },
+            {
+                "structure": "(S (CC and) (S (X (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.087238311767578
+            },
+            {
+                "structure": "(S (CC and) (S (X (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.070672035217285
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.068015098571777
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.064682483673096
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (NP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.063785076141357
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.050821304321289
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.045137882232666
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.045060634613037
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.044536590576172
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.031160831451416
+            },
+            {
+                "structure": "(S (CC and) (S (S (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.025384426116943
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (X (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.024236679077148
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.0231242179870605
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP sift))))",
+                "score": 6.0231242179870605
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (UCP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.015925407409668
+            },
+            {
+                "structure": "(S (CC and) (S (SBAR (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.012444972991943
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.011987209320068
+            },
+            {
+                "structure": "(S (CC and) (S (ADVP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.0107221603393555
+            },
+            {
+                "structure": "(S (CC and) (S (VP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.009110450744629
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 6.003019332885742
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 6.0026140213012695
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (VP (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 5.997951984405518
+            },
+            {
+                "structure": "(S (CC and) (S (INTJ (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.9957733154296875
+            },
+            {
+                "structure": "(S (CC and) (S (X (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.991337776184082
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (PRN (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 5.988523483276367
+            },
+            {
+                "structure": "(S (CC and) (S (NP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.986927032470703
+            },
+            {
+                "structure": "(S (CC and) (S (FRAG (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.977478504180908
+            },
+            {
+                "structure": "(S (CC and) (S (SBAR (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.977229595184326
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (RRC (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 5.976936340332031
+            },
+            {
+                "structure": "(S (CC and) (S (NX (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.975805282592773
+            },
+            {
+                "structure": "(S (CC and) (S (VP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.972287178039551
+            },
+            {
+                "structure": "(S (CC and) (S (SBAR (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.971099853515625
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (PRN (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 5.964866638183594
+            },
+            {
+                "structure": "(S (CC and) (S (UCP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.95957088470459
+            },
+            {
+                "structure": "(S (CC and) (S (UCP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.9594407081604
+            },
+            {
+                "structure": "(S (CC and) (S (RRC (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.951462745666504
+            },
+            {
+                "structure": "(S (CC and) (S (S (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.947826385498047
+            },
+            {
+                "structure": "(S (CC and) (S (ADJP (NP (PRP you)) (ADVP (RB just))) (VP (VBP sift))))",
+                "score": 5.9329752922058105
+            },
+            {
+                "structure": "(S (CC and) (S (NP (PRP you)) (FRAG (ADVP (RB just)) (VP (VBP sift)))))",
+                "score": 5.928964614868164
+            }
+        ],
+        "scores": [
+            8.029519081115723,
+            8.029519081115723,
+            6.80062198638916,
+            6.80062198638916,
+            6.686297416687012,
+            6.662535667419434,
+            6.662535667419434,
+            6.662535667419434,
+            6.662535667419434,
+            6.662535667419434,
+            6.5858612060546875,
+            6.550997734069824,
+            6.518711090087891,
+            6.518711090087891,
+            6.497514247894287,
+            6.486013412475586,
+            6.485368728637695,
+            6.452841758728027,
+            6.436511039733887,
+            6.429543972015381,
+            6.404854774475098,
+            6.396248817443848,
+            6.384304046630859,
+            6.379176139831543,
+            6.377092361450195,
+            6.356616020202637,
+            6.338964462280273,
+            6.327710151672363,
+            6.294659614562988,
+            6.290092468261719,
+            6.280945301055908,
+            6.279298305511475,
+            6.279298305511475,
+            6.268547058105469,
+            6.256671905517578,
+            6.253536224365234,
+            6.249896049499512,
+            6.241539001464844,
+            6.238615989685059,
+            6.237074851989746,
+            6.224116325378418,
+            6.214025497436523,
+            6.21259880065918,
+            6.2060956954956055,
+            6.2036848068237305,
+            6.199814796447754,
+            6.199693202972412,
+            6.19930362701416,
+            6.198404312133789,
+            6.193962574005127,
+            6.187366485595703,
+            6.169627666473389,
+            6.168539047241211,
+            6.168398857116699,
+            6.1596527099609375,
+            6.151419639587402,
+            6.1514058113098145,
+            6.146853446960449,
+            6.141000270843506,
+            6.141000270843506,
+            6.138097763061523,
+            6.13288688659668,
+            6.132079124450684,
+            6.131726264953613,
+            6.130191802978516,
+            6.1268720626831055,
+            6.124197959899902,
+            6.123353958129883,
+            6.109679698944092,
+            6.1039042472839355,
+            6.103879928588867,
+            6.100096702575684,
+            6.09578800201416,
+            6.0922346115112305,
+            6.087238311767578,
+            6.070672035217285,
+            6.068015098571777,
+            6.064682483673096,
+            6.063785076141357,
+            6.050821304321289,
+            6.045137882232666,
+            6.045060634613037,
+            6.044536590576172,
+            6.031160831451416,
+            6.025384426116943,
+            6.024236679077148,
+            6.0231242179870605,
+            6.0231242179870605,
+            6.015925407409668,
+            6.012444972991943,
+            6.011987209320068,
+            6.0107221603393555,
+            6.009110450744629,
+            6.003019332885742,
+            6.0026140213012695,
+            5.997951984405518,
+            5.9957733154296875,
+            5.991337776184082,
+            5.988523483276367,
+            5.986927032470703,
+            5.977478504180908,
+            5.977229595184326,
+            5.976936340332031,
+            5.975805282592773,
+            5.972287178039551,
+            5.971099853515625,
+            5.964866638183594,
+            5.95957088470459,
+            5.9594407081604,
+            5.951462745666504,
+            5.947826385498047,
+            5.9329752922058105,
+            5.928964614868164
+        ]
+    },
+    {
+        "sentence": "you think there's somethin' in all that talk Topham was givin' lip to? Anse asked",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            },
+            {
+                "structure": "(S (NP (PRP you)) (VBP think) (IN there's) (NP (NP (NN somethin')) (PP (IN in) (NP (NP (DT all) (WDT that) (VBP talk)) (SBAR (NP (NNP Topham)) (VP (VBD was) (VBG givin') (JJ lip)))))) (NN to?) (NP (NNP Anse)) (VBD asked))",
+                "score": 18.979793548583984
+            }
+        ],
+        "scores": [
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984,
+            18.979793548583984
+        ]
+    }
+]

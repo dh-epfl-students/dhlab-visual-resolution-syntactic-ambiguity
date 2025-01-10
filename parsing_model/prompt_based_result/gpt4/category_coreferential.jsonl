@@ -1,0 +1,38 @@
+{
+  "id": "78003_g",
+  "premise": "I have to complete this report by 5 p.m.",
+  "hypothesis": "It is 5 p.m.",
+  "category": "coreferential",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "contradiction, neutral",
+  "disambiguations": "[{'premise': 'I have to complete this report by 5 p.m. today.', 'hypothesis': 'It is 5 p.m.', 'label': 'contradiction'}, {'premise': \"I have to complete this report by 5 p.m. on the day that it's due\", 'hypothesis': 'It is 5 p.m.', 'label': 'neutral'}]",
+  "gpt_category": "The sentence “I have to complete this report by 5 p.m.” primarily exhibits presuppositional ambiguity. This ambiguity arises from the background assumptions or presuppositions that the sentence carries but does not explicitly state. In this case, the presupposition is that there is a specific deadline (by 5 p.m.) which implies a level of urgency or a predefined arrangement about the completion time. However, it could be ambiguous whether this deadline is self-imposed, suggested by someone else, or part of a formal requirement. The ambiguity in the presupposition makes it unclear why this particular time has been set as the deadline and what the consequences might be if the report isn’t completed by then."
+}
+
+{
+  "id": "81_c",
+  "premise": "Calvin will honor his father and Otto will too.",
+  "hypothesis": null,
+  "category": "coreferential",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "gpt_category": "The sentence “Calvin will honor his father and Otto will too.” displays elliptical ambiguity. This ambiguity arises from the ellipsis used in the sentence, leading to unclear references regarding what exactly Otto will do. In this case, the ambiguity revolves around whether Otto will honor Calvin’s father or his own father. The phrase “and Otto will too” uses ellipsis to omit the direct object and the verb, which leaves it open to interpretation whether Otto’s actions mirror Calvin’s exactly (honoring Calvin’s father) or parallel them in a similar manner (honoring his own father)."
+}
+
+{
+  "id": "69709_g",
+  "premise": "The new hospital is close to the interstate, making it easy for patients to get there.",
+  "hypothesis": "It is easy to get to the new hospital.",
+  "category": "coreferential",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'The new hospital is close to the interstate, making it easy for patients to get to the hospital.', 'hypothesis': 'It is easy to get to the new hospital.', 'label': 'entailment'}, {'premise': 'The new hospital is close to the interstate, making it easy for patients to get to the interstate.', 'hypothesis': 'It is easy to get to the new hospital.', 'label': 'neutral'}]",
+  "gpt_category": "The sentence “The new hospital is close to the interstate, making it easy for patients to get there.” features implicative ambiguity. This type of ambiguity arises from the implications made by the sentence that aren’t explicitly stated.
+
+In this context, the implication is that the proximity of the hospital to the interstate is the factor that makes it easy for patients to get there. However, the sentence leaves open other interpretations such as whether there are other factors contributing to the ease of access (e.g., public transportation options, traffic conditions) that are not discussed. The statement implies a direct cause (proximity to the interstate) and effect (ease of access for patients) relationship but does not clarify if this is the only or primary reason for the ease of access, potentially suggesting other unmentioned factors could also influence this ease."
+}
+

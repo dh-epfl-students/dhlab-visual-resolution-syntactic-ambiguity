@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "I don‘t know if she is a US citizen or Green Card holder",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            },
+            {
+                "structure": "(S (NP (PRP I)) (VBP don‘t) (VP (VB know) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ is) (NP (DT a) (NNP US) (NN citizen) (CC or) (NN Green) (NN Card) (NN holder)))))))",
+                "score": 17.91737174987793
+            }
+        ],
+        "scores": [
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793,
+            17.91737174987793
+        ]
+    }
+]

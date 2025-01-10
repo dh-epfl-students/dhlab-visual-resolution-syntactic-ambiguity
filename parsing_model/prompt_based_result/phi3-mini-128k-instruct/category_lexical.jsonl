@@ -1,0 +1,252 @@
+{
+  "id": "69_c",
+  "premise": "Your boss is a funny man.",
+  "hypothesis": null,
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': 'Your boss is a peculiar man.', 'label': None}, {'hypothesis': None, 'premise': 'Your boss is a humorous man.', 'label': None}]",
+  "phi3_category": "The sentence \"Your boss is a funny man\" exhibits **Idiomatic Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's consider the literal meaning of the sentence. It states that the boss is a man who is funny, implying that the boss has a sense of humor.\n\n2. However, the term \"funny\" can also be interpreted as an idiomatic expression meaning \"strange\" or \"odd.\" In this context, the sentence could be interpreted as saying that the boss is a strange or odd man.\n\n3. The ambiguity arises from the fact that \"funny\" can have two different meanings in this sentence, one literal and one idiomatic.\n\n4. Therefore, the sentence fits the **Idiomatic Ambiguity** type, as the word \"funny\" can be interpreted in two different ways, leading to two different understandings of the sentence."
+}
+
+{
+  "id": "92619_g",
+  "premise": "The assertion that the theory is flawed is based on a misunderstanding of the evidence.",
+  "hypothesis": "The theory is flawed.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, contradiction",
+  "disambiguations": "[{'premise': 'A particular assertion that the theory is flawed is based on a misunderstanding of the evidence.', 'hypothesis': 'The theory is flawed.', 'label': 'neutral'}, {'premise': 'Any assertion that the theory is flawed is based on a misunderstanding of the evidence.', 'hypothesis': 'The theory is flawed.', 'label': 'contradiction'}]",
+  "phi3_category": "The sentence \"The assertion that the theory is flawed is based on a misunderstanding of the evidence.\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence begins with \"The assertion that the theory is flawed,\" which introduces a claim about the theory.\n2. The phrase \"is based on\" suggests that there is a reason or cause for the assertion.\n3. The ambiguity arises in the phrase \"a misunderstanding of the evidence.\"\n4. The ambiguity lies in the scope of the word \"misunderstanding.\" It could mean that there is a misunderstanding of the evidence in general, which led to the flawed theory. Alternatively, it could mean that there is a specific misunderstanding of a particular piece of evidence that led to the flawed theory.\n5. The sentence does not specify whether the misunderstanding is of the evidence as a whole or of a specific piece of evidence.\n6. Therefore, the sentence exhibits scopal ambiguity because the scope of the term \"misunderstanding\" is unclear."
+}
+
+{
+  "id": "103217_g",
+  "premise": "The study found that children who were read to more frequently had better reading comprehension skills.",
+  "hypothesis": "Reading to children frequently leads to better reading comprehension skills.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'The study demonstrated that children who were read to more frequently had better reading comprehension skills.', 'hypothesis': 'Reading to children frequently leads to better reading comprehension skills.', 'label': 'entailment'}, {'premise': 'The study concluded that children who were read to more frequently had better reading comprehension skills.', 'hypothesis': 'Reading to children frequently leads to better reading comprehension skills.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"The study found that children who were read to more frequently had better reading comprehension skills\" does not exhibit any of the listed types of ambiguity. Here's why:\n\n1. **Lexical Ambiguity**: There are no words in the sentence that have multiple possible meanings.\n2. **Syntactic Ambiguity**: The sentence structure is clear and does not allow for multiple interpretations.\n3. **Scopal Ambiguity**: The sentence does not contain any quantifiers or negations whose scope could be ambiguous.\n4. **Elliptical Ambiguity**: There are no ellipses in the sentence that lead to unclear references.\n5. **Collective/Distributive Ambiguity**: The sentence does not contain a plural expression that could refer to individuals or a group.\n6. **Implicative Ambiguity**: The sentence does not imply something that isn't explicitly stated.\n7. **Presuppositional Ambiguity**: The sentence does not contain any unclear background assumptions or presuppositions.\n8. **Idiomatic Ambiguity**: There are no phrases in the sentence that could be interpreted literally or as an idiom.\n9. **Coreferential Ambiguity**: There are no pronouns or phrases in the sentence that could refer to unclear nouns.\n10. **Generic/Non-Generic Ambiguity**: The sentence does not contain a statement that could refer to a general category or a specific instance.\n11. **Type/Token Ambiguity**: There are no terms in the sentence that could refer to a general category or a specific instance.\n\nTherefore, the sentence does not exhibit any of the listed types of ambiguity. It is a clear and straightforward statement about the findings of a study."
+}
+
+{
+  "id": "82_c",
+  "premise": "The speaker is at the front of the room.",
+  "hypothesis": null,
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': 'The loudspeaker is at the front of the room.', 'label': None}, {'hypothesis': None, 'premise': 'The person delivering a speech is at the front of the room.', 'label': None}]",
+  "phi3_category": "The sentence \"The speaker is at the front of the room\" does not exhibit any of the listed types of ambiguity. Here's why:\n\n1. **Lexical Ambiguity**: There are no words in the sentence that have multiple possible meanings.\n2. **Syntactic Ambiguity**: The sentence structure is clear and straightforward, with no potential for multiple interpretations.\n3. **Scopal Ambiguity**: There are no quantifiers or negations in the sentence that could have varying scopes.\n4. **Elliptical Ambiguity**: The sentence is complete and does not contain any ellipsis that leads to unclear references.\n5. **Collective/Distributive Ambiguity**: The sentence does not contain a plural expression that could refer to individuals or a group.\n6. **Implicative Ambiguity**: The sentence does not imply anything that isn't explicitly stated.\n7. **Presuppositional Ambiguity**: The sentence does not contain any background assumptions or presuppositions that are unclear.\n8. **Idiomatic Ambiguity**: The sentence does not contain any phrases that could be interpreted literally or as an idiom.\n9. **Coreferential Ambiguity**: There are no pronouns or phrases in the sentence that could refer to multiple nouns.\n10. **Generic/Non-Generic Ambiguity**: The sentence does not contain a statement that could refer to a general category or a specific instance.\n11. **Type/Token Ambiguity**: The sentence does not contain a term that could refer to a general category or a specific instance.\n\nTherefore, the sentence \"The speaker is at the front of the room\" is not ambiguous according to the provided types."
+}
+
+{
+  "id": "75278_g",
+  "premise": "He's not very well off.",
+  "hypothesis": "He's not very wealthy.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': \"He's not very financially well off.\", 'hypothesis': \"He's not very wealthy.\", 'label': 'entailment'}, {'premise': \"He's not in a very good situation.\", 'hypothesis': \"He's not very wealthy.\", 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"He's not very well off\" exhibits **Implicative Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's understand the sentence. It's a statement about someone's financial or social status, implying that the person is not in a good situation.\n\n2. Now, let's consider the types of ambiguity and see which one fits best.\n\n3. **Implicative Ambiguity**: This type of ambiguity occurs when a sentence implies something that isn't explicitly stated. In this case, the sentence \"He's not very well off\" implies that the person is not in a good financial or social situation. However, it's ambiguous whether this applies to all aspects of the person's life or just a specific aspect.\n\n4. The sentence could mean that the person is not well off in general, implying that they might be struggling with various aspects of their life, such as finances, health, or relationships. Alternatively, it could mean that the person is not well off in a specific aspect, such as their financial situation, without necessarily implying that they are struggling in other areas.\n\n5. Since the sentence leaves room for interpretation regarding the extent of the person's situation, it fits the **Implicative Ambiguity** category.\n\n6. The other types of ambiguity don't apply in this case. There's no lexical ambiguity, as the words used have clear meanings. There's no syntactic ambiguity, as the sentence structure is straightforward. There's no scopal ambiguity, as there are no quantifiers or negations with unclear scope. There's no elliptical ambiguity, as there's no ellipsis in the sentence. There's no collective/distributive ambiguity, as the sentence doesn't involve a plural expression with unclear reference. There's no idiomatic ambiguity, as the sentence doesn't contain an idiomatic expression. There's no coreferential ambiguity, as there are no pronouns or phrases with unclear references. There's no generic/non-generic ambiguity, as the sentence doesn't involve a statement with unclear reference to a general category or a specific instance. There's no type/token ambiguity, as the sentence doesn't involve a term with unclear reference to a general category or a specific instance.\n\nIn conclusion, the sentence \"He's not very well off\" exhibits **Implicative Ambiguity** because it implies something about the person's situation that isn't explicitly stated, leaving room for interpretation regarding the extent of the person's situation."
+}
+
+{
+  "id": "58_c",
+  "premise": "John and Anna are married.",
+  "hypothesis": null,
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': 'John and Anna are both married.', 'label': None}, {'hypothesis': None, 'premise': 'John and Anna are married to each other.', 'label': None}]",
+  "phi3_category": "The sentence \"John and Anna are married\" exhibits **Collective/Distributive Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence states that John and Anna are married.\n2. The ambiguity arises from the interpretation of how John and Anna are married.\n3. The sentence could mean that John and Anna are married to each other (collective reading), implying that they are a couple.\n4. Alternatively, the sentence could mean that John and Anna are married to different people (distributive reading), implying that they are both married but to different individuals.\n5. The ambiguity lies in whether the marriage is between the two individuals (collective) or if they are each married to someone else (distributive).\n6. Therefore, the sentence fits the **Collective/Distributive Ambiguity** type, as it leaves open the interpretation of whether John and Anna are married to each other or to different people."
+}
+
+{
+  "id": "45119_g",
+  "premise": "I'm sure you'll be able to figure it out.",
+  "hypothesis": "You will be able to figure it out.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': \"I'm sure you'll be able to figure it out.\", 'hypothesis': 'You are expected to be able to figure it out.', 'label': 'entailment'}, {'premise': \"I'm sure you'll be able to figure it out.\", 'hypothesis': 'You will, in reality, be able to figure it out.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"I'm sure you'll be able to figure it out\" exhibits **Implicative Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's understand the sentence structure. The speaker is expressing confidence in the listener's ability to solve or understand something.\n\n2. The phrase \"figure it out\" is the key to identifying the ambiguity. It can be interpreted in two ways:\n\n   a. The listener will be able to solve or understand the problem or situation.\n   \n   b. The listener will be able to deduce or infer the solution or understanding from the given information.\n\n3. The ambiguity arises because the sentence does not explicitly state which interpretation is intended. It leaves room for the listener to interpret the statement in either way.\n\n4. This ambiguity is classified as **Implicative Ambiguity** because the sentence implies something that is not explicitly stated. The speaker's confidence in the listener's ability to solve or understand the problem or situation is not clearly defined, leaving room for interpretation.\n\nIn conclusion, the sentence \"I'm sure you'll be able to figure it out\" exhibits Implicative Ambiguity because it implies something that is not explicitly stated, leaving room for interpretation regarding the listener's ability to solve or understand the problem or situation."
+}
+
+{
+  "id": "38184_g",
+  "premise": "The study found that the most effective way to reduce crime is to increase the number of police officers.",
+  "hypothesis": "More police officers on the streets will lead to less crime.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'It was shown in the study that the most effective way to reduce crime is to increase the number of police officers.', 'hypothesis': 'More police officers on the streets will lead to less crime.', 'label': 'entailment'}, {'premise': 'The study concluded that the most effective way to reduce crime is to increase the number of police officers.', 'hypothesis': 'More police officers on the streets will lead to less crime.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"The study found that the most effective way to reduce crime is to increase the number of police officers\" does not exhibit any of the listed types of ambiguity. Here's why:\n\n1. **Lexical Ambiguity**: There are no words in the sentence that have multiple possible meanings.\n2. **Syntactic Ambiguity**: The sentence structure is clear and does not allow for multiple interpretations.\n3. **Scopal Ambiguity**: The sentence does not contain any quantifiers or negations whose scope could be ambiguous.\n4. **Elliptical Ambiguity**: There are no ellipses in the sentence that lead to unclear references.\n5. **Collective/Distributive Ambiguity**: The sentence does not contain a plural expression that could refer to individuals or a group.\n6. **Implicative Ambiguity**: The sentence does not imply something that isn't explicitly stated.\n7. **Presuppositional Ambiguity**: The sentence does not contain any background assumptions or presuppositions that are unclear.\n8. **Idiomatic Ambiguity**: The sentence does not contain any phrases that could be interpreted literally or as an idiom.\n9. **Coreferential Ambiguity**: There are no pronouns or phrases in the sentence that could refer to unclear nouns.\n10. **Generic/Non-Generic Ambiguity**: The sentence does not contain a statement that could refer to a general category or a specific instance.\n11. **Type/Token Ambiguity**: The sentence does not contain a term that could refer to a general category or a specific instance.\n\nTherefore, the sentence does not exhibit any of the listed types of ambiguity."
+}
+
+{
+  "id": "22885_g",
+  "premise": "The company is expected to release its earnings report next week.",
+  "hypothesis": "The company will not release its earnings report next week.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "neutral, contradiction",
+  "disambiguations": "[{'premise': 'The company is expected to release its earnings report next week.', 'hypothesis': 'The company is not expected to release its earnings report next week.', 'label': 'contradiction'}, {'premise': 'The company is expected to release its earnings report next week.', 'hypothesis': 'The company will not, in reality, release its earnings report next week.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"The company is expected to release its earnings report next week\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's identify the ambiguous elements in the sentence. The ambiguity arises from the phrase \"its earnings report.\"\n2. The ambiguity lies in the scope of the possessive pronoun \"its.\" It could either refer to the company's earnings report or the company's report in general.\n3. In one interpretation, \"its earnings report\" means that the company is expected to release the specific earnings report that belongs to the company.\n4. In another interpretation, \"its earnings report\" could mean that the company is expected to release any earnings report, not necessarily the one that belongs to the company.\n5. The ambiguity arises from the scope of the possessive pronoun \"its,\" which can either refer to the company's earnings report or the company's report in general.\n\nTherefore, the sentence exhibits **Scopal Ambiguity** because the scope of the possessive pronoun \"its\" can vary, leading to two different interpretations of the sentence."
+}
+
+{
+  "id": "110_c",
+  "premise": "Unfortunately, the magnet schools began the undoing of desegregation in Charlotte.",
+  "hypothesis": "Desegregation was becoming disbanded in Charlotte thanks to the magnet schools.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "contradiction, entailment",
+  "disambiguations": "[]",
+  "phi3_category": "The sentence \"Unfortunately, the magnet schools began the undoing of desegregation in Charlotte\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence structure allows for two interpretations:\n   a. The magnet schools themselves started the process of undoing desegregation.\n   b. The establishment of magnet schools in Charlotte led to the undoing of desegregation.\n\n2. In the first interpretation, \"the magnet schools\" is the subject that began the undoing of desegregation. This implies that the magnet schools themselves are responsible for the undoing of desegregation.\n\n3. In the second interpretation, \"the magnet schools\" is the object that began the undoing of desegregation. This implies that the establishment of magnet schools in Charlotte led to the undoing of desegregation.\n\n4. The ambiguity arises from the scope of the verb \"began\" and the prepositional phrase \"in Charlotte.\" The sentence structure allows for both interpretations, making it an example of scopal ambiguity.\n\nIn summary, the sentence \"Unfortunately, the magnet schools began the undoing of desegregation in Charlotte\" is an example of scopal ambiguity because the scope of the verb \"began\" and the prepositional phrase \"in Charlotte\" can be interpreted in two different ways, leading to two distinct meanings."
+}
+
+{
+  "id": "6852_g",
+  "premise": "We will be able to increase our production by 10 percent if we can get the additional machinery.",
+  "hypothesis": "We will not be able to increase our production by 10 percent if we can't get the additional machinery.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'We will be able to increase our production by 10 percent, but only if we can get the additional machinery.', 'hypothesis': \"We will not be able to increase our production by 10 percent if we can't get the additional machinery.\", 'label': 'entailment'}, {'premise': 'We will be able to increase our production by 10 percent if we can get the additional machinery, but it is possible that we are able to do this without the machinery too.', 'hypothesis': \"We will not be able to increase our production by 10 percent if we can't get the additional machinery.\", 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"We will be able to increase our production by 10 percent if we can get the additional machinery\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence contains the phrase \"increase our production by 10 percent.\" This phrase can be interpreted in two ways:\n   a. The 10 percent increase applies to the entire production, meaning that the total production will increase by 10 percent.\n   b. The 10 percent increase applies to the additional machinery, meaning that the machinery will increase the production by 10 percent.\n\n2. The sentence also contains the phrase \"if we can get the additional machinery.\" This phrase introduces a condition for the increase in production. It can be interpreted in two ways:\n   a. The condition is that we need to get the additional machinery in order to increase the total production by 10 percent.\n   b. The condition is that we need to get the additional machinery in order to increase the production by 10 percent specifically through the machinery.\n\n3. The scopal ambiguity arises from the scope of the quantifiers \"by 10 percent\" and \"additional machinery.\" The sentence can be interpreted in two ways, depending on which quantifier takes scope over the other.\n\nIn conclusion, the sentence exhibits scopal ambiguity because the scope of the quantifiers \"by 10 percent\" and \"additional machinery\" can vary, leading to two different interpretations of the sentence."
+}
+
+{
+  "id": "55746_g",
+  "premise": "It is my belief that the earth is round.",
+  "hypothesis": "I am certain that the earth is round.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'It is my understanding that the earth is round.', 'hypothesis': 'I am certain that the earth is round.', 'label': 'neutral'}, {'premise': 'It is my conviction that the earth is round.', 'hypothesis': 'I am certain that the earth is round.', 'label': 'entailment'}]",
+  "phi3_category": "The sentence \"It is my belief that the earth is round\" exhibits **Presuppositional Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's identify the ambiguous element in the sentence. The ambiguity lies in the phrase \"It is my belief.\"\n\n2. Now, let's consider the possible interpretations of this phrase. It could mean that the speaker is expressing their personal belief about the shape of the earth. Alternatively, it could imply that the speaker is stating a fact or a widely accepted truth about the earth's shape.\n\n3. The ambiguity arises from the presupposition that the statement is either a personal belief or a factual claim. The sentence does not explicitly clarify which interpretation is intended.\n\n4. This ambiguity is classified as **Presuppositional Ambiguity** because the background assumption or presupposition in the sentence is unclear. The sentence could be interpreted as either a personal belief or a factual claim, depending on the context and the speaker's intention.\n\nIn summary, the sentence \"It is my belief that the earth is round\" exhibits **Presuppositional Ambiguity** due to the unclear presupposition about whether the statement is a personal belief or a factual claim."
+}
+
+{
+  "id": "38422_g",
+  "premise": "The manager was happy with the way that the team had performed.",
+  "hypothesis": "The team had performed well.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'The manager was satisfied with the way that the team had performed.', 'hypothesis': 'The team had performed well.', 'label': 'neutral'}, {'premise': 'The manager was elated with the way that the team had performed.', 'hypothesis': 'The team had performed well.', 'label': 'entailment'}]",
+  "phi3_category": "The sentence \"The manager was happy with the way that the team had performed\" does not exhibit any of the listed types of ambiguity. Here's why:\n\n1. **Lexical Ambiguity**: There are no words in the sentence that have multiple possible meanings.\n2. **Syntactic Ambiguity**: The sentence structure is clear and does not allow for multiple interpretations.\n3. **Scopal Ambiguity**: There are no quantifiers or negations in the sentence that could have varying scopes.\n4. **Elliptical Ambiguity**: There are no ellipses in the sentence that lead to unclear references.\n5. **Collective/Distributive Ambiguity**: The sentence does not present ambiguity between collective and distributive reading. It's clear that the team as a whole performed well.\n6. **Implicative Ambiguity**: The sentence does not imply something that isn't explicitly stated.\n7. **Presuppositional Ambiguity**: There are no unclear background assumptions or presuppositions in the sentence.\n8. **Idiomatic Ambiguity**: There are no idiomatic phrases in the sentence that could be interpreted literally or as an idiom.\n9. **Coreferential Ambiguity**: There are no pronouns or phrases in the sentence that could refer to multiple nouns.\n10. **Generic/Non-Generic Ambiguity**: The sentence does not present ambiguity between a general category and a specific instance.\n11. **Type/Token Ambiguity**: There are no terms in the sentence that could refer to a general category or a specific instance.\n\nTherefore, the sentence does not exhibit any of the listed types of ambiguity."
+}
+
+{
+  "id": "85938_g",
+  "premise": "I'm going to take a break from studying.",
+  "hypothesis": "I'm going to take a break from work.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': \"I'm going to take a break from studying.\", 'hypothesis': \"I'm going to take a break from doing work.\", 'label': 'entailment'}, {'premise': \"I'm going to take a break from studying.\", 'hypothesis': \"I'm going to take a break from my job.\", 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"I'm going to take a break from studying\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence structure is straightforward, and there are no apparent lexical ambiguities, as each word has a clear meaning.\n\n2. There are no syntactic ambiguities, as the sentence has a clear subject (\"I\"), verb (\"am going to take\"), and object (\"a break from studying\").\n\n3. The sentence does not contain any elliptical elements, as all necessary information is provided.\n\n4. There is no collective/distributive ambiguity, as the sentence does not involve a plural expression that could refer to individuals or a group.\n\n5. There is no implicative ambiguity, as the sentence does not imply something that isn't explicitly stated.\n\n6. There is no presuppositional ambiguity, as the sentence does not contain any background assumptions or presuppositions.\n\n7. There is no idiomatic ambiguity, as the sentence does not contain any phrases that could be interpreted literally or as an idiom.\n\n8. There is no coreferential ambiguity, as there are no pronouns or phrases that could refer to multiple nouns.\n\n9. There is no generic/non-generic ambiguity, as the sentence does not refer to a general category or a specific instance.\n\n10. There is no type/token ambiguity, as the sentence does not involve a term that could refer to a general category or a specific instance.\n\n11. However, the sentence does exhibit **Scopal Ambiguity**. The phrase \"take a break from studying\" can be interpreted in two ways:\n\n   a. The speaker is taking a break from the activity of studying in general.\n   b. The speaker is taking a break from a specific study session or task.\n\nIn this case, the scope of the preposition \"from\" can be interpreted as either modifying \"take a break\" or \"studying.\" This ambiguity arises because the sentence structure allows for multiple interpretations of the scope of the preposition."
+}
+
+{
+  "id": "45528_g",
+  "premise": "Social media has been shown to have a negative effect on self-esteem.",
+  "hypothesis": "Self-esteem is related to social media use.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'It has been revealed that social media has a negative effect on self-esteem.', 'hypothesis': 'Self-esteem is related to social media use.', 'label': 'entailment'}, {'premise': 'Social media has been shown by some studies to have a negative effect on self-esteem.', 'hypothesis': 'Self-esteem is related to social media use.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"Social media has been shown to have a negative effect on self-esteem\" exhibits **Implicative Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's examine the sentence and its components. The sentence consists of a subject (\"Social media\"), a verb (\"has been shown\"), and a predicate (\"to have a negative effect on self-esteem\").\n\n2. The ambiguity arises from the phrase \"to have a negative effect on self-esteem.\" This phrase can be interpreted in two ways:\n\n   a. It could mean that social media, as a general category, has a negative effect on self-esteem. In this interpretation, the sentence implies that social media, in general, is harmful to self-esteem.\n\n   b. Alternatively, the phrase could be interpreted as referring to specific instances of social media use that have been shown to have a negative effect on self-esteem. In this interpretation, the sentence implies that there are particular instances of social media use that have been proven to negatively impact self-esteem.\n\n3. The ambiguity lies in the fact that the sentence does not explicitly state whether it refers to social media as a general category or specific instances of social media use. The reader can infer either interpretation based on their own experiences and knowledge.\n\n4. Therefore, the sentence exhibits **Implicative Ambiguity** because it implies something that is not explicitly stated, leaving room for interpretation. The ambiguity arises from the fact that the sentence can be interpreted in two different ways, depending on whether the reader assumes that the statement refers to social media as a general category or specific instances of social media use."
+}
+
+{
+  "id": "103542_g",
+  "premise": "He had been walking for hours, and his feet were sore.",
+  "hypothesis": "He was tired.",
+  "category": "lexical",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'He had been walking for hours, and his feet were sore.', 'hypothesis': 'He was physically exhausted.', 'label': 'entailment'}, {'premise': 'He had been walking for hours, and his feet were sore.', 'hypothesis': 'He was sleepy.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"He had been walking for hours, and his feet were sore.\" exhibits **Syntactic Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's break down the sentence into its main components:\n   - Subject: He\n   - Verb: had been walking\n   - Object: for hours\n   - Conjunction: and\n   - Subject: his feet\n   - Verb: were\n   - Object: sore\n\n2. The syntactic ambiguity arises from the conjunction \"and\" and the placement of the two clauses. The sentence can be parsed in two different ways:\n\n   a. He had been walking for hours, and his feet were sore.\n      In this interpretation, the two clauses are independent, and the sentence suggests that he had been walking for hours, and as a result, his feet were sore.\n\n   b. He had been walking for hours, and his feet were sore, too.\n      In this interpretation, the two clauses are connected, and the sentence suggests that not only had he been walking for hours, but his feet were also sore, just like another situation mentioned earlier.\n\n3. The ambiguity arises because the conjunction \"and\" can be interpreted in two different ways, leading to two distinct meanings. In one interpretation, the two clauses are independent, while in the other interpretation, they are connected.\n\n4. Therefore, the sentence \"He had been walking for hours, and his feet were sore.\" exhibits **Syntactic Ambiguity** due to the potential for two different interpretations based on the structure of the sentence."
+}
+
+{
+  "id": "89_c",
+  "premise": "Alice and Jon disagreed.",
+  "hypothesis": "Alice and Jon disagreed with each other.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'hypothesis': 'Alice and Jon disagreed with each other.', 'premise': 'Alice and Jon disagreed with something.', 'label': None}, {'hypothesis': 'Alice and Jon disagreed with each other.', 'premise': 'Alice and Jon disagreed with each other.', 'label': None}]",
+  "phi3_category": "The sentence \"Alice and Jon disagreed\" exhibits **Coreferential Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence is clear and grammatically correct, so it doesn't exhibit lexical ambiguity (no word has multiple possible meanings).\n2. There's no syntactic ambiguity (the sentence structure doesn't allow for multiple interpretations).\n3. There's no scopal ambiguity (the scope of operators like quantifiers or negations is clear).\n4. There's no elliptical ambiguity (there's no ellipsis in the sentence).\n5. There's no collective/distributive ambiguity (the sentence doesn't involve a plural expression that can refer to individuals or a group).\n6. There's no implicative ambiguity (the sentence doesn't imply something that isn't explicitly stated).\n7. There's no presuppositional ambiguity (the background assumption or presupposition in the sentence is clear).\n8. There's no idiomatic ambiguity (the sentence doesn't contain an idiomatic expression).\n9. The sentence exhibits **Coreferential Ambiguity** because it's unclear which noun the pronoun 'they' refers to. In this case, 'they' could refer to either Alice or Jon, or both of them together. The ambiguity arises from the fact that the pronoun 'they' could be interpreted as referring to either one person (Alice) or two people (Alice and Jon).\n10. There's no generic/non-generic ambiguity (the sentence doesn't refer to a general category or a specific instance).\n11. There's no type/token ambiguity (the sentence doesn't involve a term that can refer to a general category or a specific instance)."
+}
+
+{
+  "id": "26980_g",
+  "premise": "Because of the drought, the city's water supply will run out in two months.",
+  "hypothesis": "The city's water supply will not last two months.",
+  "category": "lexical",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, contradiction",
+  "disambiguations": "[{'premise': \"Because of the drought, the city's water supply will run out within two months.\", 'hypothesis': \"The city's water supply will not last two months.\", 'label': 'entailment'}, {'premise': \"Because of the drought, the city's water supply will run out in exactly two months.\", 'hypothesis': \"The city's water supply will not last two months.\", 'label': 'contradiction'}]",
+  "phi3_category": "The sentence \"Because of the drought, the city's water supply will run out in two months\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence begins with the phrase \"Because of the drought,\" which sets up a cause-and-effect relationship between the drought and the city's water supply running out.\n\n2. The ambiguity arises in the phrase \"the city's water supply will run out in two months.\" The ambiguity lies in the scope of the phrase \"in two months.\"\n\n3. There are two possible interpretations:\n\n   a. The drought will cause the city's water supply to run out in two months.\n   \n   b. The city's water supply will run out in two months, regardless of the drought.\n\n4. In interpretation (a), the drought is the cause of the water supply running out, and the time frame of two months is directly related to the drought's impact.\n\n5. In interpretation (b), the time frame of two months is independent of the drought, and the water supply will run out due to other factors, not necessarily related to the drought.\n\n6. The ambiguity arises because the sentence structure does not clearly indicate which interpretation is intended. The phrase \"in two months\" could be interpreted as either a result of the drought or an independent time frame for the water supply to run out.\n\n7. Therefore, the sentence exhibits Scopal Ambiguity, as the scope of the phrase \"in two months\" can be interpreted in two different ways, leading to different understandings of the cause-and-effect relationship between the drought and the city's water supply running out."
+}
+
+{
+  "id": "47245_g",
+  "premise": "The United Nations has to have a system for monitoring compliance with human rights treaties.",
+  "hypothesis": "The United Nations has a system for monitoring compliance with human rights treaties.",
+  "category": "lexical, pragmatic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral, contradiction",
+  "disambiguations": "[{'premise': 'The United Nations needs to implement a system for monitoring compliance with human rights treaties.', 'hypothesis': 'The United Nations has a system for monitoring compliance with human rights treaties.', 'label': 'contradiction'}, {'premise': 'It must be the case that the United Nations has a system for monitoring compliance with human rights treaties.', 'hypothesis': 'The United Nations has a system for monitoring compliance with human rights treaties.', 'label': 'entailment'}, {'premise': 'It is necessary that the United Nations has a system for monitoring compliance with human rights treaties, whether or not it already does.', 'hypothesis': 'The United Nations has a system for monitoring compliance with human rights treaties.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"The United Nations has to have a system for monitoring compliance with human rights treaties\" does not exhibit any of the listed types of ambiguity. Here's why:\n\n1. **Lexical Ambiguity**: There are no words in the sentence that have multiple possible meanings.\n2. **Syntactic Ambiguity**: The sentence structure is clear and straightforward, with no potential for multiple interpretations.\n3. **Scopal Ambiguity**: There are no quantifiers or negations in the sentence that could have varying scopes.\n4. **Elliptical Ambiguity**: The sentence does not contain any ellipsis, so there are no unclear references.\n5. **Collective/Distributive Ambiguity**: The sentence does not involve a plural expression that could refer to individuals or a group.\n6. **Implicative Ambiguity**: The sentence does not imply anything that isn't explicitly stated.\n7. **Presuppositional Ambiguity**: There are no background assumptions or presuppositions in the sentence that are unclear.\n8. **Idiomatic Ambiguity**: The sentence does not contain any idiomatic phrases that could be interpreted literally or as an idiom.\n9. **Coreferential Ambiguity**: There are no pronouns or phrases in the sentence that could refer to multiple nouns.\n10. **Generic/Non-Generic Ambiguity**: The sentence does not refer to a general category or a specific instance.\n11. **Type/Token Ambiguity**: The sentence does not involve a term that could refer to a general category or a specific instance.\n\nTherefore, the sentence does not exhibit any of the listed types of ambiguity. It is a clear and straightforward statement about the United Nations needing a system for monitoring compliance with human rights treaties."
+}
+
+{
+  "id": "67466_g",
+  "premise": "The company should produce a quarterly report.",
+  "hypothesis": "The company produces a quarterly report.",
+  "category": "lexical, pragmatic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, contradiction",
+  "disambiguations": "[{'premise': 'The company ought to produce a quarterly report, which it does not do right now.', 'hypothesis': 'The company produces a quarterly report.', 'label': 'contradiction'}, {'premise': 'The company ought to produce a quarterly report, which it may already do.', 'hypothesis': 'The company produces a quarterly report.', 'label': 'neutral'}, {'premise': 'The company probably produces a quarterly report.', 'hypothesis': 'The company produces a quarterly report.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"The company should produce a quarterly report\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's identify the ambiguous elements in the sentence. The ambiguity lies in the phrase \"a quarterly report.\"\n\n2. Now, let's consider the possible interpretations of the phrase \"a quarterly report.\"\n\n   a. Interpretation 1: The company should produce a report that is produced every quarter. In this case, \"a quarterly report\" refers to a specific report that is produced every three months.\n\n   b. Interpretation 2: The company should produce a report that is produced once every quarter. In this case, \"a quarterly report\" refers to a report that is produced once in a year, with each quarter having its own report.\n\n3. Comparing the two interpretations, we can see that the scope of the word \"quarterly\" can vary, leading to different understandings of the sentence.\n\n4. Therefore, the sentence \"The company should produce a quarterly report\" exhibits **Scopal Ambiguity**, as the scope of the word \"quarterly\" can be interpreted in two different ways, resulting in two distinct meanings."
+}
+
+{
+  "id": "87325_g",
+  "premise": "It's not just because she's the boss's daughter that she gets whatever she wants.",
+  "hypothesis": "She gets whatever she wants because she's the boss's daughter.",
+  "category": "lexical, pragmatic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, neutral, contradiction",
+  "disambiguations": "[{'premise': \"It's not only because she's the boss's daughter that she gets whatever she wants; there are other factors too.\", 'hypothesis': \"She gets whatever she wants in part because she's the boss's daughter.\", 'label': 'entailment'}, {'premise': \"It's the simple reason that she's the boss's daughter that explains how she gets whatever she wants.\", 'hypothesis': \"She gets whatever she wants in part because she's the boss's daughter.\", 'label': 'neutral'}, {'premise': \"It's not only because she's the boss's daughter that she gets whatever she wants; there are other factors too.\", 'hypothesis': \"She gets whatever she wants entirely because she's the boss's daughter.\", 'label': 'contradiction'}, {'premise': \"It's the simple reason that she's the boss's daughter that explains how she gets whatever she wants.\", 'hypothesis': \"She gets whatever she wants entirely because she's the boss's daughter.\", 'label': 'contradiction'}]",
+  "phi3_category": "The sentence \"It's not just because she's the boss's daughter that she gets whatever she wants\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence contains the phrase \"It's not just because she's the boss's daughter.\"\n2. The phrase \"that she gets whatever she wants\" follows the phrase \"It's not just because.\"\n3. The ambiguity arises from the scope of the phrase \"that she gets whatever she wants.\"\n4. One interpretation is that \"that she gets whatever she wants\" is a consequence of her being the boss's daughter. In this interpretation, \"that\" refers to the reason she gets whatever she wants.\n5. Another interpretation is that \"that\" introduces a new reason for her getting whatever she wants, unrelated to her being the boss's daughter. In this interpretation, \"that\" does not refer to the reason mentioned earlier.\n6. The ambiguity lies in the scope of \"that\" and whether it refers back to the reason mentioned earlier or introduces a new reason.\n7. Therefore, the sentence exhibits Scopal Ambiguity."
+}
+

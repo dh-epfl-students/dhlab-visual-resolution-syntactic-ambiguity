@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "even though he was failing, he refused to give up",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.454421997070312
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.421558380126953
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (SBAR (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.420578002929688
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.339405059814453
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.339405059814453
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.339405059814453
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.339405059814453
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.339405059814453
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.339405059814453
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.33940315246582
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.33940315246582
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.33940315246582
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (S (NP (PRP he)) (S (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.33940315246582
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.158103942871094
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.125240325927734
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (SBAR (RB even) (IN though) (S (NP (PRP he)) (SBAR (VBD was)))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.124259948730469
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was)) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up)))))))",
+                "score": 12.115957260131836
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            },
+            {
+                "structure": "(S (RB even) (IN though) (S (NP (PRP he)) (VP (VBD was))) (RB failing,) (NP (PRP he)) (VP (VBD refused) (S (TO to) (VP (VB give) (PRT (RP up))))))",
+                "score": 12.099634170532227
+            }
+        ],
+        "scores": [
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.454421997070312,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.421558380126953,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.420578002929688,
+            12.339405059814453,
+            12.339405059814453,
+            12.339405059814453,
+            12.339405059814453,
+            12.339405059814453,
+            12.339405059814453,
+            12.33940315246582,
+            12.33940315246582,
+            12.33940315246582,
+            12.33940315246582,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.158103942871094,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.125240325927734,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.124259948730469,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.115957260131836,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227,
+            12.099634170532227
+        ]
+    }
+]

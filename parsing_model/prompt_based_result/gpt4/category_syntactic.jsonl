@@ -1,0 +1,199 @@
+{
+  "id": "72_c",
+  "premise": "An enranged cow injured a farmer with an ax.",
+  "hypothesis": "The ax was used to injure the farmer.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "gpt_category": "The sentence “An enraged cow injured a farmer with an ax” exhibits Syntactic Ambiguity. This ambiguity arises because the structure of the sentence allows for multiple interpretations regarding who or what is associated with “an ax”. It could be parsed to mean that the cow used an ax to injure the farmer, or that the farmer was carrying an ax when he was injured by the cow. This ambiguity results from the positioning and association of “with an ax” in the sentence, leading to different interpretations of the events described."
+}
+
+{
+  "id": "77_c",
+  "premise": "He sightread the piece with a lot of F naturals.",
+  "hypothesis": "The piece contains a lot of F naturals.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He sightread the piece that contains a lot of F naturals.', 'label': None}, {'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He played a lot of F naturals when sightreading the piece.', 'label': None}]",
+  "gpt_category": "The sentence “He sightread the piece with a lot of F naturals” exhibits Syntactic Ambiguity. This type of ambiguity arises because the phrase “with a lot of F naturals” can be interpreted in multiple ways based on its syntactic attachment in the sentence: 1.	It could mean that the piece of music itself contains many F naturals, and he sightread that piece. 2.	Alternatively, it could imply that when he sightread the piece, he played a lot of F naturals, perhaps as an interpretation or mistake. The ambiguity stems from the uncertainty about whether “with a lot of F naturals” modifies “the piece” or the manner in which “he sightread” the piece."
+}
+
+{
+  "id": "73_c",
+  "premise": "The hospital is being sued by six foot doctors.",
+  "hypothesis": "Six doctors are suing the hospital.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by six podiatrists.', 'label': None}, {'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by doctors who are six feet tall.', 'label': None}]",
+  "gpt_category_1": "The sentence “The hospital is being sued by six foot doctors” exhibits Lexical Ambiguity. This ambiguity arises because the phrase “six foot doctors” can be interpreted in two different ways:
+
+	1.	It could mean that six doctors, who specialize in foot and ankle medicine, are suing the hospital.
+	2.	Alternatively, it could imply that doctors who are exactly six feet tall are suing the hospital.
+
+The ambiguity here revolves around whether “foot” is taken as a measure of height or as a medical specialization, making it a classic example of lexical ambiguity where a single term (“foot”) has multiple meanings."
+  "gpt_category_2": "Let’s reconsider the analysis. The phrase “The hospital is being sued by six foot doctors” indeed features ambiguity, but on closer inspection, it might not be lexical but rather Syntactic Ambiguity.
+
+Here’s why:
+
+	1.	“Six foot doctors” can syntactically be parsed as:
+	•	“Six foot-doctors” (six doctors specializing in treating feet).
+	•	“Six-foot doctors” (doctors who are six feet tall).
+
+The ambiguity arises not just from the multiple meanings of “foot” (lexical), but more so from how the words “six,” “foot,” and “doctors” are grouped and interpreted (syntactic). The construction leads to uncertainty in parsing whether “foot” is a descriptor of the type of doctors or a measure of their height. This qualifies primarily as Syntactic Ambiguity because the structure of the sentence allows these multiple interpretations."
+  }
+
+{
+  "id": "44_c",
+  "premise": "The professor said on Monday he would give an exam.",
+  "hypothesis": "The professor said the exam will be on Monday.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, entailment",
+  "disambiguations": "[{'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said on Monday that he would give an exam.', 'label': None}, {'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said that on Monday, he would give an exam.', 'label': None}]",
+  "gpt_category_1": "The sentence “The professor said on Monday he would give an exam” exhibits Scopal Ambiguity. This type of ambiguity involves the scope of temporal phrases or modifiers. Here are the possible interpretations:
+
+	1.	“On Monday, the professor said he would give an exam” — implying that the statement was made on Monday, but the exam could be scheduled for a different day.
+	2.	“The professor said he would give an exam on Monday” — implying that the exam is scheduled to be given on Monday, irrespective of when the statement was made.
+
+This ambiguity arises from the placement of “on Monday” and whether it modifies the verb “said” or the verb phrase “would give an exam,” affecting the timing of both the announcement and the action of the exam itself. This is a classic case of Scopal Ambiguity, where the temporal scope of “on Monday” is uncertain.",
+  "gpt_category_2": "Let’s reevaluate the sentence “The professor said on Monday he would give an exam” with a fresh perspective. This sentence does indeed involve ambiguity, specifically about when certain events are taking place. Initially, I identified it as Scopal Ambiguity, but upon closer inspection, the primary ambiguity stems from how the temporal phrase “on Monday” is associated with different parts of the sentence, which could better classify it under Syntactic Ambiguity:
+
+	1.	“On Monday, the professor said he would give an exam” — suggests that the statement about the exam was made on Monday.
+	2.	“The professor said he would give an exam on Monday” — suggests that the exam itself is scheduled for Monday.
+
+This ambiguity stems from the placement and parsing of “on Monday,” affecting whether it is modifying “said” or “would give an exam.” Hence, it is more accurately described as Syntactic Ambiguity because the structure of the sentence allows for multiple interpretations of when the professor said something and when the exam is supposed to occur."
+}
+
+{
+  "id": "16733_g",
+  "premise": "Even though he was failing, he refused to give up.",
+  "hypothesis": "He refused to give up because he was failing.",
+  "category": "syntactic",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, contradiction",
+  "disambiguations": "[{'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up as a result of his failing.', 'label': 'entailment'}, {'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up, because he was failing.', 'label': 'contradiction'}]",
+  "gpt_category_1": "The sentence “Even though he was failing, he refused to give up” illustrates Implicative Ambiguity. This type of ambiguity arises because the sentence implies something that isn’t explicitly stated about the nature of “failing”:
+
+	1.	It could imply that he was failing in a specific endeavor, task, or class, suggesting a particular and identifiable situation.
+	2.	Alternatively, the term “failing” could be referring to a broader, more general failure such as failing health or overall performance in multiple areas, without specifying what exactly he is failing at.
+
+The ambiguity here is in what “failing” specifically refers to and the implication that despite whatever this “failing” condition is, he continues to persist, leaving the exact nature of his perseverance and the specifics of his failure open to interpretation. This makes it a clear case of Implicative Ambiguity, where the implication extends beyond what is explicitly stated.",
+  "gpt_category_2": "Let’s reevaluate the sentence “Even though he was failing, he refused to give up.” After further consideration, the ambiguity in this sentence doesn’t quite fit the category of Implicative Ambiguity upon close inspection. Instead, this sentence is straightforward in expressing that despite failing, the subject chose to persevere. There’s no significant implied meaning hidden beyond the clear textual meaning, nor does it fit the provided categories of ambiguity directly, such as syntactic or lexical ambiguity.
+
+This sentence might suggest a form of ambiguity regarding the nature or scope of “failing,” but it’s more about the lack of specific detail rather than a true structural or lexical ambiguity as defined in your categories. It might be tempting to see it as implicating various possible areas of failure, but it simply states a contrast between failing and perseverance without ambiguity in the syntactic or lexical structure.
+
+In conclusion, upon reanalysis, “Even though he was failing, he refused to give up” does not exhibit a strong ambiguity as defined by the provided categories. It’s a straightforward statement about determination in the face of adversity. If forced to fit into one of the categories, one might stretch it to a Generic/Non-Generic Ambiguity where “failing” could be interpreted generally (as in many aspects) or specifically (as in a specific task), but this is not a clear-cut case."
+}
+
+{
+  "id": "64_c",
+  "premise": "He always flaunts his mother's advice to follow his own dreams.",
+  "hypothesis": null,
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': \"He always flaunts his mother's advice, in order to follow his own dreams instead.\", 'label': None}, {'hypothesis': None, 'premise': \"He always flaunts his mother's advice, which is to follow his own dreams.\", 'label': None}]",
+  "gpt_category_1": "The sentence “He always flaunts his mother’s advice to follow his own dreams” exhibits Lexical Ambiguity. The ambiguity arises from the word “flaunts,” which can have multiple meanings that significantly alter the interpretation of the sentence:
+
+	1.	“Flaunts” is commonly understood to mean “to show off” or “display ostentatiously,” which in this context could imply that he is proudly showing off the fact that he follows his mother’s advice.
+	2.	Alternatively, “flaunts” might be intended or mistakenly used in place of “flouts,” which means “to openly disregard.” This interpretation would imply that he openly disregards his mother’s advice to follow his own dreams.
+
+This ambiguity in the word choice leads to two drastically different understandings of how he interacts with his mother’s advice, making it a clear example of Lexical Ambiguity.",
+  "gpt_category_2": "Reevaluating the sentence “He always flaunts his mother’s advice to follow his own dreams,” I can see a different angle that might have been overlooked. Initially, I considered Lexical Ambiguity due to the possible confusion between “flaunts” and “flouts.” However, after another look, it appears there’s a more pronounced ambiguity that concerns the structure and intent of the sentence itself, leaning toward Syntactic Ambiguity.
+
+The potential syntactic ambiguity here comes from how the phrase “to follow his own dreams” is attached in the sentence:
+
+	1.	It could imply that his mother advises him to follow his own dreams, and he shows off or disregards this specific advice.
+	2.	Alternatively, it could mean that he flaunts his mother’s advice in general by choosing to follow his own dreams, which is not necessarily the content of the advice itself but rather his action in response to receiving any advice.
+
+This ambiguity stems from whether “to follow his own dreams” is a description of the advice given by his mother or an independent action taken by him in defiance or in ostentation of any advice from his mother. Thus, the sentence’s structure allows these multiple interpretations, making it primarily a case of Syntactic Ambiguity."
+}
+
+{
+  "id": "18_c",
+  "premise": "This seminar is full now, but interesting seminars are being offered next quarter too.",
+  "hypothesis": "There will be more interesting seminars next quarter.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[]",
+  "gpt_category_1": "The sentence “This seminar is full now, but interesting seminars are being offered next quarter too” exhibits Presuppositional Ambiguity. This ambiguity arises from the presupposition introduced by the word “too” at the end of the sentence:
+
+	1.	It could imply that in addition to the current seminar being full, similar seminars that were offered before are also full.
+	2.	Alternatively, the use of “too” could be suggesting that interesting seminars were also offered in previous quarters, not necessarily related to being full or not.
+
+The ambiguity revolves around what the “too” is referring to — whether it’s hinting at the full status of previous seminars or merely their availability, like the ones in the upcoming quarter. This ambiguity in the presupposition makes it difficult to determine the exact relationship between the seminars being full and their offerings across different quarters.",
+  "gpt_category_2": "Revisiting the sentence “This seminar is full now, but interesting seminars are being offered next quarter too,” let’s reconsider the type of ambiguity present.
+
+Upon further reflection, Presuppositional Ambiguity might not be the best fit, as the sentence primarily involves a Syntactic Ambiguity rather than an ambiguity in presupposition. This ambiguity arises due to the structural placement and interpretation of the word “too”:
+
+	1.	“Interesting seminars are being offered next quarter too” could imply that like this seminar, which is full now, there will be other interesting seminars next quarter — suggesting a continuity or similarity in offering interesting seminars.
+	2.	Alternatively, “too” could be emphasizing that not only this quarter but also in the next quarter, seminars (which are interesting) are available — indicating an extension in time of availability rather than a comparison of characteristics.
+
+This structural ambiguity centers around whether “too” is emphasizing the similarity of seminars in nature (interesting) or their continued availability over time, making it a case of Syntactic Ambiguity where the phrasing allows for multiple interpretations of how the seminars relate across time periods."
+}
+
+{
+  "id": "93_c",
+  "premise": "I would like to finish the book sometime this year.",
+  "hypothesis": "I am writing a book.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "gpt_category_1": "The sentence “I would like to finish the book sometime this year” presents a form of Scopal Ambiguity. This ambiguity revolves around the scope and interpretation of the temporal phrase “sometime this year”:
+
+	1.	It could mean that the speaker intends to complete the reading of the book at an unspecified time within the current year.
+	2.	Alternatively, “sometime this year” could be interpreted to mean that the speaker plans to have the book entirely completed (possibly referring to writing or publishing it) within the year.
+
+This type of ambiguity involves the scope of the action “finish” being uncertain in relation to the temporal context provided by “sometime this year,” affecting whether it’s about concluding the act of reading or the act of producing the book. Thus, Scopal Ambiguity is the most appropriate classification here, as the ambiguity arises from how the temporal qualifier “this year” relates to the action “finish.”",
+  "gpt_category_2": "Reassessing the sentence “I would like to finish the book sometime this year,” I realize it might not explicitly exhibit Scopal Ambiguity as initially thought. The ambiguity here is less about quantifier or negation scopes and more about a general interpretation of the sentence’s meaning based on the phrase “sometime this year.”
+
+The sentence is quite straightforward in stating a goal within a defined time frame, without explicitly varying scopes or interpretations on how temporal elements interact with the verb. There isn’t a quantifier or operator whose scope could be in question; rather, the sentence might vaguely suggest a Generic/Non-Generic Ambiguity where:
+
+	1.	Generic: The phrase could refer to the general ongoing process of reading or working on a book over the year.
+	2.	Non-Generic: It could imply a specific goal or instance of finishing a particular book by the end of the year.
+
+However, even this categorization might be a stretch, as the sentence doesn’t strongly align with the typical examples of ambiguity types listed. It’s more of a straightforward statement of intent without substantial ambiguity in syntactic construction, lexical choice, or logical structure. If anything, it might hint at a subtle form of Type/Token Ambiguity where “the book” could refer to any book in general (type) or a specific book the speaker is currently engaged with (token). However, even this isn’t strongly indicated by the sentence as presented.
+
+So, upon reflection, this sentence might best be described as having minimal or no significant ambiguity within the types specified.​⬤"
+}
+
+
+{
+  "id": "131_c",
+  "premise": "I don\u2019t know if she is a US citizen or Green Card holder.",
+  "hypothesis": null,
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "gpt_category_1": "The sentence “I don’t know if she is a US citizen or Green Card holder” presents an example of Lexical Ambiguity. This ambiguity arises from the use of the term “Green Card holder”:
+
+	1.	“Green Card holder” could refer specifically to someone who holds lawful permanent residency in the United States, distinct from citizenship.
+	2.	Alternatively, the ambiguity could lie in interpreting “Green Card holder” as someone who is in possession of a green card, possibly implying different types of identification or documents colloquially referred to as “green cards,” beyond the specific legal status for U.S. immigration.
+
+However, in common usage, the term “Green Card holder” does tend to specifically refer to U.S. lawful permanent residents. The ambiguity is relatively minimal and relates primarily to how one might interpret the term more broadly in less common contexts. The sentence clearly contrasts U.S. citizenship with holding a Green Card, typically understood in the context of U.S. immigration status.",
+  "gpt_category_2": "sentence may not actually exhibit Lexical Ambiguity as initially thought. The terms “US citizen” and “Green Card holder” are quite clear in their meanings in this context.
+
+Instead, the sentence is better understood as an example of a straightforward statement expressing uncertainty about someone’s legal status in the U.S., without any inherent ambiguity in the terms themselves. There’s a clear distinction between the two statuses:
+
+	•	US citizen: A person who has citizenship in the United States, either by birth or naturalization.
+	•	Green Card holder: A person who has lawful permanent resident status in the U.S., but not citizenship.
+
+This sentence does not fit neatly into any of the provided types of ambiguity. It directly addresses a lack of knowledge regarding whether a person is a U.S. citizen or holds a Green Card, both specific legal designations with distinct rights and responsibilities.
+
+Upon further reflection, there is no syntactic complexity or multiple interpretations of phrase structure that would suggest Syntactic Ambiguity, nor is there a misunderstanding of terms for Lexical Ambiguity. The sentence simply presents a binary query without ambiguity, merely stating uncertainty about which of two specific legal statuses applies to the individual in question. Thus, it might not align with any specific type of ambiguity listed, being more about expressing uncertainty than presenting multiple interpretive options."
+}

@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "the hospital is being sued by six foot doctors",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 9.242777824401855
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 9.242777824401855
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.697967529296875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.697967529296875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.697967529296875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.697967529296875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.512282371520996
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.512282371520996
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.512282371520996
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.512282371520996
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.383596420288086
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.383596420288086
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.383596420288086
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.383596420288086
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 8.283190727233887
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 8.283190727233887
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.016800880432129
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.016800880432129
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.016800880432129
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 8.016800880432129
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six) (NN foot)) (NNS doctors)))))))",
+                "score": 8.007529258728027
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.967471599578857
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.887501239776611
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.887501239776611
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.887501239776611
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.887501239776611
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.887501239776611
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.838785648345947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.794004917144775
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (S (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.794004917144775
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six)) (NN foot) (NNS doctors)))))))",
+                "score": 7.755375385284424
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (ADJP (CD six)) (NN foot) (NNS doctors)))))))",
+                "score": 7.755375385284424
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.738380432128906
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.738380432128906
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.738380432128906
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.738380432128906
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.699350833892822
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VP (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.699350833892822
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.6872687339782715
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.6872687339782715
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (QP (CD six)) (NN foot) (NNS doctors)))))))",
+                "score": 7.672155857086182
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (QP (CD six)) (NN foot) (NNS doctors)))))))",
+                "score": 7.672155857086182
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.653100490570068
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (FRAG (VBZ is)) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.640313625335693
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (FRAG (VBZ is)) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.640313625335693
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.628236293792725
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (VP (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.628236293792725
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (PRN (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.617722034454346
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (PRN (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.617722034454346
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (NP (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.609241008758545
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (NP (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.609241008758545
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (UCP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.581140041351318
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (UCP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.581140041351318
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (UCP (CD six) (NN foot)) (NNS doctors)))))))",
+                "score": 7.576252460479736
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (FRAG (CD six) (NN foot)) (NNS doctors)))))))",
+                "score": 7.561126232147217
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.552695274353027
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.552695274353027
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.552695274353027
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors))))))",
+                "score": 7.552695274353027
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (X (NNS doctors))))))))",
+                "score": 7.548459529876709
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (X (NNS doctors))))))))",
+                "score": 7.548459529876709
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (NP (CD six) (NN foot)) (NNS doctors)))))))",
+                "score": 7.530203342437744
+            },
+            {
+                "structure": "(S (NP (DT the) (VP (NN hospital))) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.528513431549072
+            },
+            {
+                "structure": "(S (NP (DT the) (VP (NN hospital))) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.528513431549072
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (FRAG (CD six) (NN foot)) (NNS doctors)))))))",
+                "score": 7.520638942718506
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (NP (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.517301082611084
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (NP (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.517301082611084
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.5162835121154785
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (FRAG (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.5162835121154785
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.5155720710754395
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (FRAG (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.5155720710754395
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (PRN (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.513102054595947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (PRN (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.513102054595947
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (VP (CD six) (NN foot)) (NNS doctors)))))))",
+                "score": 7.503177165985107
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (S (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.5019612312316895
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (S (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.5019612312316895
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (S (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.497790813446045
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (S (IN by)) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.497790813446045
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (RRC (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.496098041534424
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (RRC (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.496098041534424
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (WHNP (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.487247943878174
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (WHNP (VBN sued)) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.487247943878174
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.484737873077393
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.484737873077393
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.477248668670654
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VP (VBZ is) (VP (VBG being) (VP (VBN sued) (PP (IN by) (NP (CD six) (NN foot) (NNS doctors)))))))",
+                "score": 7.477248668670654
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.471991062164307
+            },
+            {
+                "structure": "(S (NP (DT the) (NN hospital)) (VBZ is) (VP (VBG being) (VP (VBN sued) (IN by) (NP (CD six) (NN foot) (NNS doctors)))))",
+                "score": 7.471991062164307
+            }
+        ],
+        "scores": [
+            9.242777824401855,
+            9.242777824401855,
+            8.697967529296875,
+            8.697967529296875,
+            8.697967529296875,
+            8.697967529296875,
+            8.512282371520996,
+            8.512282371520996,
+            8.512282371520996,
+            8.512282371520996,
+            8.383596420288086,
+            8.383596420288086,
+            8.383596420288086,
+            8.383596420288086,
+            8.283190727233887,
+            8.283190727233887,
+            8.016800880432129,
+            8.016800880432129,
+            8.016800880432129,
+            8.016800880432129,
+            8.007529258728027,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.967471599578857,
+            7.887501239776611,
+            7.887501239776611,
+            7.887501239776611,
+            7.887501239776611,
+            7.887501239776611,
+            7.838785648345947,
+            7.838785648345947,
+            7.838785648345947,
+            7.838785648345947,
+            7.838785648345947,
+            7.838785648345947,
+            7.838785648345947,
+            7.838785648345947,
+            7.794004917144775,
+            7.794004917144775,
+            7.755375385284424,
+            7.755375385284424,
+            7.738380432128906,
+            7.738380432128906,
+            7.738380432128906,
+            7.738380432128906,
+            7.699350833892822,
+            7.699350833892822,
+            7.6872687339782715,
+            7.6872687339782715,
+            7.672155857086182,
+            7.672155857086182,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.653100490570068,
+            7.640313625335693,
+            7.640313625335693,
+            7.628236293792725,
+            7.628236293792725,
+            7.617722034454346,
+            7.617722034454346,
+            7.609241008758545,
+            7.609241008758545,
+            7.581140041351318,
+            7.581140041351318,
+            7.576252460479736,
+            7.561126232147217,
+            7.552695274353027,
+            7.552695274353027,
+            7.552695274353027,
+            7.552695274353027,
+            7.548459529876709,
+            7.548459529876709,
+            7.530203342437744,
+            7.528513431549072,
+            7.528513431549072,
+            7.520638942718506,
+            7.517301082611084,
+            7.517301082611084,
+            7.5162835121154785,
+            7.5162835121154785,
+            7.5155720710754395,
+            7.5155720710754395,
+            7.513102054595947,
+            7.513102054595947,
+            7.503177165985107,
+            7.5019612312316895,
+            7.5019612312316895,
+            7.497790813446045,
+            7.497790813446045,
+            7.496098041534424,
+            7.496098041534424,
+            7.487247943878174,
+            7.487247943878174,
+            7.484737873077393,
+            7.484737873077393,
+            7.477248668670654,
+            7.477248668670654,
+            7.471991062164307,
+            7.471991062164307
+        ]
+    }
+]

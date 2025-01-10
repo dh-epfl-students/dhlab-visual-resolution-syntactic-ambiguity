@@ -1,0 +1,108 @@
+{
+  "id": "72_c",
+  "premise": "An enranged cow injured a farmer with an ax.",
+  "hypothesis": "The ax was used to injure the farmer.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Lexical Ambiguity** (Type 1).\n\nHere's my reasoning:\n\n1. The sentence contains the word \"enranged\", which is likely to be a typo or a mistake. The correct word is probably \"enraged\", meaning angry or furious.\n2. The word \"enraged\" can have multiple meanings, depending on the context. In this sentence, it could mean that the cow was angry and therefore attacked the farmer, or it could mean that the cow was enraged in the sense that it was driven by a strong emotion, such as rage or fury.\n3. The ambiguity arises because the word \"enraged\" has multiple possible meanings, which can lead to different interpretations of the sentence. This is a classic example of lexical ambiguity, where a single word has multiple possible meanings.\n\nIn contrast, the other types of ambiguity (syntactic, scopal, elliptical, collective/distributive, implicative, presuppositional, idiomatic, coreferential, generic/non-generic, and type/token) do not appear to be present in this sentence. There is no ambiguity in the sentence structure, scope of operators, ellipsis, or references to individuals or groups. The sentence does not imply something that isn't explicitly stated, and there is no unclear background assumption or presupposition. The phrase \"injured a farmer with an ax\" is not ambiguous, and the sentence does not contain idioms or refer to specific instances or categories.\n\nTherefore, I conclude that the sentence \"An enranged cow injured a farmer with an ax\" is an example of lexical ambiguity, specifically due to the multiple possible meanings of the word \"enraged\"."
+}
+
+{
+  "id": "77_c",
+  "premise": "He sightread the piece with a lot of F naturals.",
+  "hypothesis": "The piece contains a lot of F naturals.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He sightread the piece that contains a lot of F naturals.', 'label': None}, {'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He played a lot of F naturals when sightreading the piece.', 'label': None}]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Lexical Ambiguity**.\n\nHere's my reasoning:\n\n1. The word \"sightread\" has multiple possible meanings. In music, \"sightread\" means to play a piece without prior practice or rehearsal, simply by reading the sheet music. However, \"sightread\" can also be interpreted as \"to read with one's eyes,\" which is a more general meaning of the word.\n2. The context of the sentence does not disambiguate the meaning of \"sightread.\" The phrase \"with a lot of F naturals\" suggests that the speaker is referring to a musical piece, which supports the musical meaning of \"sightread.\" However, the phrase does not eliminate the possibility that \"sightread\" is used in its more general sense.\n3. The sentence does not contain any other words that would disambiguate the meaning of \"sightread.\" There are no other words that would strongly suggest the musical meaning of \"sightread\" over the general meaning.\n\nTherefore, I conclude that the sentence exhibits **Lexical Ambiguity**, as the word \"sightread\" has multiple possible meanings and the context does not disambiguate the meaning."
+}
+
+{
+  "id": "73_c",
+  "premise": "The hospital is being sued by six foot doctors.",
+  "hypothesis": "Six doctors are suing the hospital.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by six podiatrists.', 'label': None}, {'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by doctors who are six feet tall.', 'label': None}]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Lexical Ambiguity** (Type 1).\n\nHere's my reasoning:\n\n1. The sentence contains the phrase \"six foot doctors.\"\n2. The word \"foot\" has multiple possible meanings:\n\t* \"Foot\" can refer to the unit of length, as in \"six feet tall.\"\n\t* \"Foot\" can also refer to a medical specialist, as in \"podiatrist\" (a doctor who specializes in feet).\n3. The sentence structure does not provide enough context to disambiguate the meaning of \"foot.\" The phrase \"six foot doctors\" could be interpreted as either \"doctors who are six feet tall\" or \"doctors who specialize in feet.\"\n4. The other types of ambiguity (syntactic, scopal, elliptical, collective/distributive, implicative, presuppositional, idiomatic, coreferential, generic/non-generic, and type/token) do not seem to be relevant in this sentence.\n\nIn conclusion, the ambiguity in the sentence \"The hospital is being sued by six foot doctors\" arises from the multiple possible meanings of the word \"foot,\" which is a classic example of lexical ambiguity."
+}
+
+{
+  "id": "44_c",
+  "premise": "The professor said on Monday he would give an exam.",
+  "hypothesis": "The professor said the exam will be on Monday.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, entailment",
+  "disambiguations": "[{'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said on Monday that he would give an exam.', 'label': None}, {'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said that on Monday, he would give an exam.', 'label': None}]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Coreferential Ambiguity** (Type 9). Here's my reasoning:\n\n1. The sentence contains a pronoun, \"he\", which refers to the professor.\n2. The pronoun \"he\" is ambiguous because it can refer to either the professor or the speaker (the person saying the sentence).\n3. The sentence does not provide enough context to disambiguate the reference, leaving the reader wondering whether the professor said \"he\" would give an exam or the speaker is saying \"he\" would give an exam.\n\nIn this case, the ambiguity arises from the lack of clear reference for the pronoun \"he\", making it unclear which noun it refers to. This is a classic example of Coreferential Ambiguity, where it's unclear which noun a pronoun or phrase refers to.\n\nThe other types of ambiguity do not apply in this case:\n\n* Lexical Ambiguity: There are no words with multiple meanings in the sentence.\n* Syntactic Ambiguity: The sentence structure is clear and unambiguous.\n* Scopal Ambiguity: There are no quantifiers or negations that could be interpreted differently.\n* Elliptical Ambiguity: There is no ellipsis in the sentence to lead to unclear references.\n* Collective/Distributive Ambiguity: The sentence does not refer to a group or individuals.\n* Implicative Ambiguity: The sentence does not imply anything that isn't explicitly stated.\n* Presuppositional Ambiguity: There is no unclear background assumption or presupposition in the sentence.\n* Idiomatic Ambiguity: The sentence does not contain an idiom that can be interpreted literally or figuratively.\n* Generic/Non-Generic Ambiguity: The sentence does not refer to a general category or a specific instance.\n* Type/Token Ambiguity: The sentence does not contain a term that could refer to a general category or a specific instance."
+}
+
+{
+  "id": "16733_g",
+  "premise": "Even though he was failing, he refused to give up.",
+  "hypothesis": "He refused to give up because he was failing.",
+  "category": "syntactic",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, contradiction",
+  "disambiguations": "[{'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up as a result of his failing.', 'label': 'entailment'}, {'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up, because he was failing.', 'label': 'contradiction'}]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Scopal Ambiguity** (Type 3).\n\nHere's my reasoning:\n\n1. The sentence contains a conditional clause \"Even though he was failing\" that sets a context for the main clause \"he refused to give up\".\n2. The main clause \"he refused to give up\" can be interpreted in two ways:\n\t* \"he refused to give up\" means that he refused to abandon his efforts or goals, even though he was failing. In this interpretation, the scope of the negation \"refused\" is over the verb \"give up\", implying that he was not willing to give up his efforts.\n\t* Alternatively, \"he refused to give up\" could mean that he refused to surrender or admit defeat, even though he was failing. In this interpretation, the scope of the negation \"refused\" is over the verb \"give up\" in the sense of surrendering or admitting defeat, implying that he was not willing to surrender or admit defeat.\n3. The ambiguity arises because the scope of the negation \"refused\" is not explicitly specified, leaving room for interpretation. This is a classic example of scopal ambiguity, where the scope of an operator (in this case, the negation \"refused\") can vary, leading to different interpretations of the sentence.\n\nIn conclusion, the sentence \"Even though he was failing, he refused to give up\" exhibits scopal ambiguity, as the scope of the negation \"refused\" is unclear, allowing for two different interpretations of the sentence."
+}
+
+{
+  "id": "64_c",
+  "premise": "He always flaunts his mother's advice to follow his own dreams.",
+  "hypothesis": null,
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': \"He always flaunts his mother's advice, in order to follow his own dreams instead.\", 'label': None}, {'hypothesis': None, 'premise': \"He always flaunts his mother's advice, which is to follow his own dreams.\", 'label': None}]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Syntactic Ambiguity**. Here's my reasoning:\n\nThe sentence contains a relative clause \"his mother's advice\" which is modifying the noun \"advice\". However, the phrase \"his mother's advice\" can be parsed in two different ways:\n\n1. **Parsing 1:** [He always flaunts] [his mother's advice] [to follow his own dreams]\nIn this interpretation, \"his mother's advice\" is the object of the verb \"flaunts\", and \"to follow his own dreams\" is the direct object of the verb \"advice\". This reading implies that He is flaunting the advice itself, which is to follow his own dreams.\n\n2. **Parsing 2:** [He always flaunts his mother's] [advice to follow his own dreams]\nIn this interpretation, \"his mother's\" is a possessive adjective modifying the noun \"advice\", and the phrase \"to follow his own dreams\" is the object of the verb \"advice\". This reading implies that He is flaunting his mother's advice, which is to follow his own dreams.\n\nThe ambiguity arises from the fact that the sentence structure allows for both of these interpretations, making it unclear which one is intended. This is an example of Syntactic Ambiguity, where the sentence structure allows for multiple interpretations.\n\nThe other types of ambiguity do not apply in this case:\n\n* Lexical Ambiguity: No word has multiple meanings.\n* Scopal Ambiguity: No scope ambiguity is present, as the quantifiers and negations are not involved.\n* Elliptical Ambiguity: No ellipsis is present.\n* Collective/Distributive Ambiguity: No collective or distributive reading is possible.\n* Implicative Ambiguity: No implication is made that isn't explicitly stated.\n* Presuppositional Ambiguity: No background assumption or presupposition is unclear.\n* Idiomatic Ambiguity: No phrase can be interpreted literally or as an idiom.\n* Coreferential Ambiguity: No pronoun or phrase refers to an unclear noun.\n* Generic/Non-Generic Ambiguity: No general category or specific instance is unclear.\n* Type/Token Ambiguity: No term refers to a general category or specific instance."
+}
+
+{
+  "id": "18_c",
+  "premise": "This seminar is full now, but interesting seminars are being offered next quarter too.",
+  "hypothesis": "There will be more interesting seminars next quarter.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Syntactic Ambiguity**. Here's my reasoning:\n\nThe sentence contains a relative clause \"interesting seminars are being offered next quarter too\" that can be parsed in two ways:\n\n1. **Parsing 1:** \"This seminar is full now, but interesting seminars (that are being offered next quarter too) are being offered next quarter too.\"\n\nIn this parsing, the relative clause \"interesting seminars are being offered next quarter too\" modifies the noun \"seminars\", indicating that there are interesting seminars being offered next quarter, in addition to the current seminar being full. This parsing implies that the speaker is suggesting alternative seminars.\n\n2. **Parsing 2:** \"This seminar is full now, but this seminar (is being offered next quarter too), and interesting seminars are being offered next quarter too.\"\n\nIn this parsing, the relative clause \"is being offered next quarter too\" modifies the noun \"this seminar\", indicating that this seminar is being offered next quarter, in addition to being full now. The clause \"interesting seminars are being offered next quarter too\" then provides additional information about the seminars being offered. This parsing implies that the speaker is suggesting that this seminar is being offered next quarter, and that there are other interesting seminars available.\n\nThe ambiguity arises because the sentence structure allows for these two different parses, making it unclear which interpretation is intended. This is a classic example of syntactic ambiguity, where the sentence structure allows for multiple, competing interpretations."
+}
+
+{
+  "id": "93_c",
+  "premise": "I would like to finish the book sometime this year.",
+  "hypothesis": "I am writing a book.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Generic/Non-Generic Ambiguity**. Here's my reasoning:\n\n1. The sentence mentions \"the book\", which is a specific instance (token). However, it also implies that the speaker wants to finish reading the book, which suggests that the book is a general category (type) that can be finished reading.\n2. The phrase \"sometime this year\" provides a time frame for finishing the book, but it doesn't specify which book is being referred to. This ambiguity arises because the speaker might be referring to a specific book they started reading earlier, or they might be referring to any book they want to read within the given time frame.\n3. The sentence structure doesn't provide clear clues to disambiguate the meaning. It doesn't specify which book is being referred to, nor does it provide additional context to clarify the scope of the book.\n4. The ambiguity lies in the speaker's intention and the scope of the book. Are they referring to a specific book they started reading, or are they referring to any book they want to read within the given time frame?\n\nThis ambiguity type is **Generic/Non-Generic Ambiguity** because the sentence can be interpreted as referring to a general category (type: \"books\") or a specific instance (token: \"the book\"). The sentence's structure and wording don't provide enough information to disambiguate the meaning, leaving the reader to infer the intended meaning.\n\nIn contrast, the other ambiguity types don't fit as well:\n\n* Lexical ambiguity: There are no words with multiple meanings in this sentence.\n* Syntactic ambiguity: The sentence structure is straightforward, with no ambiguity in the word order or phrase parsing.\n* Scopal ambiguity: There are no quantifiers or negations that could affect the scope of the sentence.\n* Elliptical ambiguity: There is no clear reference to a previous sentence that would create ambiguity.\n* Collective/Distributive ambiguity: The sentence doesn't refer to a plural expression that could be interpreted collectively or distributively.\n* Implicative ambiguity: The sentence doesn't imply anything that isn't explicitly stated.\n* Presuppositional ambiguity: There is no background assumption or presupposition that would create ambiguity.\n* Idiomatic ambiguity: The sentence doesn't contain any idioms or phrases that could be interpreted literally or figuratively.\n* Coreferential ambiguity: There is no pronoun or phrase that refers to multiple nouns.\n* Type/Token ambiguity: The sentence doesn't refer to a general category or a specific instance of a category.\n\nTherefore, I conclude that the sentence \"I would like to finish the book sometime this year\" exhibits **Generic/Non-Generic Ambiguity**."
+}
+
+{
+  "id": "131_c",
+  "premise": "I don\u2019t know if she is a US citizen or Green Card holder.",
+  "hypothesis": null,
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "llama3_category": "After analyzing the sentence, I classify it as **Coreferential Ambiguity** (Type 9). Here's my reasoning:\n\n1. The sentence contains a pronoun \"she\" that refers to a person.\n2. The pronoun \"she\" is ambiguous because it could refer to either a US citizen or a Green Card holder.\n3. The sentence does not provide enough context to disambiguate the reference, leaving the reader to wonder which specific person is being referred to.\n\nIn this case, the ambiguity arises from the uncertainty about which noun the pronoun \"she\" refers to. The sentence does not provide a clear connection between the pronoun and either the US citizen or the Green Card holder, leaving the reader to make an inference.\n\nOther types of ambiguity, such as lexical or syntactic, are not applicable in this case because the sentence does not contain multiple meanings for a word or a phrase, nor does it have multiple possible structures. The ambiguity is specific to the coreference between the pronoun and the nouns in the sentence.\n\nTherefore, I conclude that the sentence exhibits **Coreferential Ambiguity**, where the pronoun \"she\" is unclear in its reference to either a US citizen or a Green Card holder."
+}
+

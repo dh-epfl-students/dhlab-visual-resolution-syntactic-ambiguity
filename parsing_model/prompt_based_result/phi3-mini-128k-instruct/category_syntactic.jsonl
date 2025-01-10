@@ -1,0 +1,108 @@
+{
+  "id": "72_c",
+  "premise": "An enranged cow injured a farmer with an ax.",
+  "hypothesis": "The ax was used to injure the farmer.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "phi3_category": "The sentence \"An enranged cow injured a farmer with an ax\" exhibits **Syntactic Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's identify the potential ambiguous phrases in the sentence. The phrase \"with an ax\" is the most likely source of ambiguity.\n\n2. Now, let's consider the two possible interpretations of \"with an ax\":\n   a. The cow was enraged and injured the farmer using an ax.\n   b. The cow was enraged and the farmer, who was injured, was using an ax.\n\n3. In the first interpretation, \"with an ax\" modifies the verb \"injured,\" suggesting that the cow used the ax to injure the farmer.\n\n4. In the second interpretation, \"with an ax\" modifies the noun \"farmer,\" suggesting that the farmer was injured and was using an ax.\n\n5. The ambiguity arises from the structure of the sentence, which allows for both interpretations. The phrase \"with an ax\" can be parsed as either [with an ax] [injured] or [with an ax] [farmer].\n\n6. Therefore, the sentence exhibits **Syntactic Ambiguity**, as the structure of the sentence allows for multiple interpretations."
+}
+
+{
+  "id": "77_c",
+  "premise": "He sightread the piece with a lot of F naturals.",
+  "hypothesis": "The piece contains a lot of F naturals.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He sightread the piece that contains a lot of F naturals.', 'label': None}, {'hypothesis': 'The piece contains a lot of F naturals.', 'premise': 'He played a lot of F naturals when sightreading the piece.', 'label': None}]",
+  "phi3_category": "The sentence \"He sightread the piece with a lot of F naturals\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence contains the phrase \"with a lot of F naturals.\" This phrase can be interpreted in two different ways, leading to scopal ambiguity.\n\n2. One interpretation is that \"a lot of F naturals\" refers to the piece itself. In this case, the sentence means that the piece contains a lot of F naturals, which are likely to be flat notes in a musical context.\n\n3. The other interpretation is that \"a lot of F naturals\" refers to the sightreading process. In this case, the sentence means that the person sightread the piece with a lot of F naturals, implying that the person made a lot of mistakes while sightreading the piece.\n\n4. The ambiguity arises from the scope of the phrase \"with a lot of F naturals.\" It is unclear whether it modifies the piece or the sightreading process.\n\n5. Therefore, the sentence exhibits scopal ambiguity, as the scope of the phrase \"with a lot of F naturals\" can vary, leading to two different interpretations of the sentence."
+}
+
+{
+  "id": "73_c",
+  "premise": "The hospital is being sued by six foot doctors.",
+  "hypothesis": "Six doctors are suing the hospital.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by six podiatrists.', 'label': None}, {'hypothesis': 'Six doctors are suing the hospital.', 'premise': 'The hospital is being sued by doctors who are six feet tall.', 'label': None}]",
+  "phi3_category": "The sentence \"The hospital is being sued by six foot doctors\" exhibits **Coreferential Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's identify the ambiguous elements in the sentence. The ambiguity arises from the phrase \"six foot doctors.\"\n2. The phrase \"six foot doctors\" can be interpreted in two ways:\n   a. It could mean doctors who are six feet tall.\n   b. It could mean doctors who specialize in treating patients with six-foot height.\n3. In both interpretations, the phrase \"six foot doctors\" refers to a specific group of doctors, but the meaning of the phrase differs based on the context.\n4. The ambiguity lies in the coreference of the phrase \"six foot doctors\" to the subject \"the hospital.\"\n5. The sentence could be interpreted as:\n   a. The hospital is being sued by doctors who are six feet tall.\n   b. The hospital is being sued by doctors who specialize in treating patients with six-foot height.\n6. In both interpretations, the coreference between \"six foot doctors\" and \"the hospital\" is unclear, as it's not clear which doctors are being sued by the hospital.\n7. Therefore, the sentence exhibits **Coreferential Ambiguity**, as the coreference between \"six foot doctors\" and \"the hospital\" is unclear."
+}
+
+{
+  "id": "44_c",
+  "premise": "The professor said on Monday he would give an exam.",
+  "hypothesis": "The professor said the exam will be on Monday.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "neutral, entailment",
+  "disambiguations": "[{'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said on Monday that he would give an exam.', 'label': None}, {'hypothesis': 'The professor said the exam will be on Monday.', 'premise': 'The professor said that on Monday, he would give an exam.', 'label': None}]",
+  "phi3_category": "The sentence \"The professor said on Monday he would give an exam\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. Identify the ambiguous elements: The sentence contains the phrase \"he would give an exam.\"\n2. Determine the possible interpretations: There are two possible interpretations of the sentence:\n   a. The professor said on Monday that he (the professor) would give an exam.\n   b. The professor said on Monday that someone else (not specified) would give an exam.\n3. Analyze the scope of the pronoun \"he\": In the first interpretation, \"he\" clearly refers to the professor, and the scope of the pronoun is within the professor's statement. In the second interpretation, \"he\" could refer to someone else, and the scope of the pronoun is ambiguous.\n4. Conclusion: The sentence exhibits scopal ambiguity because the scope of the pronoun \"he\" can be interpreted in two different ways, leading to two distinct meanings."
+}
+
+{
+  "id": "16733_g",
+  "premise": "Even though he was failing, he refused to give up.",
+  "hypothesis": "He refused to give up because he was failing.",
+  "category": "syntactic",
+  "premise_ambiguous": false,
+  "hypothesis_ambiguous": true,
+  "labels": "entailment, contradiction",
+  "disambiguations": "[{'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up as a result of his failing.', 'label': 'entailment'}, {'premise': 'Even though he was failing, he refused to give up.', 'hypothesis': 'He refused to give up, because he was failing.', 'label': 'contradiction'}]",
+  "phi3_category": "The sentence \"Even though he was failing, he refused to give up.\" exhibits **Implicative Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. First, let's examine the sentence structure and meaning. The sentence states that despite his failing, the person in question did not give up.\n\n2. The implicative ambiguity arises from the phrase \"even though.\" This phrase introduces a contrasting situation, suggesting that the person's refusal to give up is surprising or unexpected given his failing.\n\n3. The ambiguity lies in the implied meaning of the sentence. It could be interpreted in two ways:\n\n   a. The person's refusal to give up is a positive and commendable action, despite his failing. This interpretation implies that the person is determined and resilient, even in the face of failure.\n\n   b. The person's refusal to give up is not necessarily a positive or commendable action, as it could lead to further failure or negative consequences. This interpretation implies that the person's refusal to give up is not a wise or effective decision, given his failing.\n\n4. The ambiguity arises because the sentence does not explicitly state which interpretation is correct. The reader or listener must infer the implied meaning based on their own understanding and context.\n\n5. Therefore, the sentence exhibits implicative ambiguity, as it implies something that is not explicitly stated and can be interpreted in different ways."
+}
+
+{
+  "id": "64_c",
+  "premise": "He always flaunts his mother's advice to follow his own dreams.",
+  "hypothesis": null,
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[{'hypothesis': None, 'premise': \"He always flaunts his mother's advice, in order to follow his own dreams instead.\", 'label': None}, {'hypothesis': None, 'premise': \"He always flaunts his mother's advice, which is to follow his own dreams.\", 'label': None}]",
+  "phi3_category": "The sentence \"He always flaunts his mother's advice to follow his own dreams\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence contains the phrase \"his mother's advice.\" This phrase introduces a potential ambiguity in the scope of the possessive pronoun \"his.\"\n2. The possessive pronoun \"his\" could refer to the advice belonging to the mother or the advice belonging to the subject of the sentence (the person flaunting the advice).\n3. This ambiguity arises because \"his\" could either modify \"mother's advice\" or \"own dreams.\"\n4. If \"his\" modifies \"mother's advice,\" it means that the advice belongs to the mother, and the subject flaunts the mother's advice.\n5. If \"his\" modifies \"own dreams,\" it means that the subject flaunts his own advice to follow his own dreams.\n6. The ambiguity lies in determining the scope of the possessive pronoun \"his\" and whether it refers to the mother's advice or the subject's own advice.\n7. This ambiguity is a **Scopal Ambiguity** because the scope of the possessive pronoun \"his\" can vary, leading to multiple interpretations of the sentence."
+}
+
+{
+  "id": "18_c",
+  "premise": "This seminar is full now, but interesting seminars are being offered next quarter too.",
+  "hypothesis": "There will be more interesting seminars next quarter.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[]",
+  "phi3_category": "The sentence \"This seminar is full now, but interesting seminars are being offered next quarter too.\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence contains two clauses connected by the conjunction 'but.'\n2. In the first clause, \"This seminar is full now,\" the scope of the adjective 'full' is clear. It refers to the current state of the seminar.\n3. In the second clause, \"interesting seminars are being offered next quarter too,\" there is ambiguity in the scope of the adjective 'interesting' and the phrase 'next quarter too.'\n4. The adjective 'interesting' could be interpreted as modifying 'seminars' in general, implying that the seminars being offered next quarter are interesting. This interpretation would be a **Generic/Non-Generic Ambiguity**.\n5. However, the phrase 'next quarter too' could also be interpreted as modifying 'interesting seminars,' implying that the interesting seminars are being offered next quarter too. This interpretation would be a **Scopal Ambiguity**.\n6. The ambiguity arises from the scope of the adjective 'interesting' and the phrase 'next quarter too.' It's unclear whether 'interesting' applies to all seminars being offered next quarter or only to the interesting seminars.\n7. Therefore, the sentence exhibits **Scopal Ambiguity**."
+}
+
+{
+  "id": "93_c",
+  "premise": "I would like to finish the book sometime this year.",
+  "hypothesis": "I am writing a book.",
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "phi3_category": "The sentence \"I would like to finish the book sometime this year\" exhibits **Temporal Ambiguity**, which is not explicitly listed among the provided ambiguity types. However, it can be closely related to **Scopal Ambiguity**, as the scope of the phrase \"sometime this year\" can be interpreted in different ways.\n\nHere's the step-by-step analysis:\n\n1. The sentence expresses a desire to complete reading a book within a certain timeframe.\n2. The phrase \"sometime this year\" is ambiguous because it doesn't specify exactly when within the year the speaker intends to finish the book.\n3. This ambiguity arises from the scope of the phrase \"sometime this year.\" It could mean:\n   a. The speaker intends to finish the book at some point during the year, but the exact time is not specified.\n   b. The speaker intends to finish the book at some specific time during the year, but the exact time is not mentioned.\n\nIn this case, the ambiguity is related to the temporal scope of the phrase \"sometime this year.\" The sentence doesn't fit perfectly into any of the provided ambiguity types, but it shares similarities with **Scopal Ambiguity**, as the scope of the phrase can lead to different interpretations."
+}
+
+{
+  "id": "131_c",
+  "premise": "I don\u2019t know if she is a US citizen or Green Card holder.",
+  "hypothesis": null,
+  "category": "syntactic",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "phi3_category": "The sentence \"I don\u2019t know if she is a US citizen or Green Card holder\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence presents two options for the subject's status: being a US citizen or being a Green Card holder.\n2. The ambiguity arises from the scope of the conjunction \"or.\" It's unclear whether the speaker is unsure about the subject's status as a US citizen or as a Green Card holder, or if the speaker is unsure about the subject's status as either a US citizen or a Green Card holder.\n3. In the first interpretation, the speaker is uncertain about the subject's US citizenship status but is certain about the subject's Green Card status. In the second interpretation, the speaker is uncertain about both the subject's US citizenship status and Green Card status.\n4. The ambiguity lies in the scope of the conjunction \"or,\" which can be interpreted as either disjunctive (meaning the speaker is uncertain about one status or the other) or inclusive (meaning the speaker is uncertain about both statuses).\n5. Therefore, the sentence exhibits scopal ambiguity, as the scope of the conjunction \"or\" can be interpreted in two different ways, leading to two different possible meanings."
+}
+

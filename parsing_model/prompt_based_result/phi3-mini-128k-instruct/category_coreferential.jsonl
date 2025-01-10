@@ -1,0 +1,36 @@
+{
+  "id": "78003_g",
+  "premise": "I have to complete this report by 5 p.m.",
+  "hypothesis": "It is 5 p.m.",
+  "category": "coreferential",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "contradiction, neutral",
+  "disambiguations": "[{'premise': 'I have to complete this report by 5 p.m. today.', 'hypothesis': 'It is 5 p.m.', 'label': 'contradiction'}, {'premise': \"I have to complete this report by 5 p.m. on the day that it's due\", 'hypothesis': 'It is 5 p.m.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"I have to complete this report by 5 p.m.\" does not exhibit any of the ambiguities listed above. It is a clear and straightforward statement with a specific deadline for completing a task. There is no lexical ambiguity, as the words used have clear meanings. There is no syntactic ambiguity, as the sentence structure is straightforward and unambiguous. There is no scopal ambiguity, as the quantifiers and negations are not present. There is no elliptical ambiguity, as the sentence is complete and does not omit any necessary information. There is no collective/distributive ambiguity, as the sentence does not involve a plural expression that could refer to individuals or a group. There is no implicative ambiguity, as the sentence does not imply anything that is not explicitly stated. There is no presuppositional ambiguity, as the sentence does not contain any background assumptions or presuppositions. There is no idiomatic ambiguity, as the sentence does not contain any idiomatic expressions. There is no coreferential ambiguity, as there are no pronouns or phrases that could refer to multiple nouns. There is no generic/non-generic ambiguity, as the sentence does not refer to a general category or a specific instance. There is no type/token ambiguity, as the sentence does not involve any terms that could refer to a general category or a specific instance.\n\nIn conclusion, the sentence \"I have to complete this report by 5 p.m.\" is not ambiguous and does not fit any of the ambiguity types listed above. It is a clear and straightforward statement with a specific deadline for completing a task."
+}
+
+{
+  "id": "81_c",
+  "premise": "Calvin will honor his father and Otto will too.",
+  "hypothesis": null,
+  "category": "coreferential",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": null,
+  "disambiguations": "[]",
+  "phi3_category": "The sentence \"Calvin will honor his father and Otto will too\" exhibits **Coreferential Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence contains two clauses: \"Calvin will honor his father\" and \"Otto will too.\"\n2. The pronoun \"too\" in the second clause is intended to refer back to the action in the first clause.\n3. However, it's unclear whether \"too\" refers to the same action of honoring his father or a different action.\n4. The ambiguity arises because \"too\" could be interpreted as referring to the same action of honoring his father (Calvin will honor his father, and Otto will honor his father too) or a different action (Calvin will honor his father, and Otto will do something else too).\n5. This ambiguity is due to the unclear reference of the pronoun \"too,\" which could refer to either the same action or a different action, making it a case of coreferential ambiguity."
+}
+
+{
+  "id": "69709_g",
+  "premise": "The new hospital is close to the interstate, making it easy for patients to get there.",
+  "hypothesis": "It is easy to get to the new hospital.",
+  "category": "coreferential",
+  "premise_ambiguous": true,
+  "hypothesis_ambiguous": false,
+  "labels": "entailment, neutral",
+  "disambiguations": "[{'premise': 'The new hospital is close to the interstate, making it easy for patients to get to the hospital.', 'hypothesis': 'It is easy to get to the new hospital.', 'label': 'entailment'}, {'premise': 'The new hospital is close to the interstate, making it easy for patients to get to the interstate.', 'hypothesis': 'It is easy to get to the new hospital.', 'label': 'neutral'}]",
+  "phi3_category": "The sentence \"The new hospital is close to the interstate, making it easy for patients to get there.\" exhibits **Scopal Ambiguity**.\n\nHere's the step-by-step reasoning:\n\n1. The sentence is structurally clear and does not contain any ambiguous words or phrases that could lead to lexical ambiguity.\n2. There is no syntactic ambiguity as the sentence structure is straightforward and does not allow for multiple interpretations.\n3. The sentence contains a potential scopal ambiguity in the phrase \"making it easy for patients to get there.\" The ambiguity arises from the scope of the word \"there.\"\n4. The word \"there\" could refer to the location of the new hospital or the location of the interstate.\n5. If \"there\" refers to the location of the new hospital, it means that the proximity of the hospital to the interstate makes it easy for patients to reach the hospital.\n6. If \"there\" refers to the location of the interstate, it means that the proximity of the interstate to the new hospital makes it easy for patients to reach the interstate.\n7. The ambiguity lies in the scope of the word \"there,\" which can be interpreted in two different ways, leading to different understandings of the sentence.\n\nTherefore, the sentence exhibits scopal ambiguity due to the unclear scope of the word \"there.\""
+}
+

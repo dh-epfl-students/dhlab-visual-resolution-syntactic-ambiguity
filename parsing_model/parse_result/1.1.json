@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "this seminar is full now, but interesting seminars are being offered next quarter too",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            },
+            {
+                "structure": "(S (NP (DT this) (NN seminar)) (VP (VBZ is) (ADJP (JJ full))) (NN now,) (CC but) (NP (JJ interesting) (NNS seminars)) (VP (VBP are) (VP (VBG being) (VP (VBN offered) (NP (JJ next) (NN quarter))))) (RB too))",
+                "score": 12.366388320922852
+            }
+        ],
+        "scores": [
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852,
+            12.366388320922852
+        ]
+    }
+]

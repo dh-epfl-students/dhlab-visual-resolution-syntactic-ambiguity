@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "he sightread the piece with a lot of F naturals",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 12.030311584472656
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 12.030311584472656
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 12.030311584472656
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 12.030311584472656
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 12.030311584472656
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.760736465454102
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.748420715332031
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))))",
+                "score": 11.686344146728516
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))))",
+                "score": 11.686344146728516
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.478846549987793
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))))",
+                "score": 11.432228088378906
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.416770935058594
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.416770935058594
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.416770935058594
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.416770935058594
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.416770935058594
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.40445327758789
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.40445327758789
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.40445327758789
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VP (VBD sightread) (NP (DT the) (NN piece)) (PP (IN with) (NP (NP (DT a) (NN lot)) (IN of) (NP (NNP F) (NNS naturals))))))",
+                "score": 11.40445327758789
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            },
+            {
+                "structure": "(S (NP (PRP he)) (VBD sightread) (NP (DT the) (NN piece)) (IN with) (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals))))",
+                "score": 11.162652969360352
+            }
+        ],
+        "scores": [
+            12.030311584472656,
+            12.030311584472656,
+            12.030311584472656,
+            12.030311584472656,
+            12.030311584472656,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.760736465454102,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.748420715332031,
+            11.686344146728516,
+            11.686344146728516,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.478846549987793,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.432228088378906,
+            11.416770935058594,
+            11.416770935058594,
+            11.416770935058594,
+            11.416770935058594,
+            11.416770935058594,
+            11.40445327758789,
+            11.40445327758789,
+            11.40445327758789,
+            11.40445327758789,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352,
+            11.162652969360352
+        ]
+    }
+]

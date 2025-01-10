@@ -1,0 +1,575 @@
+[
+    {
+        "sentence": "the professor said on Monday he would give an exam on Friday",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 28.573152542114258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 28.573152542114258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 28.573152542114258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 28.573152542114258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 28.037017822265625
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 28.037017822265625
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.668611526489258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.668611526489258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.668611526489258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.668611526489258
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))",
+                "score": 27.47028923034668
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.334716796875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.334716796875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PRN (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.32784080505371
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PRN (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.32784080505371
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (VP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.255983352661133
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (VP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.255983352661133
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (RRC (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.197200775146484
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (RRC (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.197200775146484
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.14846420288086
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.14846420288086
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.132476806640625
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.132476806640625
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NX (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.126680374145508
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NX (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.126680374145508
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NX (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.126680374145508
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NX (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.126680374145508
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (S (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.123735427856445
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (S (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.123735427856445
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (S (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.123735427856445
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (S (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.123735427856445
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.101957321166992
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.101957321166992
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (ADVP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.097991943359375
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (ADVP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.097991943359375
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (SBAR (VBD said) (PP (IN on) (NP (NNP Monday)))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.091291427612305
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (SBAR (VBD said) (PP (IN on) (NP (NNP Monday)))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.091291427612305
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.073421478271484
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.073421478271484
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (PRN (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.060834884643555
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (PRN (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.060834884643555
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (PRN (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.060834884643555
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (PRN (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.060834884643555
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (X (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.046506881713867
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (X (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.046506881713867
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (S (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.03846549987793
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (S (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.03846549987793
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (X (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.037866592407227
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (X (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.037866592407227
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (X (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.03254508972168
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (X (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.03254508972168
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (S (IN on)) (NP (NNP Friday))))))))",
+                "score": 27.026601791381836
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (S (IN on)) (NP (NNP Friday))))))))",
+                "score": 27.026601791381836
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (S (IN on)) (NP (NNP Friday))))))))",
+                "score": 27.026601791381836
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (S (IN on)) (NP (NNP Friday))))))))",
+                "score": 27.026601791381836
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (FRAG (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.017763137817383
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (FRAG (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.017763137817383
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.012313842773438
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 27.012313842773438
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VP (VB give)) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.010133743286133
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VP (VB give)) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.010133743286133
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VP (VB give)) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.010133743286133
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VP (VB give)) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 27.010133743286133
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (VP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.998273849487305
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (VP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.998273849487305
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (NP (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.992284774780273
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (NP (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.992284774780273
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (NP (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.992284774780273
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (NP (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.992284774780273
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.99148941040039
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.99148941040039
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.972959518432617
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.972959518432617
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (VP (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.972105026245117
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (VP (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.972105026245117
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (PP (VBD said) (PP (IN on) (NP (NNP Monday)))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.96546745300293
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (PP (VBD said) (PP (IN on) (NP (NNP Monday)))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.96546745300293
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SQ (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.9632625579834
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SQ (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.9632625579834
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (NP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.954782485961914
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (NP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.954782485961914
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.934154510498047
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.934154510498047
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.934154510498047
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (SBAR (PP (IN on) (NP (NNP Monday))) (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.934154510498047
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.933847427368164
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.933847427368164
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (FRAG (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.917264938354492
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (FRAG (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.917264938354492
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (FRAG (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.917264938354492
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (FRAG (IN on)) (NP (NNP Friday))))))))",
+                "score": 26.917264938354492
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.915067672729492
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (FRAG (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.915067672729492
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NP (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911935806274414
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NP (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911935806274414
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NP (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911935806274414
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (NP (MD would)) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911935806274414
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (ADVP (IN on)) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911022186279297
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (ADVP (IN on)) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911022186279297
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (ADVP (IN on)) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911022186279297
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (PP (ADVP (IN on)) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday))))))))",
+                "score": 26.911022186279297
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (S (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.9031982421875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (S (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.9031982421875
+            },
+            {
+                "structure": "(S (NP (DT the) (NN professor)) (VP (VBD said) (S (PP (IN on) (NP (NNP Monday))) (SBAR (NP (PRP he)) (VP (MD would) (VP (VB give) (NP (DT an) (NN exam)) (PP (IN on) (NP (NNP Friday)))))))))",
+                "score": 26.899473190307617
+            }
+        ],
+        "scores": [
+            28.573152542114258,
+            28.573152542114258,
+            28.573152542114258,
+            28.573152542114258,
+            28.037017822265625,
+            28.037017822265625,
+            27.668611526489258,
+            27.668611526489258,
+            27.668611526489258,
+            27.668611526489258,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.47028923034668,
+            27.334716796875,
+            27.334716796875,
+            27.32784080505371,
+            27.32784080505371,
+            27.255983352661133,
+            27.255983352661133,
+            27.197200775146484,
+            27.197200775146484,
+            27.14846420288086,
+            27.14846420288086,
+            27.132476806640625,
+            27.132476806640625,
+            27.126680374145508,
+            27.126680374145508,
+            27.126680374145508,
+            27.126680374145508,
+            27.123735427856445,
+            27.123735427856445,
+            27.123735427856445,
+            27.123735427856445,
+            27.101957321166992,
+            27.101957321166992,
+            27.097991943359375,
+            27.097991943359375,
+            27.091291427612305,
+            27.091291427612305,
+            27.073421478271484,
+            27.073421478271484,
+            27.060834884643555,
+            27.060834884643555,
+            27.060834884643555,
+            27.060834884643555,
+            27.046506881713867,
+            27.046506881713867,
+            27.03846549987793,
+            27.03846549987793,
+            27.037866592407227,
+            27.037866592407227,
+            27.03254508972168,
+            27.03254508972168,
+            27.026601791381836,
+            27.026601791381836,
+            27.026601791381836,
+            27.026601791381836,
+            27.017763137817383,
+            27.017763137817383,
+            27.012313842773438,
+            27.012313842773438,
+            27.010133743286133,
+            27.010133743286133,
+            27.010133743286133,
+            27.010133743286133,
+            26.998273849487305,
+            26.998273849487305,
+            26.992284774780273,
+            26.992284774780273,
+            26.992284774780273,
+            26.992284774780273,
+            26.99148941040039,
+            26.99148941040039,
+            26.972959518432617,
+            26.972959518432617,
+            26.972105026245117,
+            26.972105026245117,
+            26.96546745300293,
+            26.96546745300293,
+            26.9632625579834,
+            26.9632625579834,
+            26.954782485961914,
+            26.954782485961914,
+            26.934154510498047,
+            26.934154510498047,
+            26.934154510498047,
+            26.934154510498047,
+            26.933847427368164,
+            26.933847427368164,
+            26.917264938354492,
+            26.917264938354492,
+            26.917264938354492,
+            26.917264938354492,
+            26.915067672729492,
+            26.915067672729492,
+            26.911935806274414,
+            26.911935806274414,
+            26.911935806274414,
+            26.911935806274414,
+            26.911022186279297,
+            26.911022186279297,
+            26.911022186279297,
+            26.911022186279297,
+            26.9031982421875,
+            26.9031982421875,
+            26.899473190307617
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+numpy==1.16.4 
+# numpy==1.19
+tensorflow==1.15
+# pytorch==1.1.0
+tqdm==4.32.1
+cython==0.29.14
+benepar[cpu]==0.1.2
+nltk==3.4.5

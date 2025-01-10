@@ -1,0 +1,1148 @@
+[
+    {
+        "sentence": "He sight-read the piece, and the music itself contained many F naturals",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VBD sight-read) (DT the) (NN piece,) (CC and) (NP (NP (DT the) (NN music)) (NP (PRP itself))) (VBD contained) (JJ many) (NN F) (NNS naturals))",
+                "score": 12.74665641784668
+            }
+        ],
+        "scores": [
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668,
+            12.74665641784668
+        ]
+    },
+    {
+        "sentence": "He sight-read the piece but mistakenly played a lot of F naturals instead of the correct notes",
+        "num_trees": 113,
+        "trees": [
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))))",
+                "score": 26.9804744720459
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878870010375977
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (PP (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.878868103027344
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes))))))",
+                "score": 26.597654342651367
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            },
+            {
+                "structure": "(S (NP (PRP He)) (VP (VBD sight-read) (NP (DT the) (NN piece))) (CC but) (VP (ADVP (RB mistakenly)) (VBD played) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP F) (NNS naturals)))) (RB instead) (IN of) (NP (DT the) (JJ correct) (NNS notes)))))",
+                "score": 26.496047973632812
+            }
+        ],
+        "scores": [
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.9804744720459,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878870010375977,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.878868103027344,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.597654342651367,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812,
+            26.496047973632812
+        ]
+    }
+]
