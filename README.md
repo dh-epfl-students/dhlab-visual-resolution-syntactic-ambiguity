@@ -1,5 +1,6 @@
 # dhlab-visual-resolution-syntactic-ambiguity
 Semester Project Autumn 2024-2025 - A Visual Resolution for Syntactic Ambiguity
+
 Check project report [here](https://drive.google.com/file/d/1C2yq50rzg57ySqVjTbcRo6fuT-6J8J40/view?usp=sharing).
 
 ## Project Structure
